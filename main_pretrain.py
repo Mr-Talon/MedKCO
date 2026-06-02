@@ -2,9 +2,9 @@ import argparse
 import torch
 import os
 
-from medkco.pretraining.data.transforms import augmentations_pretraining
+from medkco.pretraining.data.transforms import augmentations_pretraining_CFPOCT, augmentations_pretraining_CXR
 from medkco.pretraining.data.dataloader import get_loader
-from medkco.modeling.model import KeepFITModel
+from medkco.modeling.model import MedKCOModel
 from medkco.modeling.misc import set_seeds
 
 from local_data.constants import *
@@ -20,31 +20,34 @@ def process(args):
     seed = 42
     set_seeds(seed, use_cuda=True)
 
-    image_size, caption, norm_features = None, None, None
+    image_size, caption, norm_features, augmentations_pretraining = None, None, None, None
     if args.modality == "CXR":
-        image_size = 256
+        image_size = 224
         norm_features = False
         caption = ""
+        augmentations_pretraining = augmentations_pretraining_CXR
     elif args.modality == "OCT":
         image_size = 512
         caption = "A [ATR] Optical coherence tomography(OCT) photograph of [CLS]"
         norm_features = True
+        augmentations_pretraining = augmentations_pretraining_CFPOCT
     elif args.modality == "CFP":
         image_size = 512
         caption = "A [ATR] fundus photograph of [CLS]"
         norm_features = True
+        augmentations_pretraining = augmentations_pretraining_CFPOCT
 
     # Create dataloader
     dataloaders = get_loader(dataframes_path=args.dataframes_path, data_root_path=args.data_root_path,
                              datasets=args.datasets, balance=args.balance, batch_size=args.batch_size,
                              num_workers=args.num_workers, banned_categories=args.banned_categories,
-                             caption=args.caption, augment_description=args.augment_description,
-                             test_code=args.test_code, SPCL=args.SPCL)
+                             caption=caption, augment_description=args.augment_description,
+                             test_code=args.test_code, SPCL=args.SPCL, modality=args.modality)
 
     # define model
-    model = KeepFITModel(vision_type=args.architecture, out_path=args.out_path, from_checkpoint=args.load_weights, vision_pretrained=True,
+    model = MedKCOModel(vision_type=args.architecture, out_path=args.out_path, from_checkpoint=args.load_weights, vision_pretrained=True,
                          weights_path=args.weights_path, test_code=args.test_code, image_size=image_size, norm_features=norm_features,
-                         caption = caption)
+                         caption = caption, modality=args.modality, bert_type=args.bert)
     model.to(device)
     if not args.test_code:
         model = torch.nn.parallel.DistributedDataParallel(model, device_ids=[args.local_rank], output_device=args.local_rank,
@@ -81,31 +84,31 @@ def main():
     # parser.add_argument('--datasets', default=['CheXpert-v1.0', 'mimic-cxr'])
     parser.add_argument('--banned_categories', default=['myopia', 'cataract', 'retinitis pigmentosa',
                                                         "myopic", "myope", "myop", "retinitis", "macular hole"], help="oct without: macular hole")  # TODO oct without: macular hole
-    parser.add_argument('--out_path', default=PATH_RESULTS_PRETRAIN+"cvprrebuttal/", help='output path')
+    parser.add_argument('--out_path', default=PATH_RESULTS_PRETRAIN+"MedKCO_CFP/", help='output path') # TODO
     parser.add_argument('--augment_description', default=True, type=lambda x: (str(x).lower() == 'true'))
     parser.add_argument('--balance', default=False, type=lambda x: (str(x).lower() == 'true'))
 
     # model architecture
     parser.add_argument('--architecture', default='resnet_v2', help='')
+    parser.add_argument('--bert', default='./Bio_ClinicalBERT', help='./Bio_ClinicalBERT')                               # TODO download
 
-    # 训练超参数  Training hyperparameter
+    # Training hyperparameter
     parser.add_argument('--epochs', default=25, type=int)
-    parser.add_argument('--batch_size', default=48, type=int)
-    parser.add_argument('--lr', default=1e-4, type=float, help='Learning rate')                        # CXR 5e-5   CFP/OCT 1e-4
-    parser.add_argument('--weight_decay', default=1e-5, help='Weight Decay')                           # CXR 1e-4   CFP/OCT 1e-5
+    parser.add_argument('--batch_size', default=48, type=int)                                          # TODO CXR 128    CFP/OCT 48
+    parser.add_argument('--lr', default=1e-4, type=float, help='Learning rate')                        # TODO CXR 5e-5   CFP/OCT 1e-4
+    parser.add_argument('--weight_decay', default=1e-5, help='Weight Decay')                           # TODO CXR 1e-4   CFP/OCT 1e-5
     parser.add_argument('--scheduler', default=True, type=lambda x: (str(x).lower() == 'true'))
     parser.add_argument('--warmup_epoch', default=1, type=int, help='number of warmup epochs')
-    parser.add_argument('--weights_path', default='./results/pretraining/')
+    parser.add_argument('--weights_path', default='')
     parser.add_argument('--load_weights', default=False, type=lambda x: (str(x).lower() == 'true'))
 
-    # Device
     parser.add_argument('--store_num', default=1, type=int)
     parser.add_argument('--num_workers', default=16, type=int, help='workers number for DataLoader')
     parser.add_argument("--local_rank", type=int, default=-1)
     parser.add_argument('--test_code', default=True, type=lambda x: (str(x).lower() == 'true'), help="1 gpu/test")
 
     # SPCL curriculum learning
-    parser.add_argument('--SPCL', default=True, type=lambda x: (str(x).lower() == 'true'))
+    parser.add_argument('--SPCL', default=True, type=lambda x: (str(x).lower() == 'true'))             # TODO
 
     args, unknown = parser.parse_known_args()
     process(args=args)

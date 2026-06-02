@@ -1,0 +1,398 @@
+,Unnamed: 0,image,atributes,categories,stage,img_norm_r
+0,0,11_STARE/all-images/documents/im0001.ppm,[],['background diabetic retinopathy'],3,0.3495709
+1,1,11_STARE/all-images/documents/im0002.ppm,[],"['choroidal neovascularization', 'arteriosclerotic retinopathy']",2,0.5466654
+2,2,11_STARE/all-images/documents/im0003.ppm,[],"['drusen, large', 'geographic atrophy rpe']",2,0.5029494
+3,3,11_STARE/all-images/documents/im0004.ppm,[],"['cilio-retinal artery occlusion', 'central retinal artery occlusion']",3,0.46371254
+4,4,11_STARE/all-images/documents/im0005.ppm,[],"['central retinal artery occlusion', 'central retinal vein occlusion']",2,0.72072047
+5,5,11_STARE/all-images/documents/im0006.ppm,[],['drusen'],3,0.35286242
+6,6,11_STARE/all-images/documents/im0007.ppm,[],"['choroidal neovascularization', 'age related macular degeneration', 'asr &htr']",3,0.46657878
+7,7,11_STARE/all-images/documents/im0008.ppm,[],"['choroidal neovascularization', 'age related macular degeneration', 'asr']",2,0.664556
+8,8,11_STARE/all-images/documents/im0009.ppm,[],['background diabetic retinopathy'],3,0.38095456
+9,9,11_STARE/all-images/documents/im0010.ppm,[],['histoplasmosis'],3,0.44511002
+10,10,11_STARE/all-images/documents/im0011.ppm,[],"['choroidal neovascularization', 'histoplasmosis']",3,0.26344457
+11,11,11_STARE/all-images/documents/im0012.ppm,[],['drusen'],3,0.3659642
+12,12,11_STARE/all-images/documents/im0013.ppm,[],['background diabetic retinopathy'],3,0.3486001
+13,13,11_STARE/all-images/documents/im0014.ppm,[],['nevus'],3,0.2555554
+14,14,11_STARE/all-images/documents/im0015.ppm,[],['drusen'],3,0.35502672
+15,15,11_STARE/all-images/documents/im0016.ppm,[],['background diabetic retinopathy'],3,0.30886975
+16,16,11_STARE/all-images/documents/im0017.ppm,[],['choroidal neovascularization'],2,0.62872183
+17,17,11_STARE/all-images/documents/im0018.ppm,[],"['central retinal vein occlusion, compensated']",2,0.67934376
+18,18,11_STARE/all-images/documents/im0019.ppm,[],['central retinal vein occlusion'],1,0.895729
+19,19,11_STARE/all-images/documents/im0020.ppm,[],"['central retinal artery occlusion', 'central retinal vein occlusion']",2,0.72514486
+20,20,11_STARE/all-images/documents/im0021.ppm,[],['central retinal vein occlusion'],3,0.37256154
+21,21,11_STARE/all-images/documents/im0022.ppm,[],['arteriosclerotic retinopathy'],1,0.87897956
+22,22,11_STARE/all-images/documents/im0023.ppm,[],[''],3,0.46839496
+23,23,11_STARE/all-images/documents/im0024.ppm,[],['epiretinal membrane'],2,0.56637126
+24,24,11_STARE/all-images/documents/im0025.ppm,[],"['central retinal vein occlusion', 'arteriosclerotic retinopathy']",2,0.60687447
+25,25,11_STARE/all-images/documents/im0026.ppm,[],['central retinal vein occlusion'],2,0.50213206
+26,26,11_STARE/all-images/documents/im0027.ppm,[],['central retinal vein occlusion'],3,0.35920978
+27,27,11_STARE/all-images/documents/im0028.ppm,[],"['hemi-central retinal vein occlusion', 'arteriosclerotic retinopathy']",2,0.5360504
+28,28,11_STARE/all-images/documents/im0029.ppm,[],['unknown diagnosis'],3,0.32564974
+29,29,11_STARE/all-images/documents/im0030.ppm,[],['normal'],3,0.31070217
+30,30,11_STARE/all-images/documents/im0031.ppm,[],['background diabetic retinopathy'],2,0.5307675
+31,31,11_STARE/all-images/documents/im0032.ppm,[],['normal'],3,0.47584257
+32,32,11_STARE/all-images/documents/im0033.ppm,[],['central retinal vein occlusion'],3,0.4996668
+33,33,11_STARE/all-images/documents/im0034.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.65306336
+34,34,11_STARE/all-images/documents/im0035.ppm,[],['normal'],3,0.31981137
+35,35,11_STARE/all-images/documents/im0036.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.5068008
+36,36,11_STARE/all-images/documents/im0037.ppm,[],"['choroidal neovascularization', 'age related macular degeneration', 'htr']",3,0.304886
+37,37,11_STARE/all-images/documents/im0038.ppm,[],"['background diabetic retinopathy', 'hypertensive retinopathy']",2,0.5556808
+38,38,11_STARE/all-images/documents/im0039.ppm,[],"['drusen, fine']",3,0.42913428
+39,39,11_STARE/all-images/documents/im0040.ppm,[],"['background diabetic retinopathy', 'human immune deficiency virus']",3,0.4932531
+40,40,11_STARE/all-images/documents/im0041.ppm,[],"['drusen, fine']",3,0.4096681
+41,41,11_STARE/all-images/documents/im0042.ppm,[],"['retinitis, disease', 'toxoplasmosis']",3,0.3943222
+42,42,11_STARE/all-images/documents/im0043.ppm,[],"['retinitis, disease']",1,0.76047796
+43,43,11_STARE/all-images/documents/im0044.ppm,[],"['retinitis, disease']",3,0.35593852
+44,44,11_STARE/all-images/documents/im0045.ppm,[],"['choroidal neovascularization', 'age related macular degeneration', 'asr']",3,0.4011999
+45,45,11_STARE/all-images/documents/im0046.ppm,[],['drusen'],3,0.32579446
+46,46,11_STARE/all-images/documents/im0048.ppm,[],['hypertensive retinopathy'],3,0.3758045
+47,47,11_STARE/all-images/documents/im0049.ppm,[],"[""coats', not isolated telangiectasia""]",1,0.8013523
+48,48,11_STARE/all-images/documents/im0050.ppm,[],['background diabetic retinopathy'],3,0.28806454
+49,49,11_STARE/all-images/documents/im0051.ppm,[],['background diabetic retinopathy'],3,0.294808
+50,50,11_STARE/all-images/documents/im0052.ppm,[],"[""coats', not isolated telangiectasia""]",3,0.40790337
+51,51,11_STARE/all-images/documents/im0053.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",3,0.47545323
+52,52,11_STARE/all-images/documents/im0054.ppm,[],"['choroidal neovascularization', 'histoplasmosis']",2,0.5229504
+53,53,11_STARE/all-images/documents/im0055.ppm,[],['choroidal melanoma'],4,0.22099213
+54,54,11_STARE/all-images/documents/im0056.ppm,[],['drusen'],3,0.31817052
+55,55,11_STARE/all-images/documents/im0057.ppm,[],"['hypertensive retinopathy', 'background diabetic retinopathy']",3,0.4486986
+56,56,11_STARE/all-images/documents/im0058.ppm,[],['background diabetic retinopathy'],3,0.33549684
+57,57,11_STARE/all-images/documents/im0059.ppm,[],"['background diabetic retinopathy', 'human immune deficiency virus']",2,0.57798296
+58,58,11_STARE/all-images/documents/im0060.ppm,[],['background diabetic retinopathy'],2,0.53989047
+59,59,11_STARE/all-images/documents/im0061.ppm,[],"['choroidal neovascularization', 'age related macular degeneration', 'htr']",2,0.58120674
+60,60,11_STARE/all-images/documents/im0062.ppm,[],"['choroidal neovascularization', 'age related macular degeneration', 'asr']",3,0.45126444
+61,61,11_STARE/all-images/documents/im0063.ppm,[],['drusen'],3,0.34297714
+62,62,11_STARE/all-images/documents/im0064.ppm,[],"['macroaneurism', 'hypertensive retinopathy', 'arteriosclerotic retinopathy']",2,0.50578487
+63,63,11_STARE/all-images/documents/im0065.ppm,[],"['hypertensive retinopathy', 'background diabetic retinopathy']",3,0.37509438
+64,64,11_STARE/all-images/documents/im0066.ppm,[],['drusen'],3,0.29367357
+65,65,11_STARE/all-images/documents/im0067.ppm,[],"['retinitis, disease']",3,0.3255827
+66,66,11_STARE/all-images/documents/im0068.ppm,[],['drusen'],3,0.25641164
+67,67,11_STARE/all-images/documents/im0069.ppm,[],['background diabetic retinopathy'],3,0.4743913
+68,68,11_STARE/all-images/documents/im0070.ppm,[],['background diabetic retinopathy'],1,1.0
+69,69,11_STARE/all-images/documents/im0071.ppm,[],['myelinated nerve fibers'],3,0.42374855
+70,70,11_STARE/all-images/documents/im0072.ppm,[],"['unknown diagnosis, poor quality']",2,0.581918
+71,71,11_STARE/all-images/documents/im0073.ppm,[],"['hypertensive retinopathy', 'arteriosclerotic retinopathy']",2,0.5043984
+72,72,11_STARE/all-images/documents/im0074.ppm,[],['central retinal vein occlusion'],3,0.43649384
+73,73,11_STARE/all-images/documents/im0075.ppm,[],['hypertensive retinopathy'],2,0.5175445
+74,74,11_STARE/all-images/documents/im0076.ppm,[],['normal'],4,0.21545342
+75,75,11_STARE/all-images/documents/im0077.ppm,[],"['normal', 'hypertensive retinopathy [v: how could it be]']",4,0.24589714
+76,76,11_STARE/all-images/documents/im0078.ppm,[],['optic nerve atrophy'],3,0.4416046
+77,77,11_STARE/all-images/documents/im0079.ppm,[],"['unknown diagnosis, unannotated']",3,0.34231648
+78,78,11_STARE/all-images/documents/im0080.ppm,[],"['normal, possibly fine drusen']",2,0.530423
+79,79,11_STARE/all-images/documents/im0081.ppm,[],['normal'],3,0.31676745
+80,80,11_STARE/all-images/documents/im0082.ppm,[],['normal'],4,0.24987605
+81,81,11_STARE/all-images/documents/im0083.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",3,0.44279853
+82,82,11_STARE/all-images/documents/im0084.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",3,0.30624628
+83,83,11_STARE/all-images/documents/im0085.ppm,[],['proliferative diabetic retinopathy'],4,0.22361493
+84,84,11_STARE/all-images/documents/im0086.ppm,[],['stellate maculopathy'],2,0.5300996
+85,85,11_STARE/all-images/documents/im0087.ppm,[],['proliferative diabetic retinopathy'],3,0.32916015
+86,86,11_STARE/all-images/documents/im0088.ppm,[],"['retinitis, disease']",3,0.33531076
+87,87,11_STARE/all-images/documents/im0089.ppm,[],"['background diabetic retinopathy', 'hypertensive retinopathy']",3,0.2705485
+88,88,11_STARE/all-images/documents/im0090.ppm,[],['hypertensive retinopathy'],3,0.3716995
+89,89,11_STARE/all-images/documents/im0091.ppm,[],"['choroidal neovascularization', 'age related macular degeneration', 'rped']",3,0.32865718
+90,90,11_STARE/all-images/documents/im0092.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",3,0.42378703
+91,91,11_STARE/all-images/documents/im0093.ppm,[],"[""coats', not isolated telangiectasia""]",3,0.27982718
+92,92,11_STARE/all-images/documents/im0094.ppm,[],"['background diabetic retinopathy', 'hypertensive retinopathy']",2,0.5621909
+93,93,11_STARE/all-images/documents/im0095.ppm,[],['branch retinal vein occlusion'],3,0.382557
+94,94,11_STARE/all-images/documents/im0096.ppm,[],['background diabetic retinopathy'],3,0.40162715
+95,95,11_STARE/all-images/documents/im0097.ppm,[],"['drusen, large', 'drusen, fine']",3,0.3206396
+96,96,11_STARE/all-images/documents/im0098.ppm,[],"['drusen, large', 'hypertensive retinopathy']",2,0.6003964
+97,97,11_STARE/all-images/documents/im0099.ppm,[],['toxoplasmosis'],3,0.31658202
+98,98,11_STARE/all-images/documents/im0100.ppm,[],"['choroidal neovascularization', 'histoplasmosis']",3,0.4670624
+99,99,11_STARE/all-images/documents/im0101.ppm,[],['choroidal neovascularization'],2,0.564677
+100,100,11_STARE/all-images/documents/im0102.ppm,[],['patterned ppeopathy'],2,0.59962755
+101,101,11_STARE/all-images/documents/im0103.ppm,[],['choroidal neovascularization'],3,0.41315717
+102,102,11_STARE/all-images/documents/im0104.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",3,0.3237632
+103,103,11_STARE/all-images/documents/im0105.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",3,0.45256633
+104,104,11_STARE/all-images/documents/im0106.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.5133239
+105,105,11_STARE/all-images/documents/im0107.ppm,[],['histoplasmosis'],2,0.7031453
+106,106,11_STARE/all-images/documents/im0110.ppm,[],"['choroidal neovascularization', 'histoplasmosis']",3,0.40769005
+107,107,11_STARE/all-images/documents/im0111.ppm,[],"['background diabetic retinopathy', 'histoplasmosis']",2,0.5424236
+108,108,11_STARE/all-images/documents/im0112.ppm,[],['histoplasmosis'],3,0.3527124
+109,109,11_STARE/all-images/documents/im0113.ppm,[],['background diabetic retinopathy'],3,0.38547826
+110,110,11_STARE/all-images/documents/im0114.ppm,[],['background diabetic retinopathy'],4,0.2159274
+111,111,11_STARE/all-images/documents/im0115.ppm,[],['background diabetic retinopathy'],3,0.36450166
+112,112,11_STARE/all-images/documents/im0116.ppm,[],['background diabetic retinopathy'],2,0.7104947
+113,113,11_STARE/all-images/documents/im0117.ppm,[],"['background diabetic retinopathy', 'arteriosclerotic retinopathy']",3,0.4094051
+114,114,11_STARE/all-images/documents/im0118.ppm,[],"['background diabetic retinopathy', 'arteriosclerotic retinopathy']",3,0.48431444
+115,115,11_STARE/all-images/documents/im0119.ppm,[],['normal'],4,0.2056213
+116,116,11_STARE/all-images/documents/im0120.ppm,[],['normal'],4,0.217134
+117,117,11_STARE/all-images/documents/im0121.ppm,[],['background diabetic retinopathy'],3,0.48080438
+118,118,11_STARE/all-images/documents/im0122.ppm,[],['background diabetic retinopathy'],4,0.2367744
+119,119,11_STARE/all-images/documents/im0123.ppm,[],['background diabetic retinopathy'],3,0.38752532
+120,120,11_STARE/all-images/documents/im0124.ppm,[],['background diabetic retinopathy'],2,0.63318497
+121,121,11_STARE/all-images/documents/im0125.ppm,[],['background diabetic retinopathy'],3,0.33244684
+122,122,11_STARE/all-images/documents/im0126.ppm,[],['background diabetic retinopathy'],3,0.36805874
+123,123,11_STARE/all-images/documents/im0127.ppm,[],['background diabetic retinopathy'],3,0.4722203
+124,124,11_STARE/all-images/documents/im0128.ppm,[],['chorioretinal scar'],3,0.3406477
+125,125,11_STARE/all-images/documents/im0129.ppm,[],"['retinitis, disease']",3,0.3709363
+126,126,11_STARE/all-images/documents/im0130.ppm,[],"['retinitis, disease']",3,0.48255518
+127,127,11_STARE/all-images/documents/im0131.ppm,[],"['retinitis, disease']",3,0.29920986
+128,128,11_STARE/all-images/documents/im0132.ppm,[],['frosted branch vascuopathy'],3,0.36287275
+129,129,11_STARE/all-images/documents/im0133.ppm,[],['background diabetic retinopathy'],2,0.6392549
+130,130,11_STARE/all-images/documents/im0134.ppm,[],['background diabetic retinopathy'],2,0.52951074
+131,131,11_STARE/all-images/documents/im0135.ppm,[],['background diabetic retinopathy'],2,0.5162855
+132,132,11_STARE/all-images/documents/im0136.ppm,[],['background diabetic retinopathy'],3,0.30846426
+133,133,11_STARE/all-images/documents/im0137.ppm,[],['background diabetic retinopathy'],3,0.4786862
+134,134,11_STARE/all-images/documents/im0138.ppm,[],['background diabetic retinopathy'],2,0.57635605
+135,135,11_STARE/all-images/documents/im0139.ppm,[],['background diabetic retinopathy'],3,0.47440007
+136,136,11_STARE/all-images/documents/im0140.ppm,[],['background diabetic retinopathy'],3,0.3128688
+137,137,11_STARE/all-images/documents/im0141.ppm,[],['background diabetic retinopathy'],3,0.4036974
+138,138,11_STARE/all-images/documents/im0142.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",3,0.458309
+139,139,11_STARE/all-images/documents/im0143.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.6605806
+140,140,11_STARE/all-images/documents/im0145.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",3,0.30280522
+141,141,11_STARE/all-images/documents/im0146.ppm,[],['nevus'],3,0.32491463
+142,142,11_STARE/all-images/documents/im0147.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.67643744
+143,143,11_STARE/all-images/documents/im0148.ppm,[],['choroidal neovascularization'],3,0.34135643
+144,144,11_STARE/all-images/documents/im0149.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.6349563
+145,145,11_STARE/all-images/documents/im0150.ppm,[],['choroidal neovascularization'],3,0.46131605
+146,146,11_STARE/all-images/documents/im0151.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.6762366
+147,147,11_STARE/all-images/documents/im0152.ppm,[],['asteroid hyalosis'],3,0.36709797
+148,148,11_STARE/all-images/documents/im0153.ppm,[],['asteroud hyalosis'],3,0.44467092
+149,149,11_STARE/all-images/documents/im0154.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",3,0.41806516
+150,150,11_STARE/all-images/documents/im0155.ppm,[],"['background diabetic retinopathy', 'arteriosclerotic retinopathy']",3,0.3261266
+151,151,11_STARE/all-images/documents/im0156.ppm,[],"['background diabetic retinopathy', 'arteriosclerotic retinopathy']",2,0.6813072
+152,152,11_STARE/all-images/documents/im0157.ppm,[],['background diabetic retinopathy'],3,0.35632113
+153,153,11_STARE/all-images/documents/im0158.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",3,0.35081786
+154,154,11_STARE/all-images/documents/im0159.ppm,[],"['drusen, fine']",3,0.44225317
+155,155,11_STARE/all-images/documents/im0160.ppm,[],"['central retinal vein occlusion', 'arteriosclerotic retinopathy']",2,0.65191907
+156,156,11_STARE/all-images/documents/im0161.ppm,[],['central retinal vein occlusion'],3,0.34688452
+157,157,11_STARE/all-images/documents/im0162.ppm,[],['normal'],3,0.2758894
+158,158,11_STARE/all-images/documents/im0163.ppm,[],['normal'],3,0.35194737
+159,159,11_STARE/all-images/documents/im0164.ppm,[],['normal'],4,0.20600572
+160,160,11_STARE/all-images/documents/im0165.ppm,[],['central retinal vein occlusion'],3,0.32782274
+161,161,11_STARE/all-images/documents/im0166.ppm,[],['central retinal vein occlusion'],4,0.20231187
+162,162,11_STARE/all-images/documents/im0168.ppm,[],"['central retinal vein occlusion', 'central retinal artery occlusion']",3,0.38033068
+163,163,11_STARE/all-images/documents/im0169.ppm,[],"['central retinal vein occlusion', 'central retinal artery occlusion']",3,0.28671518
+164,164,11_STARE/all-images/documents/im0170.ppm,[],['normal'],3,0.29431278
+165,165,11_STARE/all-images/documents/im0171.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",3,0.31105587
+166,166,11_STARE/all-images/documents/im0172.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.554542
+167,167,11_STARE/all-images/documents/im0173.ppm,[],['myelinated nerve fibers'],2,0.53707033
+168,168,11_STARE/all-images/documents/im0174.ppm,[],['myelinated nerve fibers'],3,0.37830064
+169,169,11_STARE/all-images/documents/im0175.ppm,[],"['drusen, large', 'drusen, fine']",2,0.68999195
+170,170,11_STARE/all-images/documents/im0176.ppm,[],['unknown diagnosis'],2,0.6790086
+171,171,11_STARE/all-images/documents/im0177.ppm,[],"[""coats', not isolated telangiectasia""]",2,0.50524986
+172,172,11_STARE/all-images/documents/im0178.ppm,[],"[""coats', not isolated telangiectasia""]",3,0.2863055
+173,173,11_STARE/all-images/documents/im0179.ppm,[],['proliferative diabetic retinopathy'],4,0.2440491
+174,174,11_STARE/all-images/documents/im0180.ppm,[],['histoplasmosis'],3,0.33925575
+175,175,11_STARE/all-images/documents/im0181.ppm,[],['histoplasmosis'],2,0.5138468
+176,176,11_STARE/all-images/documents/im0182.ppm,[],['rd'],3,0.311403
+177,177,11_STARE/all-images/documents/im0183.ppm,[],['histoplasmosis'],3,0.45118695
+178,178,11_STARE/all-images/documents/im0184.ppm,[],"['normal', 'choroidal nevus']",3,0.43448845
+179,179,11_STARE/all-images/documents/im0185.ppm,[],['unknown diagnosis'],3,0.35318086
+180,180,11_STARE/all-images/documents/im0186.ppm,[],"['background diabetic retinopathy', 'choroidal nevus']",3,0.48941755
+181,181,11_STARE/all-images/documents/im0187.ppm,[],['background diabetic retinopathy'],3,0.46157023
+182,182,11_STARE/all-images/documents/im0188.ppm,[],['background diabetic retinopathy'],3,0.45008785
+183,183,11_STARE/all-images/documents/im0189.ppm,[],['background diabetic retinopathy'],3,0.36409548
+184,184,11_STARE/all-images/documents/im0190.ppm,[],['normal'],3,0.2500775
+185,185,11_STARE/all-images/documents/im0191.ppm,[],['background diabetic retinopathy'],3,0.3017764
+186,186,11_STARE/all-images/documents/im0192.ppm,[],"['proliferative diabetic retinopathy', 'drusen, large']",3,0.26224464
+187,187,11_STARE/all-images/documents/im0193.ppm,[],"['background diabetic retinopathy', 'drusen, large']",1,1.0
+188,188,11_STARE/all-images/documents/im0194.ppm,[],['background diabetic retinopathy'],3,0.40892708
+189,189,11_STARE/all-images/documents/im0195.ppm,[],['background diabetic retinopathy'],2,0.748518
+190,190,11_STARE/all-images/documents/im0196.ppm,[],"['background diabetic retinopathy', 'arteriosclerotic retinopathy']",2,0.506965
+191,191,11_STARE/all-images/documents/im0197.ppm,[],['background diabetic retinopathy'],3,0.34289706
+192,192,11_STARE/all-images/documents/im0198.ppm,[],['normal'],4,0.2458938
+193,193,11_STARE/all-images/documents/im0199.ppm,[],['normal'],3,0.34022462
+194,194,11_STARE/all-images/documents/im0200.ppm,[],['branch retinal vein occlusion'],3,0.49526405
+195,195,11_STARE/all-images/documents/im0201.ppm,[],['branch retinal vein occlusion'],3,0.45059848
+196,196,11_STARE/all-images/documents/im0202.ppm,[],['branch retinal vein occlusion'],3,0.37592685
+197,197,11_STARE/all-images/documents/im0203.ppm,[],['proliferative diabetic retinopathy'],4,0.21683125
+198,198,11_STARE/all-images/documents/im0204.ppm,[],['proliferative diabetic retinopathy'],3,0.36234596
+199,199,11_STARE/all-images/documents/im0205.ppm,[],['background diabetic retinopathy'],3,0.41520524
+200,200,11_STARE/all-images/documents/im0206.ppm,[],"['central retinal vein occlusion, rxed']",3,0.30506188
+201,201,11_STARE/all-images/documents/im0207.ppm,[],['central retinal vein occlusion'],3,0.32351252
+202,202,11_STARE/all-images/documents/im0208.ppm,[],['arteriosclerotic retinopathy'],3,0.46451768
+203,203,11_STARE/all-images/documents/im0209.ppm,[],"['branch retinal vein occlusion', 'arteriosclerotic retinopathy']",4,0.24761528
+204,204,11_STARE/all-images/documents/im0210.ppm,[],['central retinal vein occlusion'],2,0.50164396
+205,205,11_STARE/all-images/documents/im0211.ppm,[],['central retinal vein occlusion'],3,0.44730332
+206,206,11_STARE/all-images/documents/im0212.ppm,[],"['epiretinal membrane', 'hypertensive retinopathy']",3,0.43968034
+207,207,11_STARE/all-images/documents/im0213.ppm,[],"['normal', 'high myopia']",3,0.3073899
+208,208,11_STARE/all-images/documents/im0214.ppm,[],['hemi-central retinal vein occlusion'],3,0.34102336
+209,209,11_STARE/all-images/documents/im0215.ppm,[],['hemi-central retinal vein occlusion'],3,0.48320928
+210,210,11_STARE/all-images/documents/im0216.ppm,[],['normal'],3,0.2509509
+211,211,11_STARE/all-images/documents/im0217.ppm,[],['central retinal vein occlusion'],3,0.4977944
+212,212,11_STARE/all-images/documents/im0218.ppm,[],['central retinal vein occlusion'],2,0.55374277
+213,213,11_STARE/all-images/documents/im0219.ppm,[],['normal'],3,0.3260531
+214,214,11_STARE/all-images/documents/im0220.ppm,[],['hypertensive retinopathy'],3,0.3998947
+215,215,11_STARE/all-images/documents/im0221.ppm,[],['epiretinal membrane'],2,0.51109725
+216,216,11_STARE/all-images/documents/im0222.ppm,[],['background diabetic retinopathy'],3,0.4801112
+217,217,11_STARE/all-images/documents/im0223.ppm,[],['background diabetic retinopathy'],3,0.35039285
+218,218,11_STARE/all-images/documents/im0224.ppm,[],['background diabetic retinopathy'],3,0.29492328
+219,219,11_STARE/all-images/documents/im0225.ppm,[],['background diabetic retinopathy'],3,0.3735829
+220,220,11_STARE/all-images/documents/im0226.ppm,[],['hemi-central retinal vein occlusion'],3,0.2568213
+221,221,11_STARE/all-images/documents/im0227.ppm,[],['background diabetic retinopathy'],3,0.25206465
+222,222,11_STARE/all-images/documents/im0228.ppm,[],['background diabetic retinopathy'],3,0.44952646
+223,223,11_STARE/all-images/documents/im0229.ppm,[],"['background diabetic retinopathy', 'choroidal nevus']",3,0.4799421
+224,224,11_STARE/all-images/documents/im0230.ppm,[],"['background diabetic retinopathy', 'arteriosclerotic retinopathy']",2,0.6424887
+225,225,11_STARE/all-images/documents/im0231.ppm,[],['normal'],3,0.37902108
+226,226,11_STARE/all-images/documents/im0232.ppm,[],['proliferative diabetic retinopathy'],4,0.23168005
+227,227,11_STARE/all-images/documents/im0233.ppm,[],['background diabetic retinopathy'],3,0.33744785
+228,228,11_STARE/all-images/documents/im0234.ppm,[],['normal'],3,0.3057768
+229,229,11_STARE/all-images/documents/im0235.ppm,[],['normal'],4,0.18434426
+230,230,11_STARE/all-images/documents/im0236.ppm,[],['normal'],3,0.2772883
+231,231,11_STARE/all-images/documents/im0237.ppm,[],['normal'],3,0.29206446
+232,232,11_STARE/all-images/documents/im0238.ppm,[],['normal'],3,0.2702135
+233,233,11_STARE/all-images/documents/im0239.ppm,[],['normal'],4,0.21801822
+234,234,11_STARE/all-images/documents/im0240.ppm,[],['normal'],3,0.29596797
+235,235,11_STARE/all-images/documents/im0241.ppm,[],['normal'],3,0.25832635
+236,236,11_STARE/all-images/documents/im0242.ppm,[],['normal'],3,0.49007657
+237,237,11_STARE/all-images/documents/im0243.ppm,[],['normal'],3,0.43099335
+238,238,11_STARE/all-images/documents/im0244.ppm,[],['normal'],3,0.48190904
+239,239,11_STARE/all-images/documents/im0245.ppm,[],['normal'],4,0.23108335
+240,240,11_STARE/all-images/documents/im0246.ppm,[],['choroidal neovascularization'],2,0.5832955
+241,241,11_STARE/all-images/documents/im0247.ppm,[],['background diabetic retinopathy'],2,0.5485546
+242,242,11_STARE/all-images/documents/im0248.ppm,[],['choroidal neovascularization'],3,0.41575554
+243,243,11_STARE/all-images/documents/im0249.ppm,[],['normal'],3,0.26644716
+244,244,11_STARE/all-images/documents/im0250.ppm,[],"['drusen, large']",2,0.6214341
+245,245,11_STARE/all-images/documents/im0251.ppm,[],['background diabetic retinopathy'],3,0.4099775
+246,246,11_STARE/all-images/documents/im0252.ppm,[],['normal'],4,0.22632411
+247,247,11_STARE/all-images/documents/im0253.ppm,[],['normal'],4,0.21730804
+248,248,11_STARE/all-images/documents/im0254.ppm,[],['normal'],3,0.34768963
+249,249,11_STARE/all-images/documents/im0255.ppm,[],['normal'],4,0.19592825
+250,250,11_STARE/all-images/documents/im0256.ppm,[],"['background diabetic retinopathy', 'choroidal nevus']",3,0.3969007
+251,251,11_STARE/all-images/documents/im0257.ppm,[],['central retinal vein occlusion'],3,0.32522434
+252,252,11_STARE/all-images/documents/im0258.ppm,[],['central retinal vein occlusion'],3,0.2808658
+253,253,11_STARE/all-images/documents/im0259.ppm,[],['choroidal neovascularization'],3,0.262357
+254,254,11_STARE/all-images/documents/im0260.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.50541884
+255,255,11_STARE/all-images/documents/im0261.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.64688736
+256,256,11_STARE/all-images/documents/im0262.ppm,[],"['drusen, large', 'arteriosclerotic retinopathy']",2,0.5581166
+257,257,11_STARE/all-images/documents/im0263.ppm,[],"['drusen, large', 'arteriosclerotic retinopathy']",3,0.33479506
+258,258,11_STARE/all-images/documents/im0264.ppm,[],['age related macular degeneration'],1,0.85558563
+259,259,11_STARE/all-images/documents/im0265.ppm,[],['age related macular degeneration'],3,0.4734038
+260,260,11_STARE/all-images/documents/im0266.ppm,[],['age related macular degeneration'],3,0.45974526
+261,261,11_STARE/all-images/documents/im0267.ppm,[],"['choroidal neovascularization', 'hypertensuve retinopathy', 'age related macular']",2,0.534392
+262,262,11_STARE/all-images/documents/im0268.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.6576624
+263,263,11_STARE/all-images/documents/im0269.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.53637314
+264,264,11_STARE/all-images/documents/im0270.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.5879712
+265,265,11_STARE/all-images/documents/im0271.ppm,[],['hypertensuve retinopathy'],3,0.3035814
+266,266,11_STARE/all-images/documents/im0272.ppm,[],['hypertensive retinopathy'],4,0.22380039
+267,267,11_STARE/all-images/documents/im0273.ppm,[],['optic atrophy'],2,0.54458135
+268,268,11_STARE/all-images/documents/im0274.ppm,[],['hypertensive retinopathy'],3,0.3989857
+269,269,11_STARE/all-images/documents/im0275.ppm,[],['hypertensive retinopathy'],3,0.3341788
+270,270,11_STARE/all-images/documents/im0276.ppm,[],['hypertensive retinopathy'],3,0.29489014
+271,271,11_STARE/all-images/documents/im0277.ppm,[],['background diabetic retinopathy'],3,0.35613617
+272,272,11_STARE/all-images/documents/im0278.ppm,[],['normal'],4,0.22210686
+273,273,11_STARE/all-images/documents/im0279.ppm,[],['macroaneurism'],3,0.2537682
+274,274,11_STARE/all-images/documents/im0280.ppm,[],['arteriosclerotic retinopathy'],1,0.95031196
+275,275,11_STARE/all-images/documents/im0281.ppm,[],['hypertensuve retinopathy'],2,0.71927196
+276,276,11_STARE/all-images/documents/im0282.ppm,[],['drusen'],3,0.3657786
+277,277,11_STARE/all-images/documents/im0283.ppm,[],['vasculitis'],3,0.2715542
+278,278,11_STARE/all-images/documents/im0284.ppm,[],['arteriosclerotic retinopathy'],2,0.61616814
+279,279,11_STARE/all-images/documents/im0285.ppm,[],['retinitis pigmentosa'],3,0.47412562
+280,280,11_STARE/all-images/documents/im0286.ppm,[],"['retinitis, disease']",3,0.32222718
+281,281,11_STARE/all-images/documents/im0287.ppm,[],"['retinitis, disease']",4,0.24860695
+282,282,11_STARE/all-images/documents/im0288.ppm,[],"['retinitis, disease']",3,0.25756466
+283,283,11_STARE/all-images/documents/im0289.ppm,[],['vasculitis'],3,0.30697688
+284,284,11_STARE/all-images/documents/im0290.ppm,[],"['retinitis, disease']",3,0.3318372
+285,285,11_STARE/all-images/documents/im0291.ppm,[],['vasculitis'],2,0.5684866
+286,286,11_STARE/all-images/documents/im0292.ppm,[],['drusen'],3,0.30855083
+287,287,11_STARE/all-images/documents/im0293.ppm,[],"['arteriosclerotic retinopathy', 'hypertensuve retinopathy']",3,0.35995388
+288,288,11_STARE/all-images/documents/im0294.ppm,[],['unknown diagnosis'],3,0.4448564
+289,289,11_STARE/all-images/documents/im0295.ppm,[],"['retinitis, disease']",3,0.27038223
+290,290,11_STARE/all-images/documents/im0296.ppm,[],"['retinitis, disease']",3,0.48450652
+291,291,11_STARE/all-images/documents/im0297.ppm,[],['branch retinal artery occlusion'],2,0.6250991
+292,292,11_STARE/all-images/documents/im0298.ppm,[],"['retinitis, disease']",3,0.36946282
+293,293,11_STARE/all-images/documents/im0299.ppm,[],['branch retinal artery occlusion'],3,0.44755003
+294,294,11_STARE/all-images/documents/im0300.ppm,[],"['retinitis, disease']",3,0.3555175
+295,295,11_STARE/all-images/documents/im0301.ppm,[],['unknown diagnosis'],2,0.5433228
+296,296,11_STARE/all-images/documents/im0302.ppm,[],['unknown diagnosis'],3,0.32491475
+297,297,11_STARE/all-images/documents/im0303.ppm,[],['unknown diagnosis'],2,0.5061606
+298,298,11_STARE/all-images/documents/im0304.ppm,[],"['choroidal nevus', 'drusen']",2,0.6736024
+299,299,11_STARE/all-images/documents/im0305.ppm,[],"['retinitis, disease']",3,0.25261018
+300,300,11_STARE/all-images/documents/im0306.ppm,[],"[""coats', not isolated telangestasia""]",3,0.3278797
+301,301,11_STARE/all-images/documents/im0307.ppm,[],"['choroidal nevus', 'drusen']",2,0.6135348
+302,302,11_STARE/all-images/documents/im0308.ppm,[],"[""coats', not isolated telangestasia""]",1,0.85493106
+303,303,11_STARE/all-images/documents/im0309.ppm,[],"[""coats', not isolated telangestasia""]",3,0.40458226
+304,304,11_STARE/all-images/documents/im0310.ppm,[],"['choroidal neovascularization', 'histoplasmosis']",3,0.45635366
+305,305,11_STARE/all-images/documents/im0311.ppm,[],"[""coats', not isolated telangestasia""]",3,0.4200092
+306,306,11_STARE/all-images/documents/im0312.ppm,[],"[""coats', not isolated telangestasia""]",3,0.45001814
+307,307,11_STARE/all-images/documents/im0313.ppm,[],"[""coats', not isolated telangestasia""]",3,0.3216294
+308,308,11_STARE/all-images/documents/im0314.ppm,[],"[""coats', not isolated telangestasia""]",3,0.3193056
+309,309,11_STARE/all-images/documents/im0315.ppm,[],"[""coats', not isolated telangestasia""]",3,0.3362057
+310,310,11_STARE/all-images/documents/im0316.ppm,[],"[""coats', not isolated telangestasia""]",3,0.35459068
+311,311,11_STARE/all-images/documents/im0317.ppm,[],"['emboli, non-hollenhorst']",3,0.4796651
+312,312,11_STARE/all-images/documents/im0318.ppm,[],"['central retinal artery occlusion', 'emboli']",2,0.605788
+313,313,11_STARE/all-images/documents/im0319.ppm,[],"['emboli, non-hollenhorst']",2,0.6143021
+314,314,11_STARE/all-images/documents/im0320.ppm,[],['central retinal artery occlusion'],2,0.7272273
+315,315,11_STARE/all-images/documents/im0321.ppm,[],"['central retinal artery occlusion', 'hollenhorst emboli']",2,0.57442874
+316,316,11_STARE/all-images/documents/im0322.ppm,[],"['     central retinal artery occlusion', 'hollenhorst emboli']",3,0.40357608
+317,317,11_STARE/all-images/documents/im0323.ppm,[],['hollenhorst plaque'],2,0.64616627
+318,318,11_STARE/all-images/documents/im0324.ppm,[],['hollenhorst plaque'],3,0.36255926
+319,319,11_STARE/all-images/documents/im0325.ppm,[],['hollenhorst plaque'],3,0.3382818
+320,320,11_STARE/all-images/documents/im0326.ppm,[],"['branch retinal artery occlusion', 'emboli']",3,0.30620706
+321,321,11_STARE/all-images/documents/im0327.ppm,[],"['     branch retinal artery occlusion', 'emboli']",3,0.29280192
+322,322,11_STARE/all-images/documents/im0328.ppm,[],"['     branch retinal artery occlusion', 'emboli']",3,0.3706385
+323,323,11_STARE/all-images/documents/im0329.ppm,[],['hemi-central retinal vein occlusion'],3,0.2986555
+324,324,11_STARE/all-images/documents/im0330.ppm,[],['branch retinal vein occlusion (old)'],2,0.5629928
+325,325,11_STARE/all-images/documents/im0331.ppm,[],['central retinal vein occlusion'],3,0.43024126
+326,326,11_STARE/all-images/documents/im0332.ppm,[],"['   hemi-central retinal vein occlusion', 'hypertensive retinopathy']",3,0.30226377
+327,327,11_STARE/all-images/documents/im0333.ppm,[],['hemi-central retinal vein occlusion'],3,0.34718683
+328,328,11_STARE/all-images/documents/im0334.ppm,[],"['    hemi-central retinal vein occlusion', 'arteriosclerotic retinopathy']",3,0.43760043
+329,329,11_STARE/all-images/documents/im0335.ppm,[],['hemi-central retinal vein occlusion'],3,0.4005612
+330,330,11_STARE/all-images/documents/im0336.ppm,[],['hemi-central retinal vein occlusion'],2,0.5230967
+331,331,11_STARE/all-images/documents/im0337.ppm,[],['central retinal vein occlusion (old)'],3,0.27555105
+332,332,11_STARE/all-images/documents/im0338.ppm,[],['branch retinal vein occlusion'],3,0.26780674
+333,333,11_STARE/all-images/documents/im0339.ppm,[],"['unsure', 'hypertensive retinopathy']",3,0.37017044
+334,334,11_STARE/all-images/documents/im0340.ppm,[],['proliferative diabetic retinopathy'],4,0.21346575
+335,335,11_STARE/all-images/documents/im0341.ppm,[],['proliferative diabetic retinopathy'],4,0.16329844
+336,336,11_STARE/all-images/documents/im0342.ppm,[],['proliferative diabetic retinopathy'],3,0.29179385
+337,337,11_STARE/all-images/documents/im0343.ppm,[],['proliferative diabetic retinopathy'],4,0.22870077
+338,338,11_STARE/all-images/documents/im0344.ppm,[],['unknown diagnosis'],2,0.59789985
+339,339,11_STARE/all-images/documents/im0345.ppm,[],['proliferative diabetic retinopathy'],4,0.20244391
+340,340,11_STARE/all-images/documents/im0346.ppm,[],['proliferative diabetic retinopathy'],4,0.1750706
+341,341,11_STARE/all-images/documents/im0347.ppm,[],['proliferative diabetic retinopathy'],3,0.28189662
+342,342,11_STARE/all-images/documents/im0348.ppm,[],['proliferative diabetic retinopathy'],3,0.3358877
+343,343,11_STARE/all-images/documents/im0349.ppm,[],['proliferative diabetic retinopathy'],4,0.24002652
+344,344,11_STARE/all-images/documents/im0350.ppm,[],['proliferative diabetic retinopathy'],4,0.21537842
+345,345,11_STARE/all-images/documents/im0351.ppm,[],['proliferative diabetic retinopathy'],3,0.3259222
+346,346,11_STARE/all-images/documents/im0352.ppm,[],['proliferative diabetic retinopathy'],3,0.2815215
+347,347,11_STARE/all-images/documents/im0353.ppm,[],['proliferative diabetic retinopathy'],4,0.14705755
+348,348,11_STARE/all-images/documents/im0354.ppm,[],['proliferative diabetic retinopathy'],4,0.22532907
+349,349,11_STARE/all-images/documents/im0355.ppm,[],['and arteriosclerotic retinopathy'],2,0.5357866
+350,350,11_STARE/all-images/documents/im0356.ppm,[],['proliferative diabetic retinopathy'],4,0.19543053
+351,351,11_STARE/all-images/documents/im0357.ppm,[],"['macroaneurism, disease']",2,0.5565865
+352,352,11_STARE/all-images/documents/im0358.ppm,[],"['macroaneurism, disease']",3,0.26178572
+353,353,11_STARE/all-images/documents/im0359.ppm,[],"['macroaneurism, disease']",3,0.2660507
+354,354,11_STARE/all-images/documents/im0360.ppm,[],"['unknown diagnosis', 'nevus']",3,0.40114313
+355,355,11_STARE/all-images/documents/im0361.ppm,[],"['   macroaneurism, disease', 'hypertensive retinopathy']",3,0.44095984
+356,356,11_STARE/all-images/documents/im0362.ppm,[],"['macroaneurism, disease']",3,0.34251818
+357,357,11_STARE/all-images/documents/im0363.ppm,[],"['macroaneurism, disease']",3,0.26675698
+358,358,11_STARE/all-images/documents/im0364.ppm,[],"['branch retinal vein occlusion', 'arteriosclerotic retinopathy']",2,0.53817314
+359,359,11_STARE/all-images/documents/im0365.ppm,[],['branch retinal vein occlusion'],3,0.35370356
+360,360,11_STARE/all-images/documents/im0366.ppm,[],"['branch retinal vein occlusion', 'arteriosclerotic retinopathy']",2,0.569738
+361,361,11_STARE/all-images/documents/im0367.ppm,[],['branch retinal vein occlusion'],3,0.34928066
+362,362,11_STARE/all-images/documents/im0368.ppm,[],['hemi-central retinal vein occlusion'],4,0.21251716
+363,363,11_STARE/all-images/documents/im0369.ppm,[],['hemi-central retinal vein occlusion'],3,0.42657593
+364,364,11_STARE/all-images/documents/im0370.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.5493254
+365,365,11_STARE/all-images/documents/im0371.ppm,[],['choroidal neovascularization'],2,0.594346
+366,366,11_STARE/all-images/documents/im0372.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.69585335
+367,367,11_STARE/all-images/documents/im0373.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",3,0.34303814
+368,368,11_STARE/all-images/documents/im0374.ppm,[],['patterned rpeopathy'],3,0.4587669
+369,369,11_STARE/all-images/documents/im0375.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.50433224
+370,370,11_STARE/all-images/documents/im0376.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",1,0.76001227
+371,371,11_STARE/all-images/documents/im0377.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",3,0.3956405
+372,372,11_STARE/all-images/documents/im0378.ppm,[],"['choroidal neovascularization', 'hypertensive retinopathy', 'age related macular']",2,0.5228438
+373,373,11_STARE/all-images/documents/im0379.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.604912
+374,374,11_STARE/all-images/documents/im0380.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",2,0.7258376
+375,375,11_STARE/all-images/documents/im0381.ppm,[],"['choroidal neovascularization', 'arteriosclerotic retinopathy', 'drusen, large', 'nevus']",2,0.51229614
+376,376,11_STARE/all-images/documents/im0382.ppm,[],"['choroidal neovascularization', 'drusen, large']",3,0.4450156
+377,377,11_STARE/all-images/documents/im0383.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",3,0.44889852
+378,378,11_STARE/all-images/documents/im0384.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",3,0.41279697
+379,379,11_STARE/all-images/documents/im0385.ppm,[],"['choroidal neovascularization', 'age related macular degeneration']",1,0.85868955
+380,380,11_STARE/all-images/documents/im0386.ppm,[],"[""choroidal hemangioma (recommendation: don't use)""]",2,0.71747786
+381,381,11_STARE/all-images/documents/im0387.ppm,[],"[""choroidal hemangioma (recommendation: don't use)""]",3,0.3093532
+382,382,11_STARE/all-images/documents/im0388.ppm,[],"[""not obvious, choroidal hemangioma (recommendation:don't use)""]",3,0.30119452
+383,383,11_STARE/all-images/documents/im0389.ppm,[],"[""choroidal hemangioma, unknown type (recommendation:don't use)""]",3,0.31537408
+384,384,11_STARE/all-images/documents/im0390.ppm,[],"[""choroidal hemangioma (recommendation: don't use)""]",2,0.51147354
+385,385,11_STARE/all-images/documents/im0391.ppm,[],"[""choroidal hemangioma (recommendation: don't use)""]",4,0.21920423
+386,386,11_STARE/all-images/documents/im0392.ppm,[],"[""choroidal hemangioma (recommendation: don't use)""]",3,0.3681157
+387,387,11_STARE/all-images/documents/im0393.ppm,[],"[""tumor unknown (recommendation: don't use)""]",3,0.331669
+388,388,11_STARE/all-images/documents/im0394.ppm,[],"[""choroidal hemangioma (recommendation: don't use)""]",3,0.43497226
+389,389,11_STARE/all-images/documents/im0395.ppm,[],['choroidal hemangioma'],3,0.36319426
+390,390,11_STARE/all-images/documents/im0396.ppm,[],"['hypertensive retinopathy', 'arteriosclerotic retinopathy']",3,0.39410675
+391,391,11_STARE/all-images/documents/im0397.ppm,[],['hypertensive retinopathy'],3,0.4657404
+392,392,11_STARE/all-images/documents/im0398.ppm,[],"['hypertensive retinopathy', 'arteriosclerotic retinopathy']",3,0.276597
+393,393,11_STARE/all-images/documents/im0399.ppm,[],"['branch retinal artery occlusion', 'hollenhorst plaque emboli', 'asr']",3,0.45733348
+394,394,11_STARE/all-images/documents/im0400.ppm,[],"['branch retinal artery occlusion', 'hollenhorst plaque emboli', 'asr']",2,0.62180585
+395,395,11_STARE/all-images/documents/im0401.ppm,[],"['drusen, large', 'nevus']",3,0.39506182
+396,396,11_STARE/all-images/documents/im0402.ppm,[],"['drusen, large']",2,0.6256119

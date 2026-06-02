@@ -1,0 +1,180 @@
+,Unnamed: 0,image,atributes,categories,stage,img_norm_r
+0,0,16_FUND-OCT/Dataset/OD/Glaucoma/P_11/Right Eye/109157871_20150910_121537_Color_R_001#1.jpg,[],['glaucoma'],3,0.4041075
+1,1,16_FUND-OCT/Dataset/OD/Glaucoma/P_11/Left Eye/109157871_20150910_121744_Color_L_001.jpg,[],['glaucoma'],4,0.24078669
+2,2,16_FUND-OCT/Dataset/OD/Glaucoma/P_25/Right Eye/59141_20140905_150656_Color_R_001.jpg,[],['glaucoma'],4,0.23268199
+3,3,16_FUND-OCT/Dataset/OD/Glaucoma/P_25/Left Eye/59141_20140905_150823_Color_L_001.jpg,[],['glaucoma'],3,0.32059923
+4,4,16_FUND-OCT/Dataset/OD/Glaucoma/P_3/Right Eye/109159_20150910_095053_Color_R_001.jpg,[],['glaucoma'],4,0.18700908
+5,5,16_FUND-OCT/Dataset/OD/Glaucoma/P_3/Left Eye/109159_20150910_095213_Color_L_001.jpg,[],['glaucoma'],3,0.35226533
+6,6,16_FUND-OCT/Dataset/OD/Glaucoma/P_6/Right Eye/1910153_20151019_102803_Color_R_001.jpg,[],['glaucoma'],4,0.20360278
+7,7,16_FUND-OCT/Dataset/OD/Glaucoma/P_6/Left Eye/1910153_20151019_102937_Color_L_001.jpg,[],['glaucoma'],3,0.30889902
+8,8,16_FUND-OCT/Dataset/OD/Glaucoma/P_4/Right Eye/149153_20150914_101903_Color_R_001.jpg,[],['glaucoma'],3,0.2520342
+9,9,16_FUND-OCT/Dataset/OD/Glaucoma/P_4/Left Eye/149153_20150914_101543_Color_L_001.jpg,[],['glaucoma'],3,0.27919817
+10,10,16_FUND-OCT/Dataset/OD/Glaucoma/P_19/Right Eye/9914_20140909_170945_Color_R_001.jpg,[],['glaucoma'],3,0.35664207
+11,11,16_FUND-OCT/Dataset/OD/Glaucoma/P_19/Left Eye/9914_20140909_171104_Color_L_001.jpg,[],['glaucoma'],3,0.30207816
+12,12,16_FUND-OCT/Dataset/OD/Glaucoma/P_20/Right Eye/09091420_20140909_145543_Color_R_001.jpg,[],['glaucoma'],3,0.3248834
+13,13,16_FUND-OCT/Dataset/OD/Glaucoma/P_20/Left Eye/09091420_20140909_145627_Color_L_001.jpg,[],['glaucoma'],4,0.19803528
+14,14,16_FUND-OCT/Dataset/OD/Glaucoma/P_10/Right Eye/1691587_20150916_103043_Color_R_001.jpg,[],['glaucoma'],2,0.6411072
+15,15,16_FUND-OCT/Dataset/OD/Glaucoma/P_10/Left Eye/1691587_20150916_103337_Color_L_001.jpg,[],['glaucoma'],3,0.3622409
+16,16,16_FUND-OCT/Dataset/OD/Glaucoma/P_5/Right Eye/109158787_20150910_124705_Color_R_001#1.jpg,[],['glaucoma'],3,0.2937889
+17,17,16_FUND-OCT/Dataset/OD/Glaucoma/P_5/Left Eye/109158787_20150910_124253_Color_L_001.jpg,[],['glaucoma'],2,0.54997283
+18,18,16_FUND-OCT/Dataset/OD/Glaucoma/P_23/Right Eye/89149_20140908_143835_Color_R_001.jpg,[],['glaucoma'],3,0.28720966
+19,19,16_FUND-OCT/Dataset/OD/Glaucoma/P_23/Left Eye/89149_20140908_144012_Color_L_001.jpg,[],['glaucoma'],3,0.30367655
+20,20,16_FUND-OCT/Dataset/OD/Glaucoma/P_9/Right Eye/9915999_20150909_140154_Color_R_001.jpg,[],['glaucoma'],3,0.2682689
+21,21,16_FUND-OCT/Dataset/OD/Glaucoma/P_9/Left Eye/9915999_20150909_140029_Color_L_001.jpg,[],['glaucoma'],4,0.2224246
+22,22,16_FUND-OCT/Dataset/OD/Glaucoma/P_16/Left Eye/09091428_20140909_183107_Color_L_001.jpg,[],['glaucoma'],3,0.2654024
+23,23,16_FUND-OCT/Dataset/OD/Glaucoma/P_15/Right Eye/05091418_20140905_190810_Color_R_001.jpg,[],['glaucoma'],3,0.27027926
+24,24,16_FUND-OCT/Dataset/OD/Glaucoma/P_15/Left Eye/05091418_20140905_190938_Color_L_001.jpg,[],['glaucoma'],4,0.17379129
+25,25,16_FUND-OCT/Dataset/OD/Glaucoma/P_24/Right Eye/0808145_20140808_120742_Color_R_001.jpg,[],['glaucoma'],3,0.27731982
+26,26,16_FUND-OCT/Dataset/OD/Glaucoma/P_24/Left Eye/0808145_20140808_121150_Color_L_001.jpg,[],['glaucoma'],4,0.2269293
+27,27,16_FUND-OCT/Dataset/OD/Glaucoma/P_8/Right Eye/109151_20150910_080317_Color_R_001.jpg,[],['glaucoma'],3,0.32702136
+28,28,16_FUND-OCT/Dataset/OD/Glaucoma/P_8/Left Eye/109151_20150910_080411_Color_L_001.jpg,[],['glaucoma'],1,0.76442343
+29,29,16_FUND-OCT/Dataset/OD/Glaucoma/P_22/Right Eye/09091419_20140909_145015_Color_R_001.jpg,[],['glaucoma'],4,0.14571741
+30,30,16_FUND-OCT/Dataset/OD/Glaucoma/P_22/Left Eye/09091419_20140909_150055_Color_L_001.jpg,[],['glaucoma'],3,0.3197508
+31,31,16_FUND-OCT/Dataset/OD/Glaucoma/P_7/Right Eye/10915787_20150910_110142_Color_R_001.jpg,[],['glaucoma'],3,0.26030606
+32,32,16_FUND-OCT/Dataset/OD/Glaucoma/P_1/Left Eye/2010154_20151020_093741_Color_L_001.jpg,[],['glaucoma'],4,0.20218508
+33,33,16_FUND-OCT/Dataset/OD/Glaucoma/P_21/Right Eye/0809142_20140908_103321_Color_R_001.jpg,[],['glaucoma'],4,0.22229108
+34,34,16_FUND-OCT/Dataset/OD/Glaucoma/P_21/Left Eye/0809142_20140908_103145_Color_L_001.jpg,[],['glaucoma'],3,0.46342614
+35,35,16_FUND-OCT/Dataset/OD/Glaucoma/P_12/Right Eye/2810151_20151028_085853_Color_R_001.jpg,[],['glaucoma'],4,0.22409275
+36,36,16_FUND-OCT/Dataset/OD/Glaucoma/P_12/Left Eye/2810151_20151028_085932_Color_L_001.jpg,[],['glaucoma'],3,0.49712944
+37,37,16_FUND-OCT/Dataset/OD/Glaucoma/P_17/Right Eye/09091422_20140909_152236_Color_R_001.jpg,[],['glaucoma'],3,0.25439656
+38,38,16_FUND-OCT/Dataset/OD/Glaucoma/P_17/Left Eye/09091422_20140909_151823_Color_L_001.jpg,[],['glaucoma'],3,0.2841599
+39,39,16_FUND-OCT/Dataset/OD/Glaucoma/P_2/Right Eye/169154_20150916_100826_Color_R_001.jpg,[],['glaucoma'],3,0.25510016
+40,40,16_FUND-OCT/Dataset/OD/Glaucoma/P_14/Right Eye/1491512123_20150914_131624_Color_R_001.jpg,[],['glaucoma'],4,0.19079795
+41,41,16_FUND-OCT/Dataset/OD/Glaucoma/P_14/Left Eye/1491512123_20150914_131703_Color_L_001.jpg,[],['glaucoma'],4,0.20592456
+42,42,16_FUND-OCT/Dataset/OD/Glaucoma/P_26/Right Eye/99144_20140909_173003_Color_R_001.jpg,[],['glaucoma'],4,0.1952567
+43,43,16_FUND-OCT/Dataset/OD/Glaucoma/P_26/Left Eye/99144_20140909_173131_Color_L_001.jpg,[],['glaucoma'],3,0.35427284
+44,44,16_FUND-OCT/Dataset/OD/Glaucoma/P_18/Right Eye/1091413_20140910_151948_Color_R_001.jpg,[],['glaucoma'],4,0.21200347
+45,45,16_FUND-OCT/Dataset/OD/Glaucoma/P_18/Left Eye/1091413_20140910_152037_Color_L_001.jpg,[],['glaucoma'],3,0.36415565
+46,46,16_FUND-OCT/Dataset/OD/Glaucoma/P_13/Right Eye/149155_20150914_095855_Color_R_001.jpg,[],['glaucoma'],3,0.25836515
+47,47,16_FUND-OCT/Dataset/OD/Glaucoma/P_13/Left Eye/149155_20150914_100517_Color_L_001.jpg,[],['glaucoma'],3,0.28012604
+48,48,16_FUND-OCT/Dataset/OD/Healthy/P_11/Right Eye/169156767_20150916_134004_Color_R_001.jpg,[],['normal'],2,0.5309119
+49,49,16_FUND-OCT/Dataset/OD/Healthy/P_3/Right Eye/1491511221_20150914_123434_Color_R_001.jpg,[],['normal'],3,0.35863003
+50,50,16_FUND-OCT/Dataset/OD/Healthy/P_3/Left Eye/1491511221_20150914_123523_Color_L_001.jpg,[],['normal'],3,0.32515112
+51,51,16_FUND-OCT/Dataset/OD/Healthy/P_6/Right Eye/261015_20151026_112409_Color_R_001.jpg,[],['normal'],3,0.3476045
+52,52,16_FUND-OCT/Dataset/OD/Healthy/P_6/Left Eye/261015_20151026_112449_Color_L_001.jpg,[],['normal'],3,0.36924964
+53,53,16_FUND-OCT/Dataset/OD/Healthy/P_4/Right Eye/89153_20150908_092557_Color_R_001.jpg,[],['normal'],3,0.29457223
+54,54,16_FUND-OCT/Dataset/OD/Healthy/P_4/Left Eye/89153_20150908_092635_Color_L_001.jpg,[],['normal'],3,0.40174407
+55,55,16_FUND-OCT/Dataset/OD/Healthy/P_10/Right Eye/2810153_20151028_092909_Color_R_001.jpg,[],['normal'],3,0.4634546
+56,56,16_FUND-OCT/Dataset/OD/Healthy/P_10/Left Eye/2810153_20151028_092956_Color_L_001.jpg,[],['normal'],4,0.17647412
+57,57,16_FUND-OCT/Dataset/OD/Healthy/P_5/Right Eye/149153434_20150914_115822_Color_R_001.jpg,[],['normal'],3,0.43804553
+58,58,16_FUND-OCT/Dataset/OD/Healthy/P_5/Left Eye/149153434_20150914_115737_Color_L_001.jpg,[],['normal'],3,0.48473436
+59,59,16_FUND-OCT/Dataset/OD/Healthy/P_9/Right Eye/149159898_20150914_122637_Color_R_001.jpg,[],['normal'],3,0.29097956
+60,60,16_FUND-OCT/Dataset/OD/Healthy/P_9/Left Eye/149159898_20150914_122713_Color_L_001.jpg,[],['normal'],3,0.34089455
+61,61,16_FUND-OCT/Dataset/OD/Healthy/P_16/Right Eye/09091426_20140909_180001_Color_R_001.jpg,[],['normal'],3,0.35803998
+62,62,16_FUND-OCT/Dataset/OD/Healthy/P_16/Left Eye/09091426_20140909_180041_Color_L_001.jpg,[],['normal'],3,0.27831239
+63,63,16_FUND-OCT/Dataset/OD/Healthy/P_15/Right Eye/89149_20140908_143835_Color_R_001.jpg,[],['normal'],3,0.30519187
+64,64,16_FUND-OCT/Dataset/OD/Healthy/P_8/Right Eye/26101521_20151026_104335_Color_R_001.jpg,[],['normal'],3,0.47573015
+65,65,16_FUND-OCT/Dataset/OD/Healthy/P_8/Left Eye/26101521_20151026_104214_Color_L_001.jpg,[],['normal'],2,0.5884229
+66,66,16_FUND-OCT/Dataset/OD/Healthy/P_7/Right Eye/1691511_20150916_132117_Color_R_001.jpg,[],['normal'],2,0.5236778
+67,67,16_FUND-OCT/Dataset/OD/Healthy/P_7/Left Eye/1691511_20150916_132156_Color_L_001.jpg,[],['normal'],2,0.6349508
+68,68,16_FUND-OCT/Dataset/OD/Healthy/P_1/Right Eye/2610157_20151026_121740_Color_R_001.jpg,[],['normal'],3,0.31080678
+69,69,16_FUND-OCT/Dataset/OD/Healthy/P_1/Left Eye/2610157_20151026_121417_Color_L_001.jpg,[],['normal'],4,0.2445792
+70,70,16_FUND-OCT/Dataset/OD/Healthy/P_12/Right Eye/167169876_20140716_163115_Color_R_001.jpg,[],['normal'],4,0.24631749
+71,71,16_FUND-OCT/Dataset/OD/Healthy/P_12/Left Eye/167169876_20140716_163159_Color_L_001.jpg,[],['normal'],3,0.48014024
+72,72,16_FUND-OCT/Dataset/OD/Healthy/P_17/Left Eye/99144_20140909_173131_Color_L_001.jpg,[],['normal'],3,0.32885912
+73,73,16_FUND-OCT/Dataset/OD/Healthy/P_2/Right Eye/26101512_20151026_105205_Color_R_001.jpg,[],['normal'],3,0.36308116
+74,74,16_FUND-OCT/Dataset/OD/Healthy/P_2/Left Eye/26101512_20151026_105415_Color_L_001.jpg,[],['normal'],3,0.3551623
+75,75,16_FUND-OCT/Dataset/OD/Healthy/P_14/Right Eye/1091413_20140910_151948_Color_R_001.jpg,[],['normal'],4,0.23384832
+76,76,16_FUND-OCT/Dataset/OD/Healthy/P_18/Right Eye/0909148_20140909_115937_Color_R_001.jpg,[],['normal'],3,0.30079374
+77,77,16_FUND-OCT/Dataset/OD/Healthy/P_18/Left Eye/0909148_20140909_120043_Color_L_001.jpg,[],['normal'],3,0.47919926
+78,78,16_FUND-OCT/Dataset/OD/Healthy/P_13/Left Eye/09091422_20140909_151823_Color_L_001.jpg,[],['normal'],3,0.32321817
+79,79,16_FUND-OCT/Dataset/Macula/AMD/P_11/Right Eye/090914009_20140909_142347_Color_R_001.jpg,[],['age-related macular degeneration'],3,0.36277047
+80,80,16_FUND-OCT/Dataset/Macula/AMD/P_11/Left Eye/090914009_20140909_142536_Color_L_001.jpg,[],['age-related macular degeneration'],3,0.35474086
+81,81,16_FUND-OCT/Dataset/Macula/AMD/P_3/Left Eye/1091415_20140910_160427_Color_L_001.jpg,[],['age-related macular degeneration'],3,0.42581606
+82,82,16_FUND-OCT/Dataset/Macula/AMD/P_6/Right Eye/0909146_20140909_114119_Color_R_001.jpg,[],['age-related macular degeneration'],3,0.45507622
+83,83,16_FUND-OCT/Dataset/Macula/AMD/P_6/Left Eye/0909146_20140909_114156_Color_L_001.jpg,[],['age-related macular degeneration'],3,0.30597037
+84,84,16_FUND-OCT/Dataset/Macula/AMD/P_4/Left Eye/58914_20140908_120957_Color_L_001.jpg,[],['age-related macular degeneration'],3,0.32010987
+85,85,16_FUND-OCT/Dataset/Macula/AMD/P_10/Right Eye/0909141_20140909_094842_Color_R_001.jpg,[],['age-related macular degeneration'],4,0.21653746
+86,86,16_FUND-OCT/Dataset/Macula/AMD/P_10/Left Eye/0909141_20140909_095003_Color_L_001.jpg,[],['age-related macular degeneration'],3,0.26345387
+87,87,16_FUND-OCT/Dataset/Macula/AMD/P_5/Right Eye/09091421_20140909_150817_Color_R_001.jpg,[],['age-related macular degeneration'],3,0.36896554
+88,88,16_FUND-OCT/Dataset/Macula/AMD/P_5/Left Eye/09091421_20140909_150858_Color_L_001.jpg,[],['age-related macular degeneration'],3,0.31824413
+89,89,16_FUND-OCT/Dataset/Macula/AMD/P_9/Left Eye/89142_20140908_105823_Color_L_001.jpg,[],['age-related macular degeneration'],2,0.5232287
+90,90,16_FUND-OCT/Dataset/Macula/AMD/P_8/Right Eye/04091403_20140905_103325_Color_R_001.jpg,[],['age-related macular degeneration'],3,0.45861366
+91,91,16_FUND-OCT/Dataset/Macula/AMD/P_8/Left Eye/04091403_20140905_103441_Color_L_001.jpg,[],['age-related macular degeneration'],3,0.38813567
+92,92,16_FUND-OCT/Dataset/Macula/AMD/P_7/Right Eye/109143_20140910_112825_Color_R_001.jpg,[],['age-related macular degeneration'],3,0.40989903
+93,93,16_FUND-OCT/Dataset/Macula/AMD/P_7/Left Eye/109143_20140910_113004_Color_L_001.jpg,[],['age-related macular degeneration'],2,0.5087223
+94,94,16_FUND-OCT/Dataset/Macula/AMD/P_1/Right Eye/149159898_20150914_122351_Color_R_001.jpg,[],['age-related macular degeneration'],3,0.35441205
+95,95,16_FUND-OCT/Dataset/Macula/AMD/P_1/Left Eye/149159898_20150914_122556_Color_L_001.jpg,[],['age-related macular degeneration'],3,0.25028524
+96,96,16_FUND-OCT/Dataset/Macula/AMD/P_12/Right Eye/59141_20140905_150441_Color_R_001.jpg,[],['age-related macular degeneration'],3,0.2971699
+97,97,16_FUND-OCT/Dataset/Macula/AMD/P_12/Left Eye/59141_20140905_150548_Color_L_001.jpg,[],['age-related macular degeneration'],3,0.38619506
+98,98,16_FUND-OCT/Dataset/Macula/AMD/P_2/Right Eye/1191507_20150911_131149_Color_R_001#1.jpg,[],['age-related macular degeneration'],3,0.31089345
+99,99,16_FUND-OCT/Dataset/Macula/AMD/P_2/Left Eye/1191507_20150911_131039_Color_L_001#1.jpg,[],['age-related macular degeneration'],3,0.45292428
+100,100,16_FUND-OCT/Dataset/Macula/CSR/P_3/Right Eye/0909147_20140909_115142_Color_R_001.jpg,[],['central serous retinopathy'],3,0.49152604
+101,101,16_FUND-OCT/Dataset/Macula/CSR/P_3/Left Eye/0909147_20140909_115219_Color_L_001.jpg,[],['central serous retinopathy'],3,0.36343858
+102,102,16_FUND-OCT/Dataset/Macula/CSR/P_4/Right Eye/0909149_20140909_121056_Color_R_001.jpg,[],['central serous retinopathy'],3,0.4600539
+103,103,16_FUND-OCT/Dataset/Macula/CSR/P_4/Left Eye/0909149_20140909_121134_Color_L_001.jpg,[],['central serous retinopathy'],2,0.51455283
+104,104,16_FUND-OCT/Dataset/Macula/CSR/P_5/Right Eye/09091414_20140909_125636_Color_R_001.jpg,[],['central serous retinopathy'],3,0.38878608
+105,105,16_FUND-OCT/Dataset/Macula/CSR/P_5/Left Eye/09091414_20140909_125811_Color_L_001.jpg,[],['central serous retinopathy'],4,0.24786493
+106,106,16_FUND-OCT/Dataset/Macula/CSR/P_1/Right Eye/21071405_20140721_102023_Color_R_001.jpg,[],['central serous retinopathy'],3,0.36481747
+107,107,16_FUND-OCT/Dataset/Macula/CSR/P_1/Left Eye/21071405_20140721_102101_Color_L_001.jpg,[],['central serous retinopathy'],2,0.5650017
+108,108,16_FUND-OCT/Dataset/Macula/CSR/P_2/Right Eye/2107110_20140721_105349_Color_R_001.jpg,[],['central serous retinopathy'],1,1.0
+109,109,16_FUND-OCT/Dataset/Macula/CSR/P_2/Left Eye/2107110_20140721_105427_Color_L_001.jpg,[],['central serous retinopathy'],3,0.4620144
+110,110,16_FUND-OCT/Dataset/Macula/Healthy/P_27/Right Eye/09091414_20140909_125636_Color_R_001.jpg,[],['normal'],3,0.28866518
+111,111,16_FUND-OCT/Dataset/Macula/Healthy/P_11/Right Eye/1091413_20140910_151747_Color_R_001.jpg,[],['normal'],4,0.24844603
+112,112,16_FUND-OCT/Dataset/Macula/Healthy/P_11/Left Eye/1091413_20140910_151831_Color_L_001.jpg,[],['normal'],3,0.34713525
+113,113,16_FUND-OCT/Dataset/Macula/Healthy/P_25/Right Eye/09091413_20140909_123958_Color_R_001.jpg,[],['normal'],3,0.26958647
+114,114,16_FUND-OCT/Dataset/Macula/Healthy/P_25/Left Eye/09091413_20140909_124034_Color_L_001.jpg,[],['normal'],4,0.19474597
+115,115,16_FUND-OCT/Dataset/Macula/Healthy/P_3/Right Eye/109159_20150910_094855_Color_R_001.jpg,[],['normal'],3,0.4617324
+116,116,16_FUND-OCT/Dataset/Macula/Healthy/P_3/Left Eye/109159_20150910_094949_Color_L_001.jpg,[],['normal'],3,0.4159857
+117,117,16_FUND-OCT/Dataset/Macula/Healthy/P_30/Right Eye/10091418_20140910_194431_Color_R_001.jpg,[],['normal'],4,0.24733293
+118,118,16_FUND-OCT/Dataset/Macula/Healthy/P_30/Left Eye/10091418_20140910_194508_Color_L_001.jpg,[],['normal'],3,0.33575046
+119,119,16_FUND-OCT/Dataset/Macula/Healthy/P_6/Right Eye/16714009_20140716_145503_Color_R_001.jpg,[],['normal'],3,0.2598967
+120,120,16_FUND-OCT/Dataset/Macula/Healthy/P_4/Right Eye/109159_20150910_094855_Color_R_001.jpg,[],['normal'],3,0.4617324
+121,121,16_FUND-OCT/Dataset/Macula/Healthy/P_4/Left Eye/109159_20150910_094949_Color_L_001.jpg,[],['normal'],3,0.4159857
+122,122,16_FUND-OCT/Dataset/Macula/Healthy/P_31/Left Eye/28071402_20140728_101807_Color_L_003.jpg,[],['normal'],3,0.36999062
+123,123,16_FUND-OCT/Dataset/Macula/Healthy/P_19/Right Eye/89144_20140908_114226_Color_R_001.jpg,[],['normal'],4,0.20940699
+124,124,16_FUND-OCT/Dataset/Macula/Healthy/P_19/Left Eye/89144_20140908_114429_Color_L_001.jpg,[],['normal'],3,0.32932076
+125,125,16_FUND-OCT/Dataset/Macula/Healthy/P_20/Left Eye/0509201403_20140905_111423_Color_L_001.jpg,[],['normal'],4,0.21195276
+126,126,16_FUND-OCT/Dataset/Macula/Healthy/P_29/Left Eye/99144_20140909_172729_Color_L_001.jpg,[],['normal'],4,0.24366535
+127,127,16_FUND-OCT/Dataset/Macula/Healthy/P_10/Right Eye/0809201414_20140908_204607_Color_R_001.jpg,[],['normal'],3,0.25638154
+128,128,16_FUND-OCT/Dataset/Macula/Healthy/P_10/Left Eye/0809201414_20140908_204956_Color_L_001.jpg,[],['normal'],4,0.24263048
+129,129,16_FUND-OCT/Dataset/Macula/Healthy/P_28/Left Eye/0809201413_20140908_204017_Color_L_001.jpg,[],['normal'],3,0.34811327
+130,130,16_FUND-OCT/Dataset/Macula/Healthy/P_5/Right Eye/0909146_20140909_114119_Color_R_001.jpg,[],['normal'],3,0.33570457
+131,131,16_FUND-OCT/Dataset/Macula/Healthy/P_5/Left Eye/0909146_20140909_114156_Color_L_001.jpg,[],['normal'],3,0.2544317
+132,132,16_FUND-OCT/Dataset/Macula/Healthy/P_23/Right Eye/21041403_20140421_095953_Color_R_001.jpg,[],['normal'],3,0.34027767
+133,133,16_FUND-OCT/Dataset/Macula/Healthy/P_23/Left Eye/21041403_20140421_100044_Color_L_001.jpg,[],['normal'],3,0.45102564
+134,134,16_FUND-OCT/Dataset/Macula/Healthy/P_9/Left Eye/09091410_20140909_121925_Color_L_001.jpg,[],['normal'],4,0.23866512
+135,135,16_FUND-OCT/Dataset/Macula/Healthy/P_16/Right Eye/9914_20140909_170607_Color_R_001.jpg,[],['normal'],4,0.22643477
+136,136,16_FUND-OCT/Dataset/Macula/Healthy/P_16/Left Eye/9914_20140909_170808_Color_L_001.jpg,[],['normal'],2,0.51240396
+137,137,16_FUND-OCT/Dataset/Macula/Healthy/P_15/Right Eye/109146_20140910_120618_Color_R_001.jpg,[],['normal'],3,0.27780226
+138,138,16_FUND-OCT/Dataset/Macula/Healthy/P_24/Right Eye/109143_20140910_112825_Color_R_001.jpg,[],['normal'],3,0.3050936
+139,139,16_FUND-OCT/Dataset/Macula/Healthy/P_8/Right Eye/16714_20140716_135025_Color_R_001.jpg,[],['normal'],3,0.2766103
+140,140,16_FUND-OCT/Dataset/Macula/Healthy/P_32/Right Eye/0909146_20140909_114119_Color_R_001.jpg,[],['normal'],3,0.33570457
+141,141,16_FUND-OCT/Dataset/Macula/Healthy/P_32/Left Eye/0909146_20140909_114156_Color_L_001.jpg,[],['normal'],3,0.2544317
+142,142,16_FUND-OCT/Dataset/Macula/Healthy/P_22/Left Eye/0509201417_20140905_122719_Color_L_001.jpg,[],['normal'],3,0.3899842
+143,143,16_FUND-OCT/Dataset/Macula/Healthy/P_7/Left Eye/09091429_20140909_184308_Color_L_001.jpg,[],['normal'],3,0.29184115
+144,144,16_FUND-OCT/Dataset/Macula/Healthy/P_1/Right Eye/149153434_20150914_115508_Color_R_001#1.jpg,[],['normal'],3,0.46381316
+145,145,16_FUND-OCT/Dataset/Macula/Healthy/P_1/Left Eye/149153434_20150914_115557_Color_L_001#1.jpg,[],['normal'],2,0.5880374
+146,146,16_FUND-OCT/Dataset/Macula/Healthy/P_21/Right Eye/21071421_20140721_131005_Color_R_001.jpg,[],['normal'],4,0.22654048
+147,147,16_FUND-OCT/Dataset/Macula/Healthy/P_21/Left Eye/21071421_20140721_131439_Color_L_001.jpg,[],['normal'],3,0.3068109
+148,148,16_FUND-OCT/Dataset/Macula/Healthy/P_12/Right Eye/09091427_20140909_181052_Color_R_001.jpg,[],['normal'],2,0.51847017
+149,149,16_FUND-OCT/Dataset/Macula/Healthy/P_17/Right Eye/09091421_20140909_150817_Color_R_001.jpg,[],['normal'],4,0.2449634
+150,150,16_FUND-OCT/Dataset/Macula/Healthy/P_2/Right Eye/109159898_20150910_134202_Color_R_001.jpg,[],['normal'],3,0.46409315
+151,151,16_FUND-OCT/Dataset/Macula/Healthy/P_2/Left Eye/109159898_20150910_134229_Color_L_001.jpg,[],['normal'],3,0.31740695
+152,152,16_FUND-OCT/Dataset/Macula/Healthy/P_14/Right Eye/109145_20140910_114214_Color_R_001.jpg,[],['normal'],3,0.49709675
+153,153,16_FUND-OCT/Dataset/Macula/Healthy/P_14/Left Eye/109145_20140910_114319_Color_L_001.jpg,[],['normal'],4,0.2259907
+154,154,16_FUND-OCT/Dataset/Macula/Healthy/P_26/Right Eye/2908144_20140829_103624_Color_R_001.jpg,[],['normal'],3,0.27110523
+155,155,16_FUND-OCT/Dataset/Macula/Healthy/P_26/Left Eye/2908144_20140829_103700_Color_L_001.jpg,[],['normal'],3,0.3034685
+156,156,16_FUND-OCT/Dataset/Macula/Healthy/P_18/Right Eye/09091411_20140909_122910_Color_R_001.jpg,[],['normal'],4,0.21601886
+157,157,16_FUND-OCT/Dataset/Macula/Healthy/P_18/Left Eye/09091411_20140909_122951_Color_L_001.jpg,[],['normal'],3,0.39685997
+158,158,16_FUND-OCT/Dataset/Macula/Healthy/P_13/Right Eye/0909147_20140909_115142_Color_R_001.jpg,[],['normal'],3,0.39805403
+159,159,16_FUND-OCT/Dataset/Macula/ME/P_3/Right Eye/10915787_20150910_105919_Color_R_001#1.jpg,[],['cystoid macular edema'],2,0.55577314
+160,160,16_FUND-OCT/Dataset/Macula/ME/P_6/Right Eye/0809143_20140908_103644_Color_R_001.jpg,[],['cystoid macular edema'],3,0.3592773
+161,161,16_FUND-OCT/Dataset/Macula/ME/P_6/Left Eye/0809143_20140908_103755_Color_L_001.jpg,[],['cystoid macular edema'],2,0.5186487
+162,162,16_FUND-OCT/Dataset/Macula/ME/P_4/Right Eye/149153_20150914_101048_Color_R_001.jpg,[],['cystoid macular edema'],2,0.6917677
+163,163,16_FUND-OCT/Dataset/Macula/ME/P_4/Left Eye/149153_20150914_101156_Color_L_001.jpg,[],['cystoid macular edema'],2,0.5723036
+164,164,16_FUND-OCT/Dataset/Macula/ME/P_10/Right Eye/09091427_20140909_181052_Color_R_001.jpg,[],['cystoid macular edema'],1,0.77500325
+165,165,16_FUND-OCT/Dataset/Macula/ME/P_10/Left Eye/09091427_20140909_181130_Color_L_001.jpg,[],['cystoid macular edema'],3,0.38835528
+166,166,16_FUND-OCT/Dataset/Macula/ME/P_5/Right Eye/109157871_20150910_120459_Color_R_001.jpg,[],['cystoid macular edema'],3,0.31447002
+167,167,16_FUND-OCT/Dataset/Macula/ME/P_5/Left Eye/109157871_20150910_121033_Color_L_001#1.jpg,[],['cystoid macular edema'],2,0.549042
+168,168,16_FUND-OCT/Dataset/Macula/ME/P_9/Left Eye/09091428_20140909_183006_Color_L_001.jpg,[],['cystoid macular edema'],3,0.425843
+169,169,16_FUND-OCT/Dataset/Macula/ME/P_8/Right Eye/0509201403_20140905_111207_Color_R_001.jpg,[],['cystoid macular edema'],3,0.31408727
+170,170,16_FUND-OCT/Dataset/Macula/ME/P_8/Left Eye/109143_20140910_113004_Color_L_001.jpg,[],['cystoid macular edema'],2,0.5521028
+171,171,16_FUND-OCT/Dataset/Macula/ME/P_7/Right Eye/19051405_20140519_103047_Color_R_001.jpg,[],['cystoid macular edema'],3,0.3053762
+172,172,16_FUND-OCT/Dataset/Macula/ME/P_1/Right Eye/10915989_20150910_114952_Color_R_001#1.jpg,[],['cystoid macular edema'],3,0.39696613
+173,173,16_FUND-OCT/Dataset/Macula/ME/P_12/Right Eye/0509201415_20140905_120252_Color_R_001.jpg,[],['cystoid macular edema'],3,0.46370554
+174,174,16_FUND-OCT/Dataset/Macula/ME/P_12/Left Eye/0509201415_20140905_120401_Color_L_001.jpg,[],['cystoid macular edema'],3,0.41905653
+175,175,16_FUND-OCT/Dataset/Macula/ME/P_2/Right Eye/89153_20150908_092437_Color_R_001.jpg,[],['cystoid macular edema'],2,0.5250935
+176,176,16_FUND-OCT/Dataset/Macula/ME/P_2/Left Eye/89153_20150908_092509_Color_L_001.jpg,[],['cystoid macular edema'],3,0.4548853
+177,177,16_FUND-OCT/Dataset/Macula/ME/P_13/Right Eye/99145_20140909_174123_Color_R_001.jpg,[],['cystoid macular edema'],2,0.55171347
+178,178,16_FUND-OCT/Dataset/Macula/ME/P_13/Left Eye/99145_20140909_174445_Color_L_001.jpg,[],['cystoid macular edema'],3,0.37115875

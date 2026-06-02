@@ -1,0 +1,1220 @@
+,Unnamed: 0,image,atributes,categories,stage,img_norm_r
+0,0,30_SUSTech-SYSU/originalImages/0667.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.40145475
+1,1,30_SUSTech-SYSU/originalImages/0248.jpg,[],['no diabetic retinopathy'],3,0.27867475
+2,2,30_SUSTech-SYSU/originalImages/0812.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.5723201
+3,3,30_SUSTech-SYSU/originalImages/0957.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.30120495
+4,4,30_SUSTech-SYSU/originalImages/0431.jpg,[],['no diabetic retinopathy'],4,0.2049423
+5,5,30_SUSTech-SYSU/originalImages/0079.jpg,[],['no diabetic retinopathy'],4,0.15932
+6,6,30_SUSTech-SYSU/originalImages/0939.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.38503397
+7,7,30_SUSTech-SYSU/originalImages/0568.jpg,[],['no diabetic retinopathy'],3,0.3633869
+8,8,30_SUSTech-SYSU/originalImages/0678.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.35064796
+9,9,30_SUSTech-SYSU/originalImages/0545.jpg,[],['no diabetic retinopathy'],4,0.17327277
+10,10,30_SUSTech-SYSU/originalImages/0331.jpg,[],['no diabetic retinopathy'],3,0.39620975
+11,11,30_SUSTech-SYSU/originalImages/0996.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.28206286
+12,12,30_SUSTech-SYSU/originalImages/0856.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.51852155
+13,13,30_SUSTech-SYSU/originalImages/1142.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.468714
+14,14,30_SUSTech-SYSU/originalImages/0733.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.32871148
+15,15,30_SUSTech-SYSU/originalImages/0914.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.4043351
+16,16,30_SUSTech-SYSU/originalImages/0757.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.37319794
+17,17,30_SUSTech-SYSU/originalImages/0126.jpg,[],['no diabetic retinopathy'],3,0.30077222
+18,18,30_SUSTech-SYSU/originalImages/0889.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.22064179
+19,19,30_SUSTech-SYSU/originalImages/0990.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.14799164
+20,20,30_SUSTech-SYSU/originalImages/0472.jpg,[],['no diabetic retinopathy'],4,0.21671
+21,21,30_SUSTech-SYSU/originalImages/0287.jpg,[],['no diabetic retinopathy'],4,0.14951494
+22,22,30_SUSTech-SYSU/originalImages/0628.jpg,[],['no diabetic retinopathy'],4,0.13548523
+23,23,30_SUSTech-SYSU/originalImages/0100.jpg,[],['no diabetic retinopathy'],4,0.23094423
+24,24,30_SUSTech-SYSU/originalImages/0474.jpg,[],['no diabetic retinopathy'],3,0.33402163
+25,25,30_SUSTech-SYSU/originalImages/0212.jpg,[],['no diabetic retinopathy'],3,0.4037258
+26,26,30_SUSTech-SYSU/originalImages/0188.jpg,[],['no diabetic retinopathy'],2,0.53815126
+27,27,30_SUSTech-SYSU/originalImages/1149.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",1,0.7922068
+28,28,30_SUSTech-SYSU/originalImages/0670.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.22966093
+29,29,30_SUSTech-SYSU/originalImages/0949.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.21733068
+30,30,30_SUSTech-SYSU/originalImages/1075.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.18336767
+31,31,30_SUSTech-SYSU/originalImages/0185.jpg,[],['no diabetic retinopathy'],4,0.22209243
+32,32,30_SUSTech-SYSU/originalImages/0762.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3348542
+33,33,30_SUSTech-SYSU/originalImages/0250.jpg,[],['no diabetic retinopathy'],4,0.16366708
+34,34,30_SUSTech-SYSU/originalImages/1079.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.30057237
+35,35,30_SUSTech-SYSU/originalImages/0139.jpg,[],['no diabetic retinopathy'],4,0.24878787
+36,36,30_SUSTech-SYSU/originalImages/0782.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.41215715
+37,37,30_SUSTech-SYSU/originalImages/0018.jpg,[],['no diabetic retinopathy'],4,0.20941159
+38,38,30_SUSTech-SYSU/originalImages/1087.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.25282684
+39,39,30_SUSTech-SYSU/originalImages/0904.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.29479164
+40,40,30_SUSTech-SYSU/originalImages/0237.jpg,[],['no diabetic retinopathy'],2,0.54694515
+41,41,30_SUSTech-SYSU/originalImages/0973.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3217782
+42,42,30_SUSTech-SYSU/originalImages/0333.jpg,[],['no diabetic retinopathy'],4,0.20337164
+43,43,30_SUSTech-SYSU/originalImages/0249.jpg,[],['no diabetic retinopathy'],4,0.22455938
+44,44,30_SUSTech-SYSU/originalImages/0594.jpg,[],['no diabetic retinopathy'],4,0.1547129
+45,45,30_SUSTech-SYSU/originalImages/0324.jpg,[],['no diabetic retinopathy'],4,0.19785628
+46,46,30_SUSTech-SYSU/originalImages/0484.jpg,[],['no diabetic retinopathy'],4,0.23211321
+47,47,30_SUSTech-SYSU/originalImages/1068.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.2993284
+48,48,30_SUSTech-SYSU/originalImages/0461.jpg,[],['no diabetic retinopathy'],4,0.22010948
+49,49,30_SUSTech-SYSU/originalImages/0986.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.29590315
+50,50,30_SUSTech-SYSU/originalImages/0648.jpg,[],['mild diabetic retinopathy'],3,0.390763
+51,51,30_SUSTech-SYSU/originalImages/1179.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.28213754
+52,52,30_SUSTech-SYSU/originalImages/0511.jpg,[],['no diabetic retinopathy'],3,0.34064025
+53,53,30_SUSTech-SYSU/originalImages/0569.jpg,[],['no diabetic retinopathy'],3,0.2607202
+54,54,30_SUSTech-SYSU/originalImages/0806.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.49407688
+55,55,30_SUSTech-SYSU/originalImages/0231.jpg,[],['no diabetic retinopathy'],4,0.21394537
+56,56,30_SUSTech-SYSU/originalImages/0730.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.29662058
+57,57,30_SUSTech-SYSU/originalImages/0515.jpg,[],['no diabetic retinopathy'],3,0.3324952
+58,58,30_SUSTech-SYSU/originalImages/0611.jpg,[],['no diabetic retinopathy'],4,0.23225056
+59,59,30_SUSTech-SYSU/originalImages/0781.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.32519856
+60,60,30_SUSTech-SYSU/originalImages/1187.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2754021
+61,61,30_SUSTech-SYSU/originalImages/0758.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.50406
+62,62,30_SUSTech-SYSU/originalImages/0067.jpg,[],['no diabetic retinopathy'],1,0.9073995
+63,63,30_SUSTech-SYSU/originalImages/1206.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.27116746
+64,64,30_SUSTech-SYSU/originalImages/1151.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.25258437
+65,65,30_SUSTech-SYSU/originalImages/0815.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3200731
+66,66,30_SUSTech-SYSU/originalImages/0865.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.4115591
+67,67,30_SUSTech-SYSU/originalImages/1029.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.4117949
+68,68,30_SUSTech-SYSU/originalImages/0091.jpg,[],['no diabetic retinopathy'],3,0.36444137
+69,69,30_SUSTech-SYSU/originalImages/0362.jpg,[],['no diabetic retinopathy'],3,0.3892815
+70,70,30_SUSTech-SYSU/originalImages/0082.jpg,[],['no diabetic retinopathy'],3,0.2863341
+71,71,30_SUSTech-SYSU/originalImages/0176.jpg,[],['no diabetic retinopathy'],4,0.19649547
+72,72,30_SUSTech-SYSU/originalImages/0413.jpg,[],['no diabetic retinopathy'],3,0.27231166
+73,73,30_SUSTech-SYSU/originalImages/1169.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.20919745
+74,74,30_SUSTech-SYSU/originalImages/0061.jpg,[],['no diabetic retinopathy'],3,0.33188027
+75,75,30_SUSTech-SYSU/originalImages/1143.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.27505985
+76,76,30_SUSTech-SYSU/originalImages/0092.jpg,[],['no diabetic retinopathy'],3,0.29135534
+77,77,30_SUSTech-SYSU/originalImages/1060.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.2995593
+78,78,30_SUSTech-SYSU/originalImages/0853.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2657945
+79,79,30_SUSTech-SYSU/originalImages/1135.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.2610297
+80,80,30_SUSTech-SYSU/originalImages/0377.jpg,[],['no diabetic retinopathy'],3,0.29383823
+81,81,30_SUSTech-SYSU/originalImages/1138.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",2,0.5193498
+82,82,30_SUSTech-SYSU/originalImages/0674.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.287798
+83,83,30_SUSTech-SYSU/originalImages/1088.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.33665997
+84,84,30_SUSTech-SYSU/originalImages/1002.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.4075961
+85,85,30_SUSTech-SYSU/originalImages/0123.jpg,[],['no diabetic retinopathy'],3,0.32112634
+86,86,30_SUSTech-SYSU/originalImages/0629.jpg,[],['no diabetic retinopathy'],4,0.18797894
+87,87,30_SUSTech-SYSU/originalImages/0338.jpg,[],['no diabetic retinopathy'],4,0.16763921
+88,88,30_SUSTech-SYSU/originalImages/0427.jpg,[],['no diabetic retinopathy'],3,0.26467195
+89,89,30_SUSTech-SYSU/originalImages/0777.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.37428942
+90,90,30_SUSTech-SYSU/originalImages/0683.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.314903
+91,91,30_SUSTech-SYSU/originalImages/0335.jpg,[],['no diabetic retinopathy'],4,0.23575313
+92,92,30_SUSTech-SYSU/originalImages/0723.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.5576409
+93,93,30_SUSTech-SYSU/originalImages/0823.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.22030905
+94,94,30_SUSTech-SYSU/originalImages/0187.jpg,[],['no diabetic retinopathy'],3,0.38437453
+95,95,30_SUSTech-SYSU/originalImages/0514.jpg,[],['no diabetic retinopathy'],4,0.22676368
+96,96,30_SUSTech-SYSU/originalImages/0114.jpg,[],['no diabetic retinopathy'],3,0.3067262
+97,97,30_SUSTech-SYSU/originalImages/0304.jpg,[],['no diabetic retinopathy'],4,0.18081672
+98,98,30_SUSTech-SYSU/originalImages/0326.jpg,[],['no diabetic retinopathy'],3,0.28709435
+99,99,30_SUSTech-SYSU/originalImages/1006.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.30047965
+100,100,30_SUSTech-SYSU/originalImages/0264.jpg,[],['no diabetic retinopathy'],4,0.19675626
+101,101,30_SUSTech-SYSU/originalImages/0213.jpg,[],['no diabetic retinopathy'],4,0.1920188
+102,102,30_SUSTech-SYSU/originalImages/0385.jpg,[],['no diabetic retinopathy'],4,0.21692021
+103,103,30_SUSTech-SYSU/originalImages/0998.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3044335
+104,104,30_SUSTech-SYSU/originalImages/1211.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.21924563
+105,105,30_SUSTech-SYSU/originalImages/0133.jpg,[],['no diabetic retinopathy'],4,0.2453784
+106,106,30_SUSTech-SYSU/originalImages/0085.jpg,[],['no diabetic retinopathy'],3,0.27502733
+107,107,30_SUSTech-SYSU/originalImages/0769.jpg,[],"['moderate diabetic retinopathy', 'exudates']",1,1.0
+108,108,30_SUSTech-SYSU/originalImages/0870.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.25085527
+109,109,30_SUSTech-SYSU/originalImages/0959.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.2298778
+110,110,30_SUSTech-SYSU/originalImages/0825.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.58537155
+111,111,30_SUSTech-SYSU/originalImages/1119.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.36129773
+112,112,30_SUSTech-SYSU/originalImages/0360.jpg,[],['no diabetic retinopathy'],3,0.2912551
+113,113,30_SUSTech-SYSU/originalImages/0173.jpg,[],['no diabetic retinopathy'],4,0.20835944
+114,114,30_SUSTech-SYSU/originalImages/0440.jpg,[],['no diabetic retinopathy'],4,0.15825793
+115,115,30_SUSTech-SYSU/originalImages/0583.jpg,[],['no diabetic retinopathy'],4,0.2326581
+116,116,30_SUSTech-SYSU/originalImages/0071.jpg,[],['no diabetic retinopathy'],2,0.60183656
+117,117,30_SUSTech-SYSU/originalImages/0521.jpg,[],['no diabetic retinopathy'],4,0.2385768
+118,118,30_SUSTech-SYSU/originalImages/0887.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2899988
+119,119,30_SUSTech-SYSU/originalImages/0050.jpg,[],['no diabetic retinopathy'],4,0.24122432
+120,120,30_SUSTech-SYSU/originalImages/0131.jpg,[],['no diabetic retinopathy'],4,0.19600995
+121,121,30_SUSTech-SYSU/originalImages/0652.jpg,[],['mild diabetic retinopathy'],3,0.28548476
+122,122,30_SUSTech-SYSU/originalImages/1096.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.2856419
+123,123,30_SUSTech-SYSU/originalImages/0533.jpg,[],['no diabetic retinopathy'],3,0.28774047
+124,124,30_SUSTech-SYSU/originalImages/1071.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.25556415
+125,125,30_SUSTech-SYSU/originalImages/0128.jpg,[],['no diabetic retinopathy'],3,0.26619992
+126,126,30_SUSTech-SYSU/originalImages/0172.jpg,[],['no diabetic retinopathy'],3,0.40831962
+127,127,30_SUSTech-SYSU/originalImages/0456.jpg,[],['no diabetic retinopathy'],4,0.15900569
+128,128,30_SUSTech-SYSU/originalImages/0589.jpg,[],['no diabetic retinopathy'],3,0.36592388
+129,129,30_SUSTech-SYSU/originalImages/0534.jpg,[],['no diabetic retinopathy'],3,0.28948683
+130,130,30_SUSTech-SYSU/originalImages/0275.jpg,[],['no diabetic retinopathy'],3,0.25485727
+131,131,30_SUSTech-SYSU/originalImages/0388.jpg,[],['no diabetic retinopathy'],3,0.25956544
+132,132,30_SUSTech-SYSU/originalImages/0447.jpg,[],['no diabetic retinopathy'],3,0.26095524
+133,133,30_SUSTech-SYSU/originalImages/0630.jpg,[],['no diabetic retinopathy'],3,0.25451714
+134,134,30_SUSTech-SYSU/originalImages/0979.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2756182
+135,135,30_SUSTech-SYSU/originalImages/1168.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.25637618
+136,136,30_SUSTech-SYSU/originalImages/1008.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.29037398
+137,137,30_SUSTech-SYSU/originalImages/0220.jpg,[],['no diabetic retinopathy'],4,0.21727556
+138,138,30_SUSTech-SYSU/originalImages/0118.jpg,[],['no diabetic retinopathy'],4,0.21578793
+139,139,30_SUSTech-SYSU/originalImages/0661.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.47063905
+140,140,30_SUSTech-SYSU/originalImages/0223.jpg,[],['no diabetic retinopathy'],4,0.23467754
+141,141,30_SUSTech-SYSU/originalImages/0805.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.16964227
+142,142,30_SUSTech-SYSU/originalImages/1102.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.39179748
+143,143,30_SUSTech-SYSU/originalImages/0081.jpg,[],['no diabetic retinopathy'],2,0.513784
+144,144,30_SUSTech-SYSU/originalImages/1028.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2717072
+145,145,30_SUSTech-SYSU/originalImages/0475.jpg,[],['no diabetic retinopathy'],4,0.1789007
+146,146,30_SUSTech-SYSU/originalImages/0263.jpg,[],['no diabetic retinopathy'],3,0.30551466
+147,147,30_SUSTech-SYSU/originalImages/1216.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.16482317
+148,148,30_SUSTech-SYSU/originalImages/1040.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.3596729
+149,149,30_SUSTech-SYSU/originalImages/0697.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.327632
+150,150,30_SUSTech-SYSU/originalImages/0293.jpg,[],['no diabetic retinopathy'],2,0.5610201
+151,151,30_SUSTech-SYSU/originalImages/0314.jpg,[],['no diabetic retinopathy'],2,0.6311335
+152,152,30_SUSTech-SYSU/originalImages/1052.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.3559532
+153,153,30_SUSTech-SYSU/originalImages/0741.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.22545576
+154,154,30_SUSTech-SYSU/originalImages/0976.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.62176484
+155,155,30_SUSTech-SYSU/originalImages/0006.jpg,[],['no diabetic retinopathy'],4,0.17936371
+156,156,30_SUSTech-SYSU/originalImages/1112.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.26506653
+157,157,30_SUSTech-SYSU/originalImages/0098.jpg,[],['no diabetic retinopathy'],4,0.23962297
+158,158,30_SUSTech-SYSU/originalImages/0202.jpg,[],['no diabetic retinopathy'],3,0.42074424
+159,159,30_SUSTech-SYSU/originalImages/1043.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.23468864
+160,160,30_SUSTech-SYSU/originalImages/0981.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.2962761
+161,161,30_SUSTech-SYSU/originalImages/0666.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.18057066
+162,162,30_SUSTech-SYSU/originalImages/0087.jpg,[],['no diabetic retinopathy'],4,0.20317408
+163,163,30_SUSTech-SYSU/originalImages/0214.jpg,[],['no diabetic retinopathy'],3,0.3190348
+164,164,30_SUSTech-SYSU/originalImages/0989.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.63325787
+165,165,30_SUSTech-SYSU/originalImages/0374.jpg,[],['no diabetic retinopathy'],4,0.1735852
+166,166,30_SUSTech-SYSU/originalImages/0466.jpg,[],['no diabetic retinopathy'],4,0.23133793
+167,167,30_SUSTech-SYSU/originalImages/0663.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.5791847
+168,168,30_SUSTech-SYSU/originalImages/0517.jpg,[],['no diabetic retinopathy'],3,0.27350992
+169,169,30_SUSTech-SYSU/originalImages/0537.jpg,[],['no diabetic retinopathy'],4,0.1837607
+170,170,30_SUSTech-SYSU/originalImages/0531.jpg,[],['no diabetic retinopathy'],4,0.24905665
+171,171,30_SUSTech-SYSU/originalImages/0566.jpg,[],['no diabetic retinopathy'],4,0.24531686
+172,172,30_SUSTech-SYSU/originalImages/0288.jpg,[],['no diabetic retinopathy'],4,0.18767774
+173,173,30_SUSTech-SYSU/originalImages/0030.jpg,[],['no diabetic retinopathy'],4,0.2396696
+174,174,30_SUSTech-SYSU/originalImages/0833.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.33182204
+175,175,30_SUSTech-SYSU/originalImages/0579.jpg,[],['no diabetic retinopathy'],4,0.19022126
+176,176,30_SUSTech-SYSU/originalImages/0905.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.18928175
+177,177,30_SUSTech-SYSU/originalImages/0563.jpg,[],['no diabetic retinopathy'],3,0.38946167
+178,178,30_SUSTech-SYSU/originalImages/0349.jpg,[],['no diabetic retinopathy'],3,0.2883817
+179,179,30_SUSTech-SYSU/originalImages/0024.jpg,[],['no diabetic retinopathy'],3,0.34568176
+180,180,30_SUSTech-SYSU/originalImages/0482.jpg,[],['no diabetic retinopathy'],4,0.2293174
+181,181,30_SUSTech-SYSU/originalImages/0837.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.37534037
+182,182,30_SUSTech-SYSU/originalImages/0232.jpg,[],['no diabetic retinopathy'],3,0.28706875
+183,183,30_SUSTech-SYSU/originalImages/0906.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.21481875
+184,184,30_SUSTech-SYSU/originalImages/0795.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.23806337
+185,185,30_SUSTech-SYSU/originalImages/0519.jpg,[],['no diabetic retinopathy'],4,0.23293881
+186,186,30_SUSTech-SYSU/originalImages/0117.jpg,[],['no diabetic retinopathy'],3,0.28363088
+187,187,30_SUSTech-SYSU/originalImages/0575.jpg,[],['no diabetic retinopathy'],4,0.19538364
+188,188,30_SUSTech-SYSU/originalImages/0722.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2645412
+189,189,30_SUSTech-SYSU/originalImages/1120.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.2798597
+190,190,30_SUSTech-SYSU/originalImages/0729.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.20251533
+191,191,30_SUSTech-SYSU/originalImages/0602.jpg,[],['no diabetic retinopathy'],4,0.24215232
+192,192,30_SUSTech-SYSU/originalImages/0541.jpg,[],['no diabetic retinopathy'],3,0.47371122
+193,193,30_SUSTech-SYSU/originalImages/0877.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.18939756
+194,194,30_SUSTech-SYSU/originalImages/1189.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.2344766
+195,195,30_SUSTech-SYSU/originalImages/0495.jpg,[],['no diabetic retinopathy'],4,0.19290185
+196,196,30_SUSTech-SYSU/originalImages/0023.jpg,[],['no diabetic retinopathy'],3,0.31707388
+197,197,30_SUSTech-SYSU/originalImages/0836.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.2264982
+198,198,30_SUSTech-SYSU/originalImages/0415.jpg,[],['no diabetic retinopathy'],4,0.16972518
+199,199,30_SUSTech-SYSU/originalImages/0296.jpg,[],['no diabetic retinopathy'],3,0.33007184
+200,200,30_SUSTech-SYSU/originalImages/0488.jpg,[],['no diabetic retinopathy'],4,0.23928769
+201,201,30_SUSTech-SYSU/originalImages/0927.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2972213
+202,202,30_SUSTech-SYSU/originalImages/0450.jpg,[],['no diabetic retinopathy'],3,0.2655153
+203,203,30_SUSTech-SYSU/originalImages/1070.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.26757947
+204,204,30_SUSTech-SYSU/originalImages/1209.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.19926517
+205,205,30_SUSTech-SYSU/originalImages/1214.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.29064503
+206,206,30_SUSTech-SYSU/originalImages/1162.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.21309553
+207,207,30_SUSTech-SYSU/originalImages/0586.jpg,[],['no diabetic retinopathy'],4,0.15508871
+208,208,30_SUSTech-SYSU/originalImages/0014.jpg,[],['no diabetic retinopathy'],4,0.24025832
+209,209,30_SUSTech-SYSU/originalImages/0387.jpg,[],['no diabetic retinopathy'],3,0.2644773
+210,210,30_SUSTech-SYSU/originalImages/0012.jpg,[],['no diabetic retinopathy'],4,0.21914463
+211,211,30_SUSTech-SYSU/originalImages/1182.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.35192263
+212,212,30_SUSTech-SYSU/originalImages/0303.jpg,[],['no diabetic retinopathy'],3,0.28079697
+213,213,30_SUSTech-SYSU/originalImages/0778.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.28910092
+214,214,30_SUSTech-SYSU/originalImages/0356.jpg,[],['no diabetic retinopathy'],3,0.2912006
+215,215,30_SUSTech-SYSU/originalImages/0743.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.24899617
+216,216,30_SUSTech-SYSU/originalImages/0361.jpg,[],['no diabetic retinopathy'],3,0.25114456
+217,217,30_SUSTech-SYSU/originalImages/0038.jpg,[],['no diabetic retinopathy'],4,0.19024274
+218,218,30_SUSTech-SYSU/originalImages/0445.jpg,[],['no diabetic retinopathy'],3,0.34013316
+219,219,30_SUSTech-SYSU/originalImages/0206.jpg,[],['no diabetic retinopathy'],4,0.21438569
+220,220,30_SUSTech-SYSU/originalImages/0102.jpg,[],['no diabetic retinopathy'],3,0.40660837
+221,221,30_SUSTech-SYSU/originalImages/0178.jpg,[],['no diabetic retinopathy'],3,0.30910805
+222,222,30_SUSTech-SYSU/originalImages/0947.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.33499023
+223,223,30_SUSTech-SYSU/originalImages/0744.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.29571852
+224,224,30_SUSTech-SYSU/originalImages/0257.jpg,[],['no diabetic retinopathy'],3,0.35152227
+225,225,30_SUSTech-SYSU/originalImages/0908.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.29785478
+226,226,30_SUSTech-SYSU/originalImages/0921.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.29955503
+227,227,30_SUSTech-SYSU/originalImages/0390.jpg,[],['no diabetic retinopathy'],3,0.32571378
+228,228,30_SUSTech-SYSU/originalImages/0062.jpg,[],['no diabetic retinopathy'],2,0.5054789
+229,229,30_SUSTech-SYSU/originalImages/0088.jpg,[],['no diabetic retinopathy'],3,0.252375
+230,230,30_SUSTech-SYSU/originalImages/1090.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.34880555
+231,231,30_SUSTech-SYSU/originalImages/0543.jpg,[],['no diabetic retinopathy'],4,0.21393816
+232,232,30_SUSTech-SYSU/originalImages/0776.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.27681977
+233,233,30_SUSTech-SYSU/originalImages/0383.jpg,[],['no diabetic retinopathy'],4,0.18267739
+234,234,30_SUSTech-SYSU/originalImages/0901.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.38485003
+235,235,30_SUSTech-SYSU/originalImages/1145.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.33999607
+236,236,30_SUSTech-SYSU/originalImages/0066.jpg,[],['no diabetic retinopathy'],4,0.22570892
+237,237,30_SUSTech-SYSU/originalImages/0409.jpg,[],['no diabetic retinopathy'],4,0.21436076
+238,238,30_SUSTech-SYSU/originalImages/0354.jpg,[],['no diabetic retinopathy'],3,0.25254515
+239,239,30_SUSTech-SYSU/originalImages/0076.jpg,[],['no diabetic retinopathy'],3,0.32621497
+240,240,30_SUSTech-SYSU/originalImages/1190.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.30292892
+241,241,30_SUSTech-SYSU/originalImages/0019.jpg,[],['no diabetic retinopathy'],4,0.19339791
+242,242,30_SUSTech-SYSU/originalImages/0158.jpg,[],['no diabetic retinopathy'],3,0.2781483
+243,243,30_SUSTech-SYSU/originalImages/0402.jpg,[],['no diabetic retinopathy'],4,0.13730754
+244,244,30_SUSTech-SYSU/originalImages/0735.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2756714
+245,245,30_SUSTech-SYSU/originalImages/0347.jpg,[],['no diabetic retinopathy'],3,0.2827414
+246,246,30_SUSTech-SYSU/originalImages/1104.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.18856299
+247,247,30_SUSTech-SYSU/originalImages/1085.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.47145984
+248,248,30_SUSTech-SYSU/originalImages/0632.jpg,[],['mild diabetic retinopathy'],3,0.26825225
+249,249,30_SUSTech-SYSU/originalImages/0337.jpg,[],['no diabetic retinopathy'],3,0.34306443
+250,250,30_SUSTech-SYSU/originalImages/0955.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.45609173
+251,251,30_SUSTech-SYSU/originalImages/0407.jpg,[],['no diabetic retinopathy'],3,0.28934705
+252,252,30_SUSTech-SYSU/originalImages/0668.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.48237634
+253,253,30_SUSTech-SYSU/originalImages/0184.jpg,[],['no diabetic retinopathy'],4,0.21076241
+254,254,30_SUSTech-SYSU/originalImages/0090.jpg,[],['no diabetic retinopathy'],4,0.20757487
+255,255,30_SUSTech-SYSU/originalImages/0462.jpg,[],['no diabetic retinopathy'],4,0.222276
+256,256,30_SUSTech-SYSU/originalImages/0155.jpg,[],['no diabetic retinopathy'],3,0.37238798
+257,257,30_SUSTech-SYSU/originalImages/1077.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.25436798
+258,258,30_SUSTech-SYSU/originalImages/1199.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.47553846
+259,259,30_SUSTech-SYSU/originalImages/0709.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2530904
+260,260,30_SUSTech-SYSU/originalImages/1123.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",2,0.60550874
+261,261,30_SUSTech-SYSU/originalImages/0961.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.6601087
+262,262,30_SUSTech-SYSU/originalImages/0846.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.36090344
+263,263,30_SUSTech-SYSU/originalImages/0918.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.35878938
+264,264,30_SUSTech-SYSU/originalImages/0416.jpg,[],['no diabetic retinopathy'],4,0.19219247
+265,265,30_SUSTech-SYSU/originalImages/1039.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.13084976
+266,266,30_SUSTech-SYSU/originalImages/0971.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.22938977
+267,267,30_SUSTech-SYSU/originalImages/0974.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.32771093
+268,268,30_SUSTech-SYSU/originalImages/1003.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.19573122
+269,269,30_SUSTech-SYSU/originalImages/0234.jpg,[],['no diabetic retinopathy'],4,0.20602322
+270,270,30_SUSTech-SYSU/originalImages/0434.jpg,[],['no diabetic retinopathy'],3,0.25770777
+271,271,30_SUSTech-SYSU/originalImages/0523.jpg,[],['no diabetic retinopathy'],4,0.18963027
+272,272,30_SUSTech-SYSU/originalImages/0673.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.13839835
+273,273,30_SUSTech-SYSU/originalImages/0720.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.32122
+274,274,30_SUSTech-SYSU/originalImages/1131.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.3265717
+275,275,30_SUSTech-SYSU/originalImages/0127.jpg,[],['no diabetic retinopathy'],4,0.20891017
+276,276,30_SUSTech-SYSU/originalImages/0352.jpg,[],['no diabetic retinopathy'],4,0.20419481
+277,277,30_SUSTech-SYSU/originalImages/0681.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.25949067
+278,278,30_SUSTech-SYSU/originalImages/0489.jpg,[],['no diabetic retinopathy'],4,0.18793252
+279,279,30_SUSTech-SYSU/originalImages/0802.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.43149608
+280,280,30_SUSTech-SYSU/originalImages/0593.jpg,[],['no diabetic retinopathy'],3,0.32659858
+281,281,30_SUSTech-SYSU/originalImages/0281.jpg,[],['no diabetic retinopathy'],4,0.17763412
+282,282,30_SUSTech-SYSU/originalImages/0166.jpg,[],['no diabetic retinopathy'],3,0.2605153
+283,283,30_SUSTech-SYSU/originalImages/1121.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.3423192
+284,284,30_SUSTech-SYSU/originalImages/1198.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.18707737
+285,285,30_SUSTech-SYSU/originalImages/1097.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.27109316
+286,286,30_SUSTech-SYSU/originalImages/0913.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.25224146
+287,287,30_SUSTech-SYSU/originalImages/0042.jpg,[],['no diabetic retinopathy'],3,0.26365057
+288,288,30_SUSTech-SYSU/originalImages/0201.jpg,[],['no diabetic retinopathy'],4,0.23596765
+289,289,30_SUSTech-SYSU/originalImages/0807.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.38224056
+290,290,30_SUSTech-SYSU/originalImages/0268.jpg,[],['no diabetic retinopathy'],3,0.36601362
+291,291,30_SUSTech-SYSU/originalImages/0008.jpg,[],['no diabetic retinopathy'],4,0.2311567
+292,292,30_SUSTech-SYSU/originalImages/0822.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.37810153
+293,293,30_SUSTech-SYSU/originalImages/0967.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3140944
+294,294,30_SUSTech-SYSU/originalImages/0930.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.16171503
+295,295,30_SUSTech-SYSU/originalImages/0698.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.26605904
+296,296,30_SUSTech-SYSU/originalImages/0612.jpg,[],['no diabetic retinopathy'],3,0.39251384
+297,297,30_SUSTech-SYSU/originalImages/0724.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.45297444
+298,298,30_SUSTech-SYSU/originalImages/0740.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.39388958
+299,299,30_SUSTech-SYSU/originalImages/0007.jpg,[],['no diabetic retinopathy'],3,0.3191505
+300,300,30_SUSTech-SYSU/originalImages/0395.jpg,[],['no diabetic retinopathy'],3,0.3853451
+301,301,30_SUSTech-SYSU/originalImages/0768.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.299156
+302,302,30_SUSTech-SYSU/originalImages/0604.jpg,[],['no diabetic retinopathy'],3,0.29967487
+303,303,30_SUSTech-SYSU/originalImages/0498.jpg,[],['no diabetic retinopathy'],3,0.35649383
+304,304,30_SUSTech-SYSU/originalImages/1022.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.2631914
+305,305,30_SUSTech-SYSU/originalImages/0016.jpg,[],['no diabetic retinopathy'],4,0.17167515
+306,306,30_SUSTech-SYSU/originalImages/0512.jpg,[],['no diabetic retinopathy'],3,0.33488846
+307,307,30_SUSTech-SYSU/originalImages/0588.jpg,[],['no diabetic retinopathy'],3,0.4436537
+308,308,30_SUSTech-SYSU/originalImages/0788.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2502175
+309,309,30_SUSTech-SYSU/originalImages/0712.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.74340045
+310,310,30_SUSTech-SYSU/originalImages/0896.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.4019373
+311,311,30_SUSTech-SYSU/originalImages/0682.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.26061937
+312,312,30_SUSTech-SYSU/originalImages/0705.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.36242202
+313,313,30_SUSTech-SYSU/originalImages/0140.jpg,[],['no diabetic retinopathy'],4,0.24134256
+314,314,30_SUSTech-SYSU/originalImages/0255.jpg,[],['no diabetic retinopathy'],3,0.3972309
+315,315,30_SUSTech-SYSU/originalImages/0953.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.46657884
+316,316,30_SUSTech-SYSU/originalImages/0941.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.39500028
+317,317,30_SUSTech-SYSU/originalImages/1038.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.26452646
+318,318,30_SUSTech-SYSU/originalImages/0068.jpg,[],['no diabetic retinopathy'],4,0.2227303
+319,319,30_SUSTech-SYSU/originalImages/0872.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.33589077
+320,320,30_SUSTech-SYSU/originalImages/0714.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.26437587
+321,321,30_SUSTech-SYSU/originalImages/0536.jpg,[],['no diabetic retinopathy'],4,0.22067967
+322,322,30_SUSTech-SYSU/originalImages/0208.jpg,[],['no diabetic retinopathy'],4,0.18016818
+323,323,30_SUSTech-SYSU/originalImages/0265.jpg,[],['no diabetic retinopathy'],3,0.37414727
+324,324,30_SUSTech-SYSU/originalImages/1180.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.6453748
+325,325,30_SUSTech-SYSU/originalImages/0319.jpg,[],['no diabetic retinopathy'],3,0.34139925
+326,326,30_SUSTech-SYSU/originalImages/1166.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3000898
+327,327,30_SUSTech-SYSU/originalImages/1095.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.1272629
+328,328,30_SUSTech-SYSU/originalImages/0691.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.40484098
+329,329,30_SUSTech-SYSU/originalImages/1019.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2638646
+330,330,30_SUSTech-SYSU/originalImages/1067.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.356866
+331,331,30_SUSTech-SYSU/originalImages/0738.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.1871319
+332,332,30_SUSTech-SYSU/originalImages/0096.jpg,[],['no diabetic retinopathy'],3,0.28828996
+333,333,30_SUSTech-SYSU/originalImages/0464.jpg,[],['no diabetic retinopathy'],4,0.20336378
+334,334,30_SUSTech-SYSU/originalImages/0060.jpg,[],['no diabetic retinopathy'],3,0.36663857
+335,335,30_SUSTech-SYSU/originalImages/0285.jpg,[],['no diabetic retinopathy'],3,0.30791146
+336,336,30_SUSTech-SYSU/originalImages/0874.jpg,[],"['severe diabetic retinopathy', 'exudates']",2,0.5393416
+337,337,30_SUSTech-SYSU/originalImages/0109.jpg,[],['no diabetic retinopathy'],4,0.17296025
+338,338,30_SUSTech-SYSU/originalImages/1146.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.38551375
+339,339,30_SUSTech-SYSU/originalImages/0655.jpg,[],['mild diabetic retinopathy'],3,0.40817
+340,340,30_SUSTech-SYSU/originalImages/0221.jpg,[],['no diabetic retinopathy'],3,0.47182286
+341,341,30_SUSTech-SYSU/originalImages/1016.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.4177133
+342,342,30_SUSTech-SYSU/originalImages/0429.jpg,[],['no diabetic retinopathy'],4,0.21167116
+343,343,30_SUSTech-SYSU/originalImages/0393.jpg,[],['no diabetic retinopathy'],4,0.18241198
+344,344,30_SUSTech-SYSU/originalImages/0486.jpg,[],['no diabetic retinopathy'],3,0.2869836
+345,345,30_SUSTech-SYSU/originalImages/0351.jpg,[],['no diabetic retinopathy'],4,0.19815998
+346,346,30_SUSTech-SYSU/originalImages/1092.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.20161405
+347,347,30_SUSTech-SYSU/originalImages/0273.jpg,[],['no diabetic retinopathy'],4,0.21013528
+348,348,30_SUSTech-SYSU/originalImages/0476.jpg,[],['no diabetic retinopathy'],3,0.25066665
+349,349,30_SUSTech-SYSU/originalImages/0811.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.32801968
+350,350,30_SUSTech-SYSU/originalImages/0417.jpg,[],['no diabetic retinopathy'],4,0.17486767
+351,351,30_SUSTech-SYSU/originalImages/0864.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.42447424
+352,352,30_SUSTech-SYSU/originalImages/0499.jpg,[],['no diabetic retinopathy'],4,0.1941657
+353,353,30_SUSTech-SYSU/originalImages/0938.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.47307175
+354,354,30_SUSTech-SYSU/originalImages/0532.jpg,[],['no diabetic retinopathy'],4,0.16425745
+355,355,30_SUSTech-SYSU/originalImages/0111.jpg,[],['no diabetic retinopathy'],4,0.21766216
+356,356,30_SUSTech-SYSU/originalImages/0932.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.2065021
+357,357,30_SUSTech-SYSU/originalImages/1059.jpg,[],"['severe diabetic retinopathy', 'exudates']",2,0.5720227
+358,358,30_SUSTech-SYSU/originalImages/0739.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.17580469
+359,359,30_SUSTech-SYSU/originalImages/1032.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.42490733
+360,360,30_SUSTech-SYSU/originalImages/1141.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.22454403
+361,361,30_SUSTech-SYSU/originalImages/0459.jpg,[],['no diabetic retinopathy'],4,0.19352275
+362,362,30_SUSTech-SYSU/originalImages/0381.jpg,[],['no diabetic retinopathy'],3,0.2874171
+363,363,30_SUSTech-SYSU/originalImages/1089.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.2952915
+364,364,30_SUSTech-SYSU/originalImages/0509.jpg,[],['no diabetic retinopathy'],3,0.25923133
+365,365,30_SUSTech-SYSU/originalImages/0692.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.23812528
+366,366,30_SUSTech-SYSU/originalImages/0468.jpg,[],['no diabetic retinopathy'],4,0.2038191
+367,367,30_SUSTech-SYSU/originalImages/0792.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.38820994
+368,368,30_SUSTech-SYSU/originalImages/0070.jpg,[],['no diabetic retinopathy'],3,0.25691813
+369,369,30_SUSTech-SYSU/originalImages/0916.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.23358299
+370,370,30_SUSTech-SYSU/originalImages/0021.jpg,[],['no diabetic retinopathy'],3,0.26900217
+371,371,30_SUSTech-SYSU/originalImages/0321.jpg,[],['no diabetic retinopathy'],3,0.25273243
+372,372,30_SUSTech-SYSU/originalImages/0270.jpg,[],['no diabetic retinopathy'],3,0.29140887
+373,373,30_SUSTech-SYSU/originalImages/0936.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.48301414
+374,374,30_SUSTech-SYSU/originalImages/0841.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.4832593
+375,375,30_SUSTech-SYSU/originalImages/0818.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.5045836
+376,376,30_SUSTech-SYSU/originalImages/0707.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.22642276
+377,377,30_SUSTech-SYSU/originalImages/0842.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.6430604
+378,378,30_SUSTech-SYSU/originalImages/1009.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.50748783
+379,379,30_SUSTech-SYSU/originalImages/1191.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.27087775
+380,380,30_SUSTech-SYSU/originalImages/1188.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.42442736
+381,381,30_SUSTech-SYSU/originalImages/0224.jpg,[],['no diabetic retinopathy'],4,0.21805727
+382,382,30_SUSTech-SYSU/originalImages/0727.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.21321392
+383,383,30_SUSTech-SYSU/originalImages/1062.jpg,[],"['severe diabetic retinopathy', 'exudates']",2,0.5275336
+384,384,30_SUSTech-SYSU/originalImages/0660.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.19360381
+385,385,30_SUSTech-SYSU/originalImages/0010.jpg,[],['no diabetic retinopathy'],3,0.32495233
+386,386,30_SUSTech-SYSU/originalImages/0716.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.31444764
+387,387,30_SUSTech-SYSU/originalImages/0480.jpg,[],['no diabetic retinopathy'],4,0.20339653
+388,388,30_SUSTech-SYSU/originalImages/1030.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2938388
+389,389,30_SUSTech-SYSU/originalImages/0391.jpg,[],['no diabetic retinopathy'],3,0.25432605
+390,390,30_SUSTech-SYSU/originalImages/0152.jpg,[],['no diabetic retinopathy'],4,0.18056136
+391,391,30_SUSTech-SYSU/originalImages/0726.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.16604663
+392,392,30_SUSTech-SYSU/originalImages/1109.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.23991384
+393,393,30_SUSTech-SYSU/originalImages/0516.jpg,[],['no diabetic retinopathy'],3,0.2986721
+394,394,30_SUSTech-SYSU/originalImages/0400.jpg,[],['no diabetic retinopathy'],3,0.493226
+395,395,30_SUSTech-SYSU/originalImages/0783.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.24992086
+396,396,30_SUSTech-SYSU/originalImages/1204.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.23597603
+397,397,30_SUSTech-SYSU/originalImages/0760.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.34678262
+398,398,30_SUSTech-SYSU/originalImages/0341.jpg,[],['no diabetic retinopathy'],4,0.12009963
+399,399,30_SUSTech-SYSU/originalImages/0920.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.4104786
+400,400,30_SUSTech-SYSU/originalImages/0041.jpg,[],['no diabetic retinopathy'],3,0.39304754
+401,401,30_SUSTech-SYSU/originalImages/0669.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.18904316
+402,402,30_SUSTech-SYSU/originalImages/1049.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.2531627
+403,403,30_SUSTech-SYSU/originalImages/0975.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.37834367
+404,404,30_SUSTech-SYSU/originalImages/0491.jpg,[],['no diabetic retinopathy'],3,0.2902305
+405,405,30_SUSTech-SYSU/originalImages/0567.jpg,[],['no diabetic retinopathy'],4,0.23448823
+406,406,30_SUSTech-SYSU/originalImages/0690.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.18424015
+407,407,30_SUSTech-SYSU/originalImages/0605.jpg,[],['no diabetic retinopathy'],4,0.19686791
+408,408,30_SUSTech-SYSU/originalImages/1208.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.22836834
+409,409,30_SUSTech-SYSU/originalImages/0205.jpg,[],['no diabetic retinopathy'],3,0.30521196
+410,410,30_SUSTech-SYSU/originalImages/0622.jpg,[],['no diabetic retinopathy'],4,0.190939
+411,411,30_SUSTech-SYSU/originalImages/0725.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.39985815
+412,412,30_SUSTech-SYSU/originalImages/0455.jpg,[],['no diabetic retinopathy'],3,0.3091771
+413,413,30_SUSTech-SYSU/originalImages/0358.jpg,[],['no diabetic retinopathy'],4,0.18312323
+414,414,30_SUSTech-SYSU/originalImages/1026.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.25956717
+415,415,30_SUSTech-SYSU/originalImages/0294.jpg,[],['no diabetic retinopathy'],3,0.26734522
+416,416,30_SUSTech-SYSU/originalImages/0298.jpg,[],['no diabetic retinopathy'],4,0.20591545
+417,417,30_SUSTech-SYSU/originalImages/0618.jpg,[],['no diabetic retinopathy'],4,0.1961843
+418,418,30_SUSTech-SYSU/originalImages/0582.jpg,[],['no diabetic retinopathy'],4,0.2418626
+419,419,30_SUSTech-SYSU/originalImages/0242.jpg,[],['no diabetic retinopathy'],3,0.25947067
+420,420,30_SUSTech-SYSU/originalImages/0890.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.5010434
+421,421,30_SUSTech-SYSU/originalImages/0170.jpg,[],['no diabetic retinopathy'],3,0.48244202
+422,422,30_SUSTech-SYSU/originalImages/0283.jpg,[],['no diabetic retinopathy'],3,0.2648824
+423,423,30_SUSTech-SYSU/originalImages/0994.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.66758054
+424,424,30_SUSTech-SYSU/originalImages/0650.jpg,[],['mild diabetic retinopathy'],3,0.2578419
+425,425,30_SUSTech-SYSU/originalImages/0254.jpg,[],['no diabetic retinopathy'],3,0.2895639
+426,426,30_SUSTech-SYSU/originalImages/0373.jpg,[],['no diabetic retinopathy'],4,0.19717503
+427,427,30_SUSTech-SYSU/originalImages/1083.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.3348511
+428,428,30_SUSTech-SYSU/originalImages/0204.jpg,[],['no diabetic retinopathy'],3,0.32814503
+429,429,30_SUSTech-SYSU/originalImages/0116.jpg,[],['no diabetic retinopathy'],3,0.34711394
+430,430,30_SUSTech-SYSU/originalImages/0015.jpg,[],['no diabetic retinopathy'],3,0.2987861
+431,431,30_SUSTech-SYSU/originalImages/1156.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.35057896
+432,432,30_SUSTech-SYSU/originalImages/1130.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",2,0.5311839
+433,433,30_SUSTech-SYSU/originalImages/0653.jpg,[],['mild diabetic retinopathy'],4,0.23533806
+434,434,30_SUSTech-SYSU/originalImages/0704.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.29620636
+435,435,30_SUSTech-SYSU/originalImages/0074.jpg,[],['no diabetic retinopathy'],4,0.18030708
+436,436,30_SUSTech-SYSU/originalImages/0765.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.40981475
+437,437,30_SUSTech-SYSU/originalImages/0266.jpg,[],['no diabetic retinopathy'],4,0.18087731
+438,438,30_SUSTech-SYSU/originalImages/0284.jpg,[],['no diabetic retinopathy'],3,0.29007733
+439,439,30_SUSTech-SYSU/originalImages/0854.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.46556032
+440,440,30_SUSTech-SYSU/originalImages/0933.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.29309297
+441,441,30_SUSTech-SYSU/originalImages/1201.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2970298
+442,442,30_SUSTech-SYSU/originalImages/0274.jpg,[],['no diabetic retinopathy'],4,0.21399398
+443,443,30_SUSTech-SYSU/originalImages/0072.jpg,[],['no diabetic retinopathy'],4,0.2318369
+444,444,30_SUSTech-SYSU/originalImages/1072.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.22861136
+445,445,30_SUSTech-SYSU/originalImages/1012.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.43624845
+446,446,30_SUSTech-SYSU/originalImages/0183.jpg,[],['no diabetic retinopathy'],3,0.33820444
+447,447,30_SUSTech-SYSU/originalImages/0236.jpg,[],['no diabetic retinopathy'],4,0.20628905
+448,448,30_SUSTech-SYSU/originalImages/0897.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.27520326
+449,449,30_SUSTech-SYSU/originalImages/1140.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.22548151
+450,450,30_SUSTech-SYSU/originalImages/0835.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.25117055
+451,451,30_SUSTech-SYSU/originalImages/0036.jpg,[],['no diabetic retinopathy'],3,0.44085944
+452,452,30_SUSTech-SYSU/originalImages/0577.jpg,[],['no diabetic retinopathy'],3,0.3352896
+453,453,30_SUSTech-SYSU/originalImages/0439.jpg,[],['no diabetic retinopathy'],4,0.23567802
+454,454,30_SUSTech-SYSU/originalImages/0330.jpg,[],['no diabetic retinopathy'],3,0.25168115
+455,455,30_SUSTech-SYSU/originalImages/0001.jpg,[],['no diabetic retinopathy'],3,0.41187146
+456,456,30_SUSTech-SYSU/originalImages/0137.jpg,[],['no diabetic retinopathy'],3,0.31569204
+457,457,30_SUSTech-SYSU/originalImages/1192.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.2569582
+458,458,30_SUSTech-SYSU/originalImages/0039.jpg,[],['no diabetic retinopathy'],4,0.23968694
+459,459,30_SUSTech-SYSU/originalImages/1215.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.2097892
+460,460,30_SUSTech-SYSU/originalImages/0040.jpg,[],['no diabetic retinopathy'],4,0.24399443
+461,461,30_SUSTech-SYSU/originalImages/1129.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",2,0.5129104
+462,462,30_SUSTech-SYSU/originalImages/0470.jpg,[],['no diabetic retinopathy'],3,0.38804173
+463,463,30_SUSTech-SYSU/originalImages/0025.jpg,[],['no diabetic retinopathy'],3,0.2929488
+464,464,30_SUSTech-SYSU/originalImages/0009.jpg,[],['no diabetic retinopathy'],3,0.27970424
+465,465,30_SUSTech-SYSU/originalImages/1063.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.36052483
+466,466,30_SUSTech-SYSU/originalImages/0766.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.21957588
+467,467,30_SUSTech-SYSU/originalImages/1218.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.21876125
+468,468,30_SUSTech-SYSU/originalImages/0020.jpg,[],['no diabetic retinopathy'],3,0.25909865
+469,469,30_SUSTech-SYSU/originalImages/0595.jpg,[],['no diabetic retinopathy'],3,0.38438785
+470,470,30_SUSTech-SYSU/originalImages/0700.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.31253746
+471,471,30_SUSTech-SYSU/originalImages/1202.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.18456621
+472,472,30_SUSTech-SYSU/originalImages/0141.jpg,[],['no diabetic retinopathy'],4,0.113702625
+473,473,30_SUSTech-SYSU/originalImages/0542.jpg,[],['no diabetic retinopathy'],4,0.16602798
+474,474,30_SUSTech-SYSU/originalImages/0848.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.39077955
+475,475,30_SUSTech-SYSU/originalImages/0054.jpg,[],['no diabetic retinopathy'],3,0.33211184
+476,476,30_SUSTech-SYSU/originalImages/1035.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.20725387
+477,477,30_SUSTech-SYSU/originalImages/0028.jpg,[],['no diabetic retinopathy'],4,0.18366398
+478,478,30_SUSTech-SYSU/originalImages/0662.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3394659
+479,479,30_SUSTech-SYSU/originalImages/0931.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.574521
+480,480,30_SUSTech-SYSU/originalImages/1041.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.22087507
+481,481,30_SUSTech-SYSU/originalImages/0556.jpg,[],['no diabetic retinopathy'],2,0.50440574
+482,482,30_SUSTech-SYSU/originalImages/0895.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.32218593
+483,483,30_SUSTech-SYSU/originalImages/0644.jpg,[],['mild diabetic retinopathy'],3,0.25913116
+484,484,30_SUSTech-SYSU/originalImages/0826.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.5367605
+485,485,30_SUSTech-SYSU/originalImages/0801.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.21545586
+486,486,30_SUSTech-SYSU/originalImages/0706.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.2841488
+487,487,30_SUSTech-SYSU/originalImages/0386.jpg,[],['no diabetic retinopathy'],3,0.4026923
+488,488,30_SUSTech-SYSU/originalImages/0834.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.44687742
+489,489,30_SUSTech-SYSU/originalImages/1158.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.22725669
+490,490,30_SUSTech-SYSU/originalImages/0550.jpg,[],['no diabetic retinopathy'],4,0.24172063
+491,491,30_SUSTech-SYSU/originalImages/0320.jpg,[],['no diabetic retinopathy'],4,0.21939528
+492,492,30_SUSTech-SYSU/originalImages/0398.jpg,[],['no diabetic retinopathy'],3,0.25071305
+493,493,30_SUSTech-SYSU/originalImages/0228.jpg,[],['no diabetic retinopathy'],3,0.30218545
+494,494,30_SUSTech-SYSU/originalImages/0240.jpg,[],['no diabetic retinopathy'],4,0.2377445
+495,495,30_SUSTech-SYSU/originalImages/0946.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.21159384
+496,496,30_SUSTech-SYSU/originalImages/0048.jpg,[],['no diabetic retinopathy'],4,0.23394565
+497,497,30_SUSTech-SYSU/originalImages/0858.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.49877417
+498,498,30_SUSTech-SYSU/originalImages/0052.jpg,[],['no diabetic retinopathy'],4,0.24261148
+499,499,30_SUSTech-SYSU/originalImages/0852.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.16466315
+500,500,30_SUSTech-SYSU/originalImages/0775.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.32388368
+501,501,30_SUSTech-SYSU/originalImages/0559.jpg,[],['no diabetic retinopathy'],4,0.2353248
+502,502,30_SUSTech-SYSU/originalImages/1103.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.38625047
+503,503,30_SUSTech-SYSU/originalImages/0761.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.46621916
+504,504,30_SUSTech-SYSU/originalImages/0785.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.35120526
+505,505,30_SUSTech-SYSU/originalImages/0348.jpg,[],['no diabetic retinopathy'],3,0.40063077
+506,506,30_SUSTech-SYSU/originalImages/0442.jpg,[],['no diabetic retinopathy'],3,0.31463546
+507,507,30_SUSTech-SYSU/originalImages/0084.jpg,[],['no diabetic retinopathy'],3,0.25636673
+508,508,30_SUSTech-SYSU/originalImages/0555.jpg,[],['no diabetic retinopathy'],4,0.23578702
+509,509,30_SUSTech-SYSU/originalImages/1147.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.21871538
+510,510,30_SUSTech-SYSU/originalImages/0406.jpg,[],['no diabetic retinopathy'],4,0.19749458
+511,511,30_SUSTech-SYSU/originalImages/0978.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.33031422
+512,512,30_SUSTech-SYSU/originalImages/1171.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.314602
+513,513,30_SUSTech-SYSU/originalImages/0145.jpg,[],['no diabetic retinopathy'],3,0.29540983
+514,514,30_SUSTech-SYSU/originalImages/0080.jpg,[],['no diabetic retinopathy'],4,0.22573814
+515,515,30_SUSTech-SYSU/originalImages/0676.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.19480981
+516,516,30_SUSTech-SYSU/originalImages/0940.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.23106726
+517,517,30_SUSTech-SYSU/originalImages/0862.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.42310208
+518,518,30_SUSTech-SYSU/originalImages/0750.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.39888132
+519,519,30_SUSTech-SYSU/originalImages/1004.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3875407
+520,520,30_SUSTech-SYSU/originalImages/0119.jpg,[],['no diabetic retinopathy'],4,0.15421513
+521,521,30_SUSTech-SYSU/originalImages/1200.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.41841578
+522,522,30_SUSTech-SYSU/originalImages/0639.jpg,[],['mild diabetic retinopathy'],4,0.21600431
+523,523,30_SUSTech-SYSU/originalImages/1073.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.21854615
+524,524,30_SUSTech-SYSU/originalImages/0624.jpg,[],['no diabetic retinopathy'],3,0.35557342
+525,525,30_SUSTech-SYSU/originalImages/0861.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.23296797
+526,526,30_SUSTech-SYSU/originalImages/0269.jpg,[],['no diabetic retinopathy'],3,0.3065621
+527,527,30_SUSTech-SYSU/originalImages/0621.jpg,[],['no diabetic retinopathy'],3,0.25051814
+528,528,30_SUSTech-SYSU/originalImages/0820.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.31757072
+529,529,30_SUSTech-SYSU/originalImages/0749.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.18890075
+530,530,30_SUSTech-SYSU/originalImages/0121.jpg,[],['no diabetic retinopathy'],3,0.25159365
+531,531,30_SUSTech-SYSU/originalImages/0291.jpg,[],['no diabetic retinopathy'],4,0.13971731
+532,532,30_SUSTech-SYSU/originalImages/0190.jpg,[],['no diabetic retinopathy'],3,0.43114632
+533,533,30_SUSTech-SYSU/originalImages/0717.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.60820776
+534,534,30_SUSTech-SYSU/originalImages/0787.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.37468502
+535,535,30_SUSTech-SYSU/originalImages/0816.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.42143393
+536,536,30_SUSTech-SYSU/originalImages/0562.jpg,[],['no diabetic retinopathy'],4,0.15057687
+537,537,30_SUSTech-SYSU/originalImages/0301.jpg,[],['no diabetic retinopathy'],4,0.17874362
+538,538,30_SUSTech-SYSU/originalImages/0983.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.18668695
+539,539,30_SUSTech-SYSU/originalImages/0216.jpg,[],['no diabetic retinopathy'],3,0.3045099
+540,540,30_SUSTech-SYSU/originalImages/0192.jpg,[],['no diabetic retinopathy'],4,0.22988479
+541,541,30_SUSTech-SYSU/originalImages/0501.jpg,[],['no diabetic retinopathy'],4,0.17776501
+542,542,30_SUSTech-SYSU/originalImages/0493.jpg,[],['no diabetic retinopathy'],3,0.28525415
+543,543,30_SUSTech-SYSU/originalImages/0664.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.24952424
+544,544,30_SUSTech-SYSU/originalImages/1160.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.24697995
+545,545,30_SUSTech-SYSU/originalImages/0125.jpg,[],['no diabetic retinopathy'],3,0.4467117
+546,546,30_SUSTech-SYSU/originalImages/1161.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.22899286
+547,547,30_SUSTech-SYSU/originalImages/0684.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.24823321
+548,548,30_SUSTech-SYSU/originalImages/0671.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.16711393
+549,549,30_SUSTech-SYSU/originalImages/0702.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.5160907
+550,550,30_SUSTech-SYSU/originalImages/0925.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.40989122
+551,551,30_SUSTech-SYSU/originalImages/1113.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.40862292
+552,552,30_SUSTech-SYSU/originalImages/0882.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.28544882
+553,553,30_SUSTech-SYSU/originalImages/1136.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.34990597
+554,554,30_SUSTech-SYSU/originalImages/1175.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.31636688
+555,555,30_SUSTech-SYSU/originalImages/0797.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.34901255
+556,556,30_SUSTech-SYSU/originalImages/0878.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3330209
+557,557,30_SUSTech-SYSU/originalImages/0886.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3630378
+558,558,30_SUSTech-SYSU/originalImages/0840.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.2789354
+559,559,30_SUSTech-SYSU/originalImages/0742.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2645206
+560,560,30_SUSTech-SYSU/originalImages/0063.jpg,[],['no diabetic retinopathy'],3,0.33279097
+561,561,30_SUSTech-SYSU/originalImages/0149.jpg,[],['no diabetic retinopathy'],4,0.2360786
+562,562,30_SUSTech-SYSU/originalImages/0891.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.47498944
+563,563,30_SUSTech-SYSU/originalImages/0154.jpg,[],['no diabetic retinopathy'],4,0.18344355
+564,564,30_SUSTech-SYSU/originalImages/0701.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.24503678
+565,565,30_SUSTech-SYSU/originalImages/0334.jpg,[],['no diabetic retinopathy'],3,0.25411093
+566,566,30_SUSTech-SYSU/originalImages/0195.jpg,[],['no diabetic retinopathy'],3,0.32109392
+567,567,30_SUSTech-SYSU/originalImages/0057.jpg,[],['no diabetic retinopathy'],3,0.28228876
+568,568,30_SUSTech-SYSU/originalImages/0458.jpg,[],['no diabetic retinopathy'],4,0.1913494
+569,569,30_SUSTech-SYSU/originalImages/0243.jpg,[],['no diabetic retinopathy'],4,0.2444666
+570,570,30_SUSTech-SYSU/originalImages/0318.jpg,[],['no diabetic retinopathy'],2,0.505459
+571,571,30_SUSTech-SYSU/originalImages/0449.jpg,[],['no diabetic retinopathy'],2,0.5185724
+572,572,30_SUSTech-SYSU/originalImages/0477.jpg,[],['no diabetic retinopathy'],4,0.22762214
+573,573,30_SUSTech-SYSU/originalImages/0831.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.26211712
+574,574,30_SUSTech-SYSU/originalImages/0751.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.18758392
+575,575,30_SUSTech-SYSU/originalImages/0032.jpg,[],['no diabetic retinopathy'],3,0.2606094
+576,576,30_SUSTech-SYSU/originalImages/0892.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.29352778
+577,577,30_SUSTech-SYSU/originalImages/1044.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.28141564
+578,578,30_SUSTech-SYSU/originalImages/0414.jpg,[],['no diabetic retinopathy'],3,0.35653678
+579,579,30_SUSTech-SYSU/originalImages/0053.jpg,[],['no diabetic retinopathy'],3,0.26517373
+580,580,30_SUSTech-SYSU/originalImages/0328.jpg,[],['no diabetic retinopathy'],4,0.21634021
+581,581,30_SUSTech-SYSU/originalImages/0094.jpg,[],['no diabetic retinopathy'],4,0.21898821
+582,582,30_SUSTech-SYSU/originalImages/0446.jpg,[],['no diabetic retinopathy'],4,0.2111098
+583,583,30_SUSTech-SYSU/originalImages/0479.jpg,[],['no diabetic retinopathy'],4,0.24043846
+584,584,30_SUSTech-SYSU/originalImages/0838.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.22920254
+585,585,30_SUSTech-SYSU/originalImages/1213.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.29139638
+586,586,30_SUSTech-SYSU/originalImages/0339.jpg,[],['no diabetic retinopathy'],4,0.2345961
+587,587,30_SUSTech-SYSU/originalImages/1163.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.27651674
+588,588,30_SUSTech-SYSU/originalImages/0003.jpg,[],['no diabetic retinopathy'],4,0.24119322
+589,589,30_SUSTech-SYSU/originalImages/1047.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.3699761
+590,590,30_SUSTech-SYSU/originalImages/0633.jpg,[],['mild diabetic retinopathy'],3,0.49201983
+591,591,30_SUSTech-SYSU/originalImages/0672.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3263951
+592,592,30_SUSTech-SYSU/originalImages/0262.jpg,[],['no diabetic retinopathy'],3,0.3237088
+593,593,30_SUSTech-SYSU/originalImages/1084.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.3881093
+594,594,30_SUSTech-SYSU/originalImages/1210.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.2818102
+595,595,30_SUSTech-SYSU/originalImages/1065.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.3786023
+596,596,30_SUSTech-SYSU/originalImages/0603.jpg,[],['no diabetic retinopathy'],3,0.26546982
+597,597,30_SUSTech-SYSU/originalImages/0497.jpg,[],['no diabetic retinopathy'],4,0.19504748
+598,598,30_SUSTech-SYSU/originalImages/0610.jpg,[],['no diabetic retinopathy'],3,0.2761972
+599,599,30_SUSTech-SYSU/originalImages/0430.jpg,[],['no diabetic retinopathy'],4,0.20480415
+600,600,30_SUSTech-SYSU/originalImages/0403.jpg,[],['no diabetic retinopathy'],4,0.1928826
+601,601,30_SUSTech-SYSU/originalImages/0372.jpg,[],['no diabetic retinopathy'],4,0.18831952
+602,602,30_SUSTech-SYSU/originalImages/0365.jpg,[],['no diabetic retinopathy'],4,0.23492695
+603,603,30_SUSTech-SYSU/originalImages/0875.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2924192
+604,604,30_SUSTech-SYSU/originalImages/0500.jpg,[],['no diabetic retinopathy'],4,0.24292155
+605,605,30_SUSTech-SYSU/originalImages/0452.jpg,[],['no diabetic retinopathy'],4,0.19176482
+606,606,30_SUSTech-SYSU/originalImages/0438.jpg,[],['no diabetic retinopathy'],4,0.19136368
+607,607,30_SUSTech-SYSU/originalImages/1056.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.43005326
+608,608,30_SUSTech-SYSU/originalImages/0799.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.34705436
+609,609,30_SUSTech-SYSU/originalImages/0230.jpg,[],['no diabetic retinopathy'],3,0.39786816
+610,610,30_SUSTech-SYSU/originalImages/0153.jpg,[],['no diabetic retinopathy'],4,0.24204753
+611,611,30_SUSTech-SYSU/originalImages/0972.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.45260555
+612,612,30_SUSTech-SYSU/originalImages/0297.jpg,[],['no diabetic retinopathy'],4,0.22086674
+613,613,30_SUSTech-SYSU/originalImages/0122.jpg,[],['no diabetic retinopathy'],4,0.20662606
+614,614,30_SUSTech-SYSU/originalImages/0174.jpg,[],['no diabetic retinopathy'],3,0.2590075
+615,615,30_SUSTech-SYSU/originalImages/0277.jpg,[],['no diabetic retinopathy'],3,0.29066288
+616,616,30_SUSTech-SYSU/originalImages/0258.jpg,[],['no diabetic retinopathy'],3,0.3531198
+617,617,30_SUSTech-SYSU/originalImages/0357.jpg,[],['no diabetic retinopathy'],3,0.25583923
+618,618,30_SUSTech-SYSU/originalImages/1185.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.3133737
+619,619,30_SUSTech-SYSU/originalImages/0800.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.16674685
+620,620,30_SUSTech-SYSU/originalImages/1010.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3623607
+621,621,30_SUSTech-SYSU/originalImages/0129.jpg,[],['no diabetic retinopathy'],4,0.18324013
+622,622,30_SUSTech-SYSU/originalImages/0307.jpg,[],['no diabetic retinopathy'],4,0.2336223
+623,623,30_SUSTech-SYSU/originalImages/1133.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.32473338
+624,624,30_SUSTech-SYSU/originalImages/0641.jpg,[],['mild diabetic retinopathy'],3,0.35954204
+625,625,30_SUSTech-SYSU/originalImages/0686.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2891317
+626,626,30_SUSTech-SYSU/originalImages/0522.jpg,[],['no diabetic retinopathy'],3,0.2921139
+627,627,30_SUSTech-SYSU/originalImages/0043.jpg,[],['no diabetic retinopathy'],3,0.4765348
+628,628,30_SUSTech-SYSU/originalImages/1212.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2892272
+629,629,30_SUSTech-SYSU/originalImages/1132.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",2,0.55743104
+630,630,30_SUSTech-SYSU/originalImages/1176.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.31580287
+631,631,30_SUSTech-SYSU/originalImages/0860.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.22941995
+632,632,30_SUSTech-SYSU/originalImages/1197.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.25672865
+633,633,30_SUSTech-SYSU/originalImages/0316.jpg,[],['no diabetic retinopathy'],4,0.18934454
+634,634,30_SUSTech-SYSU/originalImages/0171.jpg,[],['no diabetic retinopathy'],3,0.28112075
+635,635,30_SUSTech-SYSU/originalImages/0371.jpg,[],['no diabetic retinopathy'],4,0.19851469
+636,636,30_SUSTech-SYSU/originalImages/0561.jpg,[],['no diabetic retinopathy'],4,0.23591992
+637,637,30_SUSTech-SYSU/originalImages/0259.jpg,[],['no diabetic retinopathy'],4,0.17697938
+638,638,30_SUSTech-SYSU/originalImages/1027.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.32794908
+639,639,30_SUSTech-SYSU/originalImages/0099.jpg,[],['no diabetic retinopathy'],4,0.2325667
+640,640,30_SUSTech-SYSU/originalImages/0524.jpg,[],['no diabetic retinopathy'],4,0.21745586
+641,641,30_SUSTech-SYSU/originalImages/0422.jpg,[],['no diabetic retinopathy'],3,0.3123188
+642,642,30_SUSTech-SYSU/originalImages/0552.jpg,[],['no diabetic retinopathy'],2,0.50547343
+643,643,30_SUSTech-SYSU/originalImages/0884.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.4908574
+644,644,30_SUSTech-SYSU/originalImages/0107.jpg,[],['no diabetic retinopathy'],3,0.29302338
+645,645,30_SUSTech-SYSU/originalImages/0803.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.29838318
+646,646,30_SUSTech-SYSU/originalImages/1124.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.24578999
+647,647,30_SUSTech-SYSU/originalImages/0963.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.19666049
+648,648,30_SUSTech-SYSU/originalImages/1014.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.30537507
+649,649,30_SUSTech-SYSU/originalImages/0073.jpg,[],['no diabetic retinopathy'],4,0.1780971
+650,650,30_SUSTech-SYSU/originalImages/0829.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.1958442
+651,651,30_SUSTech-SYSU/originalImages/0928.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.40934485
+652,652,30_SUSTech-SYSU/originalImages/0115.jpg,[],['no diabetic retinopathy'],3,0.26131085
+653,653,30_SUSTech-SYSU/originalImages/0675.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.27932358
+654,654,30_SUSTech-SYSU/originalImages/0157.jpg,[],['no diabetic retinopathy'],3,0.3298651
+655,655,30_SUSTech-SYSU/originalImages/0370.jpg,[],['no diabetic retinopathy'],4,0.21228442
+656,656,30_SUSTech-SYSU/originalImages/1183.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.33527428
+657,657,30_SUSTech-SYSU/originalImages/0553.jpg,[],['no diabetic retinopathy'],4,0.221583
+658,658,30_SUSTech-SYSU/originalImages/0302.jpg,[],['no diabetic retinopathy'],3,0.30790883
+659,659,30_SUSTech-SYSU/originalImages/0868.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.41025347
+660,660,30_SUSTech-SYSU/originalImages/0919.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.29472616
+661,661,30_SUSTech-SYSU/originalImages/0615.jpg,[],['no diabetic retinopathy'],4,0.24391837
+662,662,30_SUSTech-SYSU/originalImages/0026.jpg,[],['no diabetic retinopathy'],2,0.5596148
+663,663,30_SUSTech-SYSU/originalImages/0596.jpg,[],['no diabetic retinopathy'],4,0.18253782
+664,664,30_SUSTech-SYSU/originalImages/1172.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.48903537
+665,665,30_SUSTech-SYSU/originalImages/0626.jpg,[],['no diabetic retinopathy'],4,0.2069845
+666,666,30_SUSTech-SYSU/originalImages/0306.jpg,[],['no diabetic retinopathy'],3,0.28319776
+667,667,30_SUSTech-SYSU/originalImages/1118.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.28551927
+668,668,30_SUSTech-SYSU/originalImages/1018.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.4765732
+669,669,30_SUSTech-SYSU/originalImages/0410.jpg,[],['no diabetic retinopathy'],4,0.19670032
+670,670,30_SUSTech-SYSU/originalImages/0448.jpg,[],['no diabetic retinopathy'],4,0.15688531
+671,671,30_SUSTech-SYSU/originalImages/0899.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.17471005
+672,672,30_SUSTech-SYSU/originalImages/0944.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.23682772
+673,673,30_SUSTech-SYSU/originalImages/1164.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.28648487
+674,674,30_SUSTech-SYSU/originalImages/0350.jpg,[],['no diabetic retinopathy'],4,0.24157006
+675,675,30_SUSTech-SYSU/originalImages/1173.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.2970743
+676,676,30_SUSTech-SYSU/originalImages/1101.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.42471558
+677,677,30_SUSTech-SYSU/originalImages/1058.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.29453358
+678,678,30_SUSTech-SYSU/originalImages/0282.jpg,[],['no diabetic retinopathy'],3,0.28755084
+679,679,30_SUSTech-SYSU/originalImages/0367.jpg,[],['no diabetic retinopathy'],4,0.1687089
+680,680,30_SUSTech-SYSU/originalImages/0694.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.25956044
+681,681,30_SUSTech-SYSU/originalImages/0163.jpg,[],['no diabetic retinopathy'],4,0.23663297
+682,682,30_SUSTech-SYSU/originalImages/0310.jpg,[],['no diabetic retinopathy'],4,0.23659648
+683,683,30_SUSTech-SYSU/originalImages/0747.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.20672426
+684,684,30_SUSTech-SYSU/originalImages/0790.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3461001
+685,685,30_SUSTech-SYSU/originalImages/1031.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3611822
+686,686,30_SUSTech-SYSU/originalImages/0601.jpg,[],['no diabetic retinopathy'],3,0.26598415
+687,687,30_SUSTech-SYSU/originalImages/0584.jpg,[],['no diabetic retinopathy'],4,0.18825856
+688,688,30_SUSTech-SYSU/originalImages/0280.jpg,[],['no diabetic retinopathy'],4,0.20493776
+689,689,30_SUSTech-SYSU/originalImages/0679.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.24653976
+690,690,30_SUSTech-SYSU/originalImages/0934.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2811949
+691,691,30_SUSTech-SYSU/originalImages/0366.jpg,[],['no diabetic retinopathy'],3,0.31918868
+692,692,30_SUSTech-SYSU/originalImages/0616.jpg,[],['no diabetic retinopathy'],3,0.35110474
+693,693,30_SUSTech-SYSU/originalImages/0888.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.1799067
+694,694,30_SUSTech-SYSU/originalImages/0218.jpg,[],['no diabetic retinopathy'],4,0.23193939
+695,695,30_SUSTech-SYSU/originalImages/0251.jpg,[],['no diabetic retinopathy'],4,0.20848201
+696,696,30_SUSTech-SYSU/originalImages/0086.jpg,[],['no diabetic retinopathy'],2,0.5407996
+697,697,30_SUSTech-SYSU/originalImages/0956.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.18079518
+698,698,30_SUSTech-SYSU/originalImages/0130.jpg,[],['no diabetic retinopathy'],3,0.29619914
+699,699,30_SUSTech-SYSU/originalImages/0651.jpg,[],['mild diabetic retinopathy'],3,0.2609932
+700,700,30_SUSTech-SYSU/originalImages/0506.jpg,[],['no diabetic retinopathy'],3,0.29358888
+701,701,30_SUSTech-SYSU/originalImages/0433.jpg,[],['no diabetic retinopathy'],4,0.20386402
+702,702,30_SUSTech-SYSU/originalImages/0585.jpg,[],['no diabetic retinopathy'],3,0.26626095
+703,703,30_SUSTech-SYSU/originalImages/0490.jpg,[],['no diabetic retinopathy'],3,0.25173342
+704,704,30_SUSTech-SYSU/originalImages/0210.jpg,[],['no diabetic retinopathy'],4,0.20906709
+705,705,30_SUSTech-SYSU/originalImages/1181.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.32553712
+706,706,30_SUSTech-SYSU/originalImages/0211.jpg,[],['no diabetic retinopathy'],4,0.1917943
+707,707,30_SUSTech-SYSU/originalImages/1152.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.447877
+708,708,30_SUSTech-SYSU/originalImages/0194.jpg,[],['no diabetic retinopathy'],4,0.19738993
+709,709,30_SUSTech-SYSU/originalImages/1053.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.38612905
+710,710,30_SUSTech-SYSU/originalImages/0551.jpg,[],['no diabetic retinopathy'],4,0.2310707
+711,711,30_SUSTech-SYSU/originalImages/1155.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",2,0.59297407
+712,712,30_SUSTech-SYSU/originalImages/1055.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.34608224
+713,713,30_SUSTech-SYSU/originalImages/1127.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.20711312
+714,714,30_SUSTech-SYSU/originalImages/0252.jpg,[],['no diabetic retinopathy'],3,0.25184476
+715,715,30_SUSTech-SYSU/originalImages/0492.jpg,[],['no diabetic retinopathy'],4,0.18190445
+716,716,30_SUSTech-SYSU/originalImages/0665.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.44673717
+717,717,30_SUSTech-SYSU/originalImages/0547.jpg,[],['no diabetic retinopathy'],4,0.2293084
+718,718,30_SUSTech-SYSU/originalImages/0645.jpg,[],['mild diabetic retinopathy'],3,0.26794901
+719,719,30_SUSTech-SYSU/originalImages/0980.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.33255112
+720,720,30_SUSTech-SYSU/originalImages/0327.jpg,[],['no diabetic retinopathy'],4,0.22663572
+721,721,30_SUSTech-SYSU/originalImages/0169.jpg,[],['no diabetic retinopathy'],4,0.23422213
+722,722,30_SUSTech-SYSU/originalImages/0871.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.28958514
+723,723,30_SUSTech-SYSU/originalImages/0451.jpg,[],['no diabetic retinopathy'],4,0.21767509
+724,724,30_SUSTech-SYSU/originalImages/0640.jpg,[],['mild diabetic retinopathy'],3,0.27744287
+725,725,30_SUSTech-SYSU/originalImages/0607.jpg,[],['no diabetic retinopathy'],4,0.23906453
+726,726,30_SUSTech-SYSU/originalImages/0467.jpg,[],['no diabetic retinopathy'],3,0.27145582
+727,727,30_SUSTech-SYSU/originalImages/1037.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.19881919
+728,728,30_SUSTech-SYSU/originalImages/0343.jpg,[],['no diabetic retinopathy'],3,0.2634295
+729,729,30_SUSTech-SYSU/originalImages/0578.jpg,[],['no diabetic retinopathy'],3,0.2789051
+730,730,30_SUSTech-SYSU/originalImages/0879.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.18432698
+731,731,30_SUSTech-SYSU/originalImages/0465.jpg,[],['no diabetic retinopathy'],4,0.18562764
+732,732,30_SUSTech-SYSU/originalImages/0564.jpg,[],['no diabetic retinopathy'],4,0.22402212
+733,733,30_SUSTech-SYSU/originalImages/0540.jpg,[],['no diabetic retinopathy'],3,0.39426732
+734,734,30_SUSTech-SYSU/originalImages/0256.jpg,[],['no diabetic retinopathy'],3,0.27323517
+735,735,30_SUSTech-SYSU/originalImages/0635.jpg,[],['mild diabetic retinopathy'],4,0.22614765
+736,736,30_SUSTech-SYSU/originalImages/0069.jpg,[],['no diabetic retinopathy'],4,0.18768382
+737,737,30_SUSTech-SYSU/originalImages/0179.jpg,[],['no diabetic retinopathy'],4,0.1912605
+738,738,30_SUSTech-SYSU/originalImages/0613.jpg,[],['no diabetic retinopathy'],3,0.37356758
+739,739,30_SUSTech-SYSU/originalImages/0948.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.26244885
+740,740,30_SUSTech-SYSU/originalImages/0146.jpg,[],['no diabetic retinopathy'],3,0.422039
+741,741,30_SUSTech-SYSU/originalImages/1194.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.35087603
+742,742,30_SUSTech-SYSU/originalImages/0571.jpg,[],['no diabetic retinopathy'],4,0.20226358
+743,743,30_SUSTech-SYSU/originalImages/0473.jpg,[],['no diabetic retinopathy'],4,0.19994088
+744,744,30_SUSTech-SYSU/originalImages/0636.jpg,[],['mild diabetic retinopathy'],3,0.31943032
+745,745,30_SUSTech-SYSU/originalImages/0075.jpg,[],['no diabetic retinopathy'],2,0.6183218
+746,746,30_SUSTech-SYSU/originalImages/0638.jpg,[],['mild diabetic retinopathy'],3,0.4277314
+747,747,30_SUSTech-SYSU/originalImages/0093.jpg,[],['no diabetic retinopathy'],3,0.31381154
+748,748,30_SUSTech-SYSU/originalImages/0791.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.53672075
+749,749,30_SUSTech-SYSU/originalImages/1186.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.22683887
+750,750,30_SUSTech-SYSU/originalImages/0688.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.284167
+751,751,30_SUSTech-SYSU/originalImages/0898.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.227248
+752,752,30_SUSTech-SYSU/originalImages/0017.jpg,[],['no diabetic retinopathy'],3,0.32165307
+753,753,30_SUSTech-SYSU/originalImages/0902.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.37847862
+754,754,30_SUSTech-SYSU/originalImages/0993.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.66575617
+755,755,30_SUSTech-SYSU/originalImages/1025.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.22164752
+756,756,30_SUSTech-SYSU/originalImages/0793.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.4452901
+757,757,30_SUSTech-SYSU/originalImages/0710.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.40550795
+758,758,30_SUSTech-SYSU/originalImages/0379.jpg,[],['no diabetic retinopathy'],4,0.2445842
+759,759,30_SUSTech-SYSU/originalImages/0609.jpg,[],['no diabetic retinopathy'],4,0.23506115
+760,760,30_SUSTech-SYSU/originalImages/0503.jpg,[],['no diabetic retinopathy'],3,0.45930085
+761,761,30_SUSTech-SYSU/originalImages/0065.jpg,[],['no diabetic retinopathy'],3,0.3172161
+762,762,30_SUSTech-SYSU/originalImages/0634.jpg,[],['mild diabetic retinopathy'],3,0.42728737
+763,763,30_SUSTech-SYSU/originalImages/0110.jpg,[],['no diabetic retinopathy'],3,0.26494116
+764,764,30_SUSTech-SYSU/originalImages/0570.jpg,[],['no diabetic retinopathy'],4,0.19149137
+765,765,30_SUSTech-SYSU/originalImages/0363.jpg,[],['no diabetic retinopathy'],3,0.41609585
+766,766,30_SUSTech-SYSU/originalImages/0197.jpg,[],['no diabetic retinopathy'],3,0.33715403
+767,767,30_SUSTech-SYSU/originalImages/1078.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.24671844
+768,768,30_SUSTech-SYSU/originalImages/0699.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.18553083
+769,769,30_SUSTech-SYSU/originalImages/0745.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.2026254
+770,770,30_SUSTech-SYSU/originalImages/0695.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.48002845
+771,771,30_SUSTech-SYSU/originalImages/0847.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.6218703
+772,772,30_SUSTech-SYSU/originalImages/0987.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3439777
+773,773,30_SUSTech-SYSU/originalImages/0399.jpg,[],['no diabetic retinopathy'],4,0.22910403
+774,774,30_SUSTech-SYSU/originalImages/0924.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2775335
+775,775,30_SUSTech-SYSU/originalImages/1126.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",2,0.50979286
+776,776,30_SUSTech-SYSU/originalImages/1086.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.43140873
+777,777,30_SUSTech-SYSU/originalImages/0786.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.33907655
+778,778,30_SUSTech-SYSU/originalImages/1114.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.28583115
+779,779,30_SUSTech-SYSU/originalImages/1111.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.35858104
+780,780,30_SUSTech-SYSU/originalImages/0810.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.32203254
+781,781,30_SUSTech-SYSU/originalImages/0755.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.19797474
+782,782,30_SUSTech-SYSU/originalImages/0432.jpg,[],['no diabetic retinopathy'],4,0.20090671
+783,783,30_SUSTech-SYSU/originalImages/1064.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.34959927
+784,784,30_SUSTech-SYSU/originalImages/0774.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.6019417
+785,785,30_SUSTech-SYSU/originalImages/0756.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",2,0.5332649
+786,786,30_SUSTech-SYSU/originalImages/0244.jpg,[],['no diabetic retinopathy'],4,0.22937338
+787,787,30_SUSTech-SYSU/originalImages/0520.jpg,[],['no diabetic retinopathy'],3,0.4199729
+788,788,30_SUSTech-SYSU/originalImages/0731.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.2261421
+789,789,30_SUSTech-SYSU/originalImages/0557.jpg,[],['no diabetic retinopathy'],3,0.3974697
+790,790,30_SUSTech-SYSU/originalImages/1021.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2856753
+791,791,30_SUSTech-SYSU/originalImages/0035.jpg,[],['no diabetic retinopathy'],3,0.4418146
+792,792,30_SUSTech-SYSU/originalImages/1148.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.3253029
+793,793,30_SUSTech-SYSU/originalImages/0574.jpg,[],['no diabetic retinopathy'],4,0.1952098
+794,794,30_SUSTech-SYSU/originalImages/0883.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.20720024
+795,795,30_SUSTech-SYSU/originalImages/1082.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.46119103
+796,796,30_SUSTech-SYSU/originalImages/1177.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.27213666
+797,797,30_SUSTech-SYSU/originalImages/1106.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.40979975
+798,798,30_SUSTech-SYSU/originalImages/0646.jpg,[],['mild diabetic retinopathy'],3,0.4471139
+799,799,30_SUSTech-SYSU/originalImages/1116.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.2344956
+800,800,30_SUSTech-SYSU/originalImages/1219.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.3824055
+801,801,30_SUSTech-SYSU/originalImages/0290.jpg,[],['no diabetic retinopathy'],3,0.47207305
+802,802,30_SUSTech-SYSU/originalImages/0685.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.4810813
+803,803,30_SUSTech-SYSU/originalImages/0469.jpg,[],['no diabetic retinopathy'],4,0.20121315
+804,804,30_SUSTech-SYSU/originalImages/0535.jpg,[],['no diabetic retinopathy'],4,0.18274648
+805,805,30_SUSTech-SYSU/originalImages/0045.jpg,[],['no diabetic retinopathy'],3,0.25506216
+806,806,30_SUSTech-SYSU/originalImages/0159.jpg,[],['no diabetic retinopathy'],3,0.30168378
+807,807,30_SUSTech-SYSU/originalImages/1051.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.2674456
+808,808,30_SUSTech-SYSU/originalImages/0798.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.24521771
+809,809,30_SUSTech-SYSU/originalImages/0271.jpg,[],['no diabetic retinopathy'],4,0.15681286
+810,810,30_SUSTech-SYSU/originalImages/0599.jpg,[],['no diabetic retinopathy'],4,0.22526288
+811,811,30_SUSTech-SYSU/originalImages/0238.jpg,[],['no diabetic retinopathy'],4,0.23108327
+812,812,30_SUSTech-SYSU/originalImages/0089.jpg,[],['no diabetic retinopathy'],3,0.2851834
+813,813,30_SUSTech-SYSU/originalImages/1117.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.42638943
+814,814,30_SUSTech-SYSU/originalImages/0077.jpg,[],['no diabetic retinopathy'],3,0.31936303
+815,815,30_SUSTech-SYSU/originalImages/0711.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.19942503
+816,816,30_SUSTech-SYSU/originalImages/0421.jpg,[],['no diabetic retinopathy'],4,0.23599757
+817,817,30_SUSTech-SYSU/originalImages/0150.jpg,[],['no diabetic retinopathy'],4,0.24935676
+818,818,30_SUSTech-SYSU/originalImages/0507.jpg,[],['no diabetic retinopathy'],4,0.24333307
+819,819,30_SUSTech-SYSU/originalImages/0926.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.29131284
+820,820,30_SUSTech-SYSU/originalImages/0027.jpg,[],['no diabetic retinopathy'],4,0.18505377
+821,821,30_SUSTech-SYSU/originalImages/0851.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.32668316
+822,822,30_SUSTech-SYSU/originalImages/0299.jpg,[],['no diabetic retinopathy'],4,0.20603547
+823,823,30_SUSTech-SYSU/originalImages/0346.jpg,[],['no diabetic retinopathy'],3,0.2559379
+824,824,30_SUSTech-SYSU/originalImages/1165.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.18934654
+825,825,30_SUSTech-SYSU/originalImages/0227.jpg,[],['no diabetic retinopathy'],4,0.21822323
+826,826,30_SUSTech-SYSU/originalImages/0384.jpg,[],['no diabetic retinopathy'],3,0.2796709
+827,827,30_SUSTech-SYSU/originalImages/0418.jpg,[],['no diabetic retinopathy'],3,0.30628
+828,828,30_SUSTech-SYSU/originalImages/0037.jpg,[],['no diabetic retinopathy'],4,0.2387289
+829,829,30_SUSTech-SYSU/originalImages/0005.jpg,[],['no diabetic retinopathy'],2,0.67776257
+830,830,30_SUSTech-SYSU/originalImages/0770.jpg,[],"['severe diabetic retinopathy', 'exudates']",2,0.60938275
+831,831,30_SUSTech-SYSU/originalImages/0654.jpg,[],['mild diabetic retinopathy'],3,0.41756275
+832,832,30_SUSTech-SYSU/originalImages/1139.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.19346437
+833,833,30_SUSTech-SYSU/originalImages/0677.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3442252
+834,834,30_SUSTech-SYSU/originalImages/1105.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.36358333
+835,835,30_SUSTech-SYSU/originalImages/0420.jpg,[],['no diabetic retinopathy'],4,0.22205116
+836,836,30_SUSTech-SYSU/originalImages/0392.jpg,[],['no diabetic retinopathy'],4,0.21416543
+837,837,30_SUSTech-SYSU/originalImages/0656.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.48061898
+838,838,30_SUSTech-SYSU/originalImages/0168.jpg,[],['no diabetic retinopathy'],3,0.33258417
+839,839,30_SUSTech-SYSU/originalImages/0772.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.48455578
+840,840,30_SUSTech-SYSU/originalImages/0481.jpg,[],['no diabetic retinopathy'],4,0.16548003
+841,841,30_SUSTech-SYSU/originalImages/0907.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.18484312
+842,842,30_SUSTech-SYSU/originalImages/0186.jpg,[],['no diabetic retinopathy'],3,0.26037267
+843,843,30_SUSTech-SYSU/originalImages/1178.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.15757625
+844,844,30_SUSTech-SYSU/originalImages/1074.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.25958762
+845,845,30_SUSTech-SYSU/originalImages/0376.jpg,[],['no diabetic retinopathy'],4,0.18455172
+846,846,30_SUSTech-SYSU/originalImages/0696.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.4439308
+847,847,30_SUSTech-SYSU/originalImages/0960.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.41111773
+848,848,30_SUSTech-SYSU/originalImages/1217.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.23645362
+849,849,30_SUSTech-SYSU/originalImages/1048.jpg,[],"['severe diabetic retinopathy', 'exudates']",1,0.9664477
+850,850,30_SUSTech-SYSU/originalImages/0106.jpg,[],['no diabetic retinopathy'],2,0.5688948
+851,851,30_SUSTech-SYSU/originalImages/1050.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.21531275
+852,852,30_SUSTech-SYSU/originalImages/0687.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.21396497
+853,853,30_SUSTech-SYSU/originalImages/0196.jpg,[],['no diabetic retinopathy'],2,0.5656786
+854,854,30_SUSTech-SYSU/originalImages/0658.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.23332433
+855,855,30_SUSTech-SYSU/originalImages/0680.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.38783446
+856,856,30_SUSTech-SYSU/originalImages/0246.jpg,[],['no diabetic retinopathy'],4,0.24531545
+857,857,30_SUSTech-SYSU/originalImages/0713.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.50892943
+858,858,30_SUSTech-SYSU/originalImages/0855.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.28546345
+859,859,30_SUSTech-SYSU/originalImages/0539.jpg,[],['no diabetic retinopathy'],4,0.24818118
+860,860,30_SUSTech-SYSU/originalImages/0881.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.28549635
+861,861,30_SUSTech-SYSU/originalImages/0135.jpg,[],['no diabetic retinopathy'],3,0.27443767
+862,862,30_SUSTech-SYSU/originalImages/0576.jpg,[],['no diabetic retinopathy'],3,0.35926783
+863,863,30_SUSTech-SYSU/originalImages/0436.jpg,[],['no diabetic retinopathy'],3,0.2565771
+864,864,30_SUSTech-SYSU/originalImages/0649.jpg,[],['mild diabetic retinopathy'],4,0.2230978
+865,865,30_SUSTech-SYSU/originalImages/0796.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.435546
+866,866,30_SUSTech-SYSU/originalImages/0625.jpg,[],['no diabetic retinopathy'],4,0.18002224
+867,867,30_SUSTech-SYSU/originalImages/0011.jpg,[],['no diabetic retinopathy'],4,0.2122743
+868,868,30_SUSTech-SYSU/originalImages/0992.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.3421445
+869,869,30_SUSTech-SYSU/originalImages/0369.jpg,[],['no diabetic retinopathy'],3,0.3724435
+870,870,30_SUSTech-SYSU/originalImages/1159.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.34207878
+871,871,30_SUSTech-SYSU/originalImages/0394.jpg,[],['no diabetic retinopathy'],4,0.16213286
+872,872,30_SUSTech-SYSU/originalImages/1013.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.48746982
+873,873,30_SUSTech-SYSU/originalImages/0156.jpg,[],['no diabetic retinopathy'],4,0.18617375
+874,874,30_SUSTech-SYSU/originalImages/0034.jpg,[],['no diabetic retinopathy'],3,0.46801844
+875,875,30_SUSTech-SYSU/originalImages/0180.jpg,[],['no diabetic retinopathy'],4,0.15715738
+876,876,30_SUSTech-SYSU/originalImages/0193.jpg,[],['no diabetic retinopathy'],4,0.22694589
+877,877,30_SUSTech-SYSU/originalImages/1046.jpg,[],"['severe diabetic retinopathy', 'exudates']",2,0.55107075
+878,878,30_SUSTech-SYSU/originalImages/1007.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.16050312
+879,879,30_SUSTech-SYSU/originalImages/0922.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2947558
+880,880,30_SUSTech-SYSU/originalImages/0544.jpg,[],['no diabetic retinopathy'],3,0.4255207
+881,881,30_SUSTech-SYSU/originalImages/0753.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.30324557
+882,882,30_SUSTech-SYSU/originalImages/0305.jpg,[],['no diabetic retinopathy'],3,0.27011734
+883,883,30_SUSTech-SYSU/originalImages/0869.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3858302
+884,884,30_SUSTech-SYSU/originalImages/0703.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3417255
+885,885,30_SUSTech-SYSU/originalImages/0554.jpg,[],['no diabetic retinopathy'],4,0.23580217
+886,886,30_SUSTech-SYSU/originalImages/0606.jpg,[],['no diabetic retinopathy'],3,0.27139008
+887,887,30_SUSTech-SYSU/originalImages/0454.jpg,[],['no diabetic retinopathy'],4,0.22941259
+888,888,30_SUSTech-SYSU/originalImages/0985.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.37141427
+889,889,30_SUSTech-SYSU/originalImages/1042.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.21133156
+890,890,30_SUSTech-SYSU/originalImages/0876.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.24069954
+891,891,30_SUSTech-SYSU/originalImages/0312.jpg,[],['no diabetic retinopathy'],3,0.35128814
+892,892,30_SUSTech-SYSU/originalImages/1203.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.21504399
+893,893,30_SUSTech-SYSU/originalImages/1184.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.23754573
+894,894,30_SUSTech-SYSU/originalImages/0929.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.15972915
+895,895,30_SUSTech-SYSU/originalImages/1057.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.38325047
+896,896,30_SUSTech-SYSU/originalImages/0058.jpg,[],['no diabetic retinopathy'],3,0.4806708
+897,897,30_SUSTech-SYSU/originalImages/0471.jpg,[],['no diabetic retinopathy'],4,0.24585846
+898,898,30_SUSTech-SYSU/originalImages/0444.jpg,[],['no diabetic retinopathy'],4,0.19124979
+899,899,30_SUSTech-SYSU/originalImages/0530.jpg,[],['no diabetic retinopathy'],4,0.21969144
+900,900,30_SUSTech-SYSU/originalImages/0767.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.17368716
+901,901,30_SUSTech-SYSU/originalImages/0453.jpg,[],['no diabetic retinopathy'],3,0.28037986
+902,902,30_SUSTech-SYSU/originalImages/0866.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.17840575
+903,903,30_SUSTech-SYSU/originalImages/0004.jpg,[],['no diabetic retinopathy'],3,0.31336108
+904,904,30_SUSTech-SYSU/originalImages/0746.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.2790211
+905,905,30_SUSTech-SYSU/originalImages/0910.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.4500994
+906,906,30_SUSTech-SYSU/originalImages/0518.jpg,[],['no diabetic retinopathy'],3,0.30696952
+907,907,30_SUSTech-SYSU/originalImages/0982.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.28476223
+908,908,30_SUSTech-SYSU/originalImages/0620.jpg,[],['no diabetic retinopathy'],4,0.18945529
+909,909,30_SUSTech-SYSU/originalImages/1080.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.47782654
+910,910,30_SUSTech-SYSU/originalImages/0108.jpg,[],['no diabetic retinopathy'],3,0.2534732
+911,911,30_SUSTech-SYSU/originalImages/0315.jpg,[],['no diabetic retinopathy'],2,0.66591734
+912,912,30_SUSTech-SYSU/originalImages/0549.jpg,[],['no diabetic retinopathy'],4,0.20340289
+913,913,30_SUSTech-SYSU/originalImages/0031.jpg,[],['no diabetic retinopathy'],4,0.15815252
+914,914,30_SUSTech-SYSU/originalImages/1098.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.24598034
+915,915,30_SUSTech-SYSU/originalImages/0013.jpg,[],['no diabetic retinopathy'],3,0.39527
+916,916,30_SUSTech-SYSU/originalImages/0623.jpg,[],['no diabetic retinopathy'],4,0.15372495
+917,917,30_SUSTech-SYSU/originalImages/0991.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.44508934
+918,918,30_SUSTech-SYSU/originalImages/0719.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.41815296
+919,919,30_SUSTech-SYSU/originalImages/0033.jpg,[],['no diabetic retinopathy'],3,0.3061435
+920,920,30_SUSTech-SYSU/originalImages/0789.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.39652187
+921,921,30_SUSTech-SYSU/originalImages/0560.jpg,[],['no diabetic retinopathy'],4,0.24872452
+922,922,30_SUSTech-SYSU/originalImages/0345.jpg,[],['no diabetic retinopathy'],3,0.41708794
+923,923,30_SUSTech-SYSU/originalImages/0325.jpg,[],['no diabetic retinopathy'],4,0.18036394
+924,924,30_SUSTech-SYSU/originalImages/0233.jpg,[],['no diabetic retinopathy'],2,0.63326055
+925,925,30_SUSTech-SYSU/originalImages/0424.jpg,[],['no diabetic retinopathy'],4,0.23571351
+926,926,30_SUSTech-SYSU/originalImages/0857.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.5611518
+927,927,30_SUSTech-SYSU/originalImages/0359.jpg,[],['no diabetic retinopathy'],4,0.20385993
+928,928,30_SUSTech-SYSU/originalImages/0824.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.23769224
+929,929,30_SUSTech-SYSU/originalImages/1170.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.38622886
+930,930,30_SUSTech-SYSU/originalImages/0917.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.32588607
+931,931,30_SUSTech-SYSU/originalImages/1193.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.41015038
+932,932,30_SUSTech-SYSU/originalImages/0247.jpg,[],['no diabetic retinopathy'],3,0.29039294
+933,933,30_SUSTech-SYSU/originalImages/0614.jpg,[],['no diabetic retinopathy'],4,0.19113068
+934,934,30_SUSTech-SYSU/originalImages/0958.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.34700406
+935,935,30_SUSTech-SYSU/originalImages/0966.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2552645
+936,936,30_SUSTech-SYSU/originalImages/1207.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.3653096
+937,937,30_SUSTech-SYSU/originalImages/0894.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.37252465
+938,938,30_SUSTech-SYSU/originalImages/0286.jpg,[],['no diabetic retinopathy'],3,0.31820387
+939,939,30_SUSTech-SYSU/originalImages/0049.jpg,[],['no diabetic retinopathy'],4,0.20928778
+940,940,30_SUSTech-SYSU/originalImages/0505.jpg,[],['no diabetic retinopathy'],3,0.31685272
+941,941,30_SUSTech-SYSU/originalImages/0732.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.20798837
+942,942,30_SUSTech-SYSU/originalImages/0342.jpg,[],['no diabetic retinopathy'],4,0.19468503
+943,943,30_SUSTech-SYSU/originalImages/0845.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.3572968
+944,944,30_SUSTech-SYSU/originalImages/0113.jpg,[],['no diabetic retinopathy'],4,0.17278726
+945,945,30_SUSTech-SYSU/originalImages/0226.jpg,[],['no diabetic retinopathy'],4,0.23061031
+946,946,30_SUSTech-SYSU/originalImages/1196.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.25096372
+947,947,30_SUSTech-SYSU/originalImages/0814.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3586184
+948,948,30_SUSTech-SYSU/originalImages/0353.jpg,[],['no diabetic retinopathy'],3,0.41935435
+949,949,30_SUSTech-SYSU/originalImages/0443.jpg,[],['no diabetic retinopathy'],3,0.25000018
+950,950,30_SUSTech-SYSU/originalImages/0112.jpg,[],['no diabetic retinopathy'],3,0.3931467
+951,951,30_SUSTech-SYSU/originalImages/0389.jpg,[],['no diabetic retinopathy'],3,0.32798278
+952,952,30_SUSTech-SYSU/originalImages/0182.jpg,[],['no diabetic retinopathy'],4,0.22548565
+953,953,30_SUSTech-SYSU/originalImages/0689.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.32331076
+954,954,30_SUSTech-SYSU/originalImages/0763.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.2356177
+955,955,30_SUSTech-SYSU/originalImages/1045.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.22966781
+956,956,30_SUSTech-SYSU/originalImages/0915.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.20623773
+957,957,30_SUSTech-SYSU/originalImages/0508.jpg,[],['no diabetic retinopathy'],3,0.25013953
+958,958,30_SUSTech-SYSU/originalImages/0103.jpg,[],['no diabetic retinopathy'],4,0.23297766
+959,959,30_SUSTech-SYSU/originalImages/0817.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.4615272
+960,960,30_SUSTech-SYSU/originalImages/0526.jpg,[],['no diabetic retinopathy'],3,0.38257498
+961,961,30_SUSTech-SYSU/originalImages/0598.jpg,[],['no diabetic retinopathy'],4,0.21510501
+962,962,30_SUSTech-SYSU/originalImages/0064.jpg,[],['no diabetic retinopathy'],4,0.1549201
+963,963,30_SUSTech-SYSU/originalImages/0942.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.35575795
+964,964,30_SUSTech-SYSU/originalImages/1094.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.25164756
+965,965,30_SUSTech-SYSU/originalImages/0843.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.35670444
+966,966,30_SUSTech-SYSU/originalImages/0405.jpg,[],['no diabetic retinopathy'],4,0.1831955
+967,967,30_SUSTech-SYSU/originalImages/0642.jpg,[],['mild diabetic retinopathy'],3,0.3338659
+968,968,30_SUSTech-SYSU/originalImages/0999.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.414145
+969,969,30_SUSTech-SYSU/originalImages/0215.jpg,[],['no diabetic retinopathy'],4,0.15843023
+970,970,30_SUSTech-SYSU/originalImages/0945.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.49175414
+971,971,30_SUSTech-SYSU/originalImages/0059.jpg,[],['no diabetic retinopathy'],3,0.4833897
+972,972,30_SUSTech-SYSU/originalImages/0419.jpg,[],['no diabetic retinopathy'],3,0.26113656
+973,973,30_SUSTech-SYSU/originalImages/1000.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.30889714
+974,974,30_SUSTech-SYSU/originalImages/0839.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.2640952
+975,975,30_SUSTech-SYSU/originalImages/0120.jpg,[],['no diabetic retinopathy'],4,0.18146278
+976,976,30_SUSTech-SYSU/originalImages/0984.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.641652
+977,977,30_SUSTech-SYSU/originalImages/1091.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.28466234
+978,978,30_SUSTech-SYSU/originalImages/1034.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.20095341
+979,979,30_SUSTech-SYSU/originalImages/0600.jpg,[],['no diabetic retinopathy'],4,0.21903467
+980,980,30_SUSTech-SYSU/originalImages/0332.jpg,[],['no diabetic retinopathy'],3,0.27911094
+981,981,30_SUSTech-SYSU/originalImages/0912.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.30488726
+982,982,30_SUSTech-SYSU/originalImages/0144.jpg,[],['no diabetic retinopathy'],3,0.37280545
+983,983,30_SUSTech-SYSU/originalImages/0794.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.2133127
+984,984,30_SUSTech-SYSU/originalImages/0647.jpg,[],['mild diabetic retinopathy'],3,0.33665797
+985,985,30_SUSTech-SYSU/originalImages/0968.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.44104683
+986,986,30_SUSTech-SYSU/originalImages/0643.jpg,[],['mild diabetic retinopathy'],3,0.26576886
+987,987,30_SUSTech-SYSU/originalImages/0827.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.23447193
+988,988,30_SUSTech-SYSU/originalImages/0969.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.31151247
+989,989,30_SUSTech-SYSU/originalImages/0997.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.20565988
+990,990,30_SUSTech-SYSU/originalImages/0546.jpg,[],['no diabetic retinopathy'],3,0.26083568
+991,991,30_SUSTech-SYSU/originalImages/0382.jpg,[],['no diabetic retinopathy'],4,0.22450376
+992,992,30_SUSTech-SYSU/originalImages/0580.jpg,[],['no diabetic retinopathy'],4,0.13065457
+993,993,30_SUSTech-SYSU/originalImages/0245.jpg,[],['no diabetic retinopathy'],3,0.35576603
+994,994,30_SUSTech-SYSU/originalImages/0850.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3744918
+995,995,30_SUSTech-SYSU/originalImages/0241.jpg,[],['no diabetic retinopathy'],3,0.29683748
+996,996,30_SUSTech-SYSU/originalImages/0617.jpg,[],['no diabetic retinopathy'],4,0.21357782
+997,997,30_SUSTech-SYSU/originalImages/1100.jpg,[],"['severe diabetic retinopathy', 'exudates']",2,0.6255722
+998,998,30_SUSTech-SYSU/originalImages/0808.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.36193198
+999,999,30_SUSTech-SYSU/originalImages/0217.jpg,[],['no diabetic retinopathy'],4,0.18041462
+1000,1000,30_SUSTech-SYSU/originalImages/0478.jpg,[],['no diabetic retinopathy'],4,0.22101294
+1001,1001,30_SUSTech-SYSU/originalImages/0504.jpg,[],['no diabetic retinopathy'],4,0.22636093
+1002,1002,30_SUSTech-SYSU/originalImages/0380.jpg,[],['no diabetic retinopathy'],2,0.5106632
+1003,1003,30_SUSTech-SYSU/originalImages/0278.jpg,[],['no diabetic retinopathy'],4,0.14692272
+1004,1004,30_SUSTech-SYSU/originalImages/0397.jpg,[],['no diabetic retinopathy'],3,0.30558422
+1005,1005,30_SUSTech-SYSU/originalImages/0587.jpg,[],['no diabetic retinopathy'],4,0.20305964
+1006,1006,30_SUSTech-SYSU/originalImages/0368.jpg,[],['no diabetic retinopathy'],3,0.4265822
+1007,1007,30_SUSTech-SYSU/originalImages/0267.jpg,[],['no diabetic retinopathy'],4,0.22649941
+1008,1008,30_SUSTech-SYSU/originalImages/1069.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.3314855
+1009,1009,30_SUSTech-SYSU/originalImages/1195.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.4057446
+1010,1010,30_SUSTech-SYSU/originalImages/1122.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",2,0.60946786
+1011,1011,30_SUSTech-SYSU/originalImages/0784.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.40754575
+1012,1012,30_SUSTech-SYSU/originalImages/0375.jpg,[],['no diabetic retinopathy'],4,0.19295095
+1013,1013,30_SUSTech-SYSU/originalImages/0832.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.25528046
+1014,1014,30_SUSTech-SYSU/originalImages/0191.jpg,[],['no diabetic retinopathy'],4,0.22133882
+1015,1015,30_SUSTech-SYSU/originalImages/0748.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.23671605
+1016,1016,30_SUSTech-SYSU/originalImages/1023.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2645524
+1017,1017,30_SUSTech-SYSU/originalImages/0134.jpg,[],['no diabetic retinopathy'],3,0.371868
+1018,1018,30_SUSTech-SYSU/originalImages/0203.jpg,[],['no diabetic retinopathy'],4,0.24117328
+1019,1019,30_SUSTech-SYSU/originalImages/0276.jpg,[],['no diabetic retinopathy'],3,0.31816065
+1020,1020,30_SUSTech-SYSU/originalImages/0253.jpg,[],['no diabetic retinopathy'],3,0.4149099
+1021,1021,30_SUSTech-SYSU/originalImages/0937.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.32746443
+1022,1022,30_SUSTech-SYSU/originalImages/0198.jpg,[],['no diabetic retinopathy'],4,0.19726904
+1023,1023,30_SUSTech-SYSU/originalImages/0207.jpg,[],['no diabetic retinopathy'],3,0.3759369
+1024,1024,30_SUSTech-SYSU/originalImages/0457.jpg,[],['no diabetic retinopathy'],4,0.18292966
+1025,1025,30_SUSTech-SYSU/originalImages/0401.jpg,[],['no diabetic retinopathy'],3,0.29329717
+1026,1026,30_SUSTech-SYSU/originalImages/0572.jpg,[],['no diabetic retinopathy'],4,0.22064178
+1027,1027,30_SUSTech-SYSU/originalImages/0830.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.22805846
+1028,1028,30_SUSTech-SYSU/originalImages/0754.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.29493523
+1029,1029,30_SUSTech-SYSU/originalImages/0378.jpg,[],['no diabetic retinopathy'],4,0.22402617
+1030,1030,30_SUSTech-SYSU/originalImages/0494.jpg,[],['no diabetic retinopathy'],3,0.2900279
+1031,1031,30_SUSTech-SYSU/originalImages/1005.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.40345657
+1032,1032,30_SUSTech-SYSU/originalImages/1054.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.3346461
+1033,1033,30_SUSTech-SYSU/originalImages/0309.jpg,[],['no diabetic retinopathy'],2,0.5089851
+1034,1034,30_SUSTech-SYSU/originalImages/0909.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.29469034
+1035,1035,30_SUSTech-SYSU/originalImages/0752.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2509131
+1036,1036,30_SUSTech-SYSU/originalImages/1137.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.22684243
+1037,1037,30_SUSTech-SYSU/originalImages/0437.jpg,[],['no diabetic retinopathy'],3,0.40427312
+1038,1038,30_SUSTech-SYSU/originalImages/0849.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2722771
+1039,1039,30_SUSTech-SYSU/originalImages/1134.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.4372092
+1040,1040,30_SUSTech-SYSU/originalImages/0029.jpg,[],['no diabetic retinopathy'],4,0.23622821
+1041,1041,30_SUSTech-SYSU/originalImages/0404.jpg,[],['no diabetic retinopathy'],4,0.14507197
+1042,1042,30_SUSTech-SYSU/originalImages/0977.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.21761478
+1043,1043,30_SUSTech-SYSU/originalImages/0225.jpg,[],['no diabetic retinopathy'],3,0.42539763
+1044,1044,30_SUSTech-SYSU/originalImages/1081.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.23309672
+1045,1045,30_SUSTech-SYSU/originalImages/0502.jpg,[],['no diabetic retinopathy'],3,0.25327563
+1046,1046,30_SUSTech-SYSU/originalImages/0336.jpg,[],['no diabetic retinopathy'],4,0.2093906
+1047,1047,30_SUSTech-SYSU/originalImages/0051.jpg,[],['no diabetic retinopathy'],3,0.2998126
+1048,1048,30_SUSTech-SYSU/originalImages/0083.jpg,[],['no diabetic retinopathy'],4,0.18582313
+1049,1049,30_SUSTech-SYSU/originalImages/0943.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.27225694
+1050,1050,30_SUSTech-SYSU/originalImages/1061.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.32288462
+1051,1051,30_SUSTech-SYSU/originalImages/0317.jpg,[],['no diabetic retinopathy'],4,0.14843601
+1052,1052,30_SUSTech-SYSU/originalImages/0859.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.40406057
+1053,1053,30_SUSTech-SYSU/originalImages/0728.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.33136973
+1054,1054,30_SUSTech-SYSU/originalImages/1110.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.2254891
+1055,1055,30_SUSTech-SYSU/originalImages/0147.jpg,[],['no diabetic retinopathy'],4,0.23186463
+1056,1056,30_SUSTech-SYSU/originalImages/1099.jpg,[],"['severe diabetic retinopathy', 'exudates']",2,0.51248664
+1057,1057,30_SUSTech-SYSU/originalImages/0809.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3215484
+1058,1058,30_SUSTech-SYSU/originalImages/0260.jpg,[],['no diabetic retinopathy'],4,0.24399859
+1059,1059,30_SUSTech-SYSU/originalImages/0804.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3488001
+1060,1060,30_SUSTech-SYSU/originalImages/0773.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.31068328
+1061,1061,30_SUSTech-SYSU/originalImages/0425.jpg,[],['no diabetic retinopathy'],4,0.21014027
+1062,1062,30_SUSTech-SYSU/originalImages/0151.jpg,[],['no diabetic retinopathy'],4,0.18164323
+1063,1063,30_SUSTech-SYSU/originalImages/0322.jpg,[],['no diabetic retinopathy'],4,0.22671163
+1064,1064,30_SUSTech-SYSU/originalImages/0880.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.38160133
+1065,1065,30_SUSTech-SYSU/originalImages/0657.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3082314
+1066,1066,30_SUSTech-SYSU/originalImages/0954.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.22147334
+1067,1067,30_SUSTech-SYSU/originalImages/0619.jpg,[],['no diabetic retinopathy'],4,0.1940101
+1068,1068,30_SUSTech-SYSU/originalImages/0487.jpg,[],['no diabetic retinopathy'],3,0.26190016
+1069,1069,30_SUSTech-SYSU/originalImages/0736.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.321083
+1070,1070,30_SUSTech-SYSU/originalImages/0597.jpg,[],['no diabetic retinopathy'],3,0.33124435
+1071,1071,30_SUSTech-SYSU/originalImages/0813.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.33378828
+1072,1072,30_SUSTech-SYSU/originalImages/0995.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3419665
+1073,1073,30_SUSTech-SYSU/originalImages/0538.jpg,[],['no diabetic retinopathy'],4,0.22180107
+1074,1074,30_SUSTech-SYSU/originalImages/0950.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3392611
+1075,1075,30_SUSTech-SYSU/originalImages/0693.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.26298422
+1076,1076,30_SUSTech-SYSU/originalImages/1017.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.17414522
+1077,1077,30_SUSTech-SYSU/originalImages/0167.jpg,[],['no diabetic retinopathy'],4,0.17652866
+1078,1078,30_SUSTech-SYSU/originalImages/0311.jpg,[],['no diabetic retinopathy'],4,0.17989317
+1079,1079,30_SUSTech-SYSU/originalImages/0964.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3645252
+1080,1080,30_SUSTech-SYSU/originalImages/1150.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.3485372
+1081,1081,30_SUSTech-SYSU/originalImages/0279.jpg,[],['no diabetic retinopathy'],3,0.25825053
+1082,1082,30_SUSTech-SYSU/originalImages/0148.jpg,[],['no diabetic retinopathy'],4,0.2078705
+1083,1083,30_SUSTech-SYSU/originalImages/0779.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.37809202
+1084,1084,30_SUSTech-SYSU/originalImages/0819.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3510681
+1085,1085,30_SUSTech-SYSU/originalImages/0411.jpg,[],['no diabetic retinopathy'],3,0.27772525
+1086,1086,30_SUSTech-SYSU/originalImages/0708.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.35201818
+1087,1087,30_SUSTech-SYSU/originalImages/0873.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.16710113
+1088,1088,30_SUSTech-SYSU/originalImages/1174.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.3252689
+1089,1089,30_SUSTech-SYSU/originalImages/0219.jpg,[],['no diabetic retinopathy'],3,0.28896135
+1090,1090,30_SUSTech-SYSU/originalImages/0718.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.32761073
+1091,1091,30_SUSTech-SYSU/originalImages/0441.jpg,[],['no diabetic retinopathy'],3,0.26276642
+1092,1092,30_SUSTech-SYSU/originalImages/0737.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.27694517
+1093,1093,30_SUSTech-SYSU/originalImages/1157.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.3933369
+1094,1094,30_SUSTech-SYSU/originalImages/1154.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.17804824
+1095,1095,30_SUSTech-SYSU/originalImages/1167.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.28772867
+1096,1096,30_SUSTech-SYSU/originalImages/0105.jpg,[],['no diabetic retinopathy'],3,0.2568695
+1097,1097,30_SUSTech-SYSU/originalImages/0143.jpg,[],['no diabetic retinopathy'],4,0.21005751
+1098,1098,30_SUSTech-SYSU/originalImages/1066.jpg,[],"['severe diabetic retinopathy', 'exudates']",4,0.22596072
+1099,1099,30_SUSTech-SYSU/originalImages/1001.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.38443643
+1100,1100,30_SUSTech-SYSU/originalImages/0528.jpg,[],['no diabetic retinopathy'],4,0.2195509
+1101,1101,30_SUSTech-SYSU/originalImages/0056.jpg,[],['no diabetic retinopathy'],3,0.29613018
+1102,1102,30_SUSTech-SYSU/originalImages/0734.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.26268625
+1103,1103,30_SUSTech-SYSU/originalImages/0821.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.32692817
+1104,1104,30_SUSTech-SYSU/originalImages/1125.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.20795493
+1105,1105,30_SUSTech-SYSU/originalImages/1036.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.27161756
+1106,1106,30_SUSTech-SYSU/originalImages/0903.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.34008178
+1107,1107,30_SUSTech-SYSU/originalImages/0161.jpg,[],['no diabetic retinopathy'],4,0.23008034
+1108,1108,30_SUSTech-SYSU/originalImages/1015.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.18677658
+1109,1109,30_SUSTech-SYSU/originalImages/0132.jpg,[],['no diabetic retinopathy'],3,0.33460668
+1110,1110,30_SUSTech-SYSU/originalImages/0659.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.43806228
+1111,1111,30_SUSTech-SYSU/originalImages/0426.jpg,[],['no diabetic retinopathy'],3,0.2740915
+1112,1112,30_SUSTech-SYSU/originalImages/0044.jpg,[],['no diabetic retinopathy'],3,0.39396465
+1113,1113,30_SUSTech-SYSU/originalImages/0911.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.38527167
+1114,1114,30_SUSTech-SYSU/originalImages/0485.jpg,[],['no diabetic retinopathy'],3,0.32586354
+1115,1115,30_SUSTech-SYSU/originalImages/0136.jpg,[],['no diabetic retinopathy'],3,0.25790167
+1116,1116,30_SUSTech-SYSU/originalImages/0844.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.44325343
+1117,1117,30_SUSTech-SYSU/originalImages/0637.jpg,[],['mild diabetic retinopathy'],4,0.24531046
+1118,1118,30_SUSTech-SYSU/originalImages/0513.jpg,[],['no diabetic retinopathy'],3,0.26199237
+1119,1119,30_SUSTech-SYSU/originalImages/0573.jpg,[],['no diabetic retinopathy'],4,0.24813196
+1120,1120,30_SUSTech-SYSU/originalImages/0095.jpg,[],['no diabetic retinopathy'],3,0.30631864
+1121,1121,30_SUSTech-SYSU/originalImages/0828.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.41523343
+1122,1122,30_SUSTech-SYSU/originalImages/0885.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.41632017
+1123,1123,30_SUSTech-SYSU/originalImages/0510.jpg,[],['no diabetic retinopathy'],3,0.25040647
+1124,1124,30_SUSTech-SYSU/originalImages/0408.jpg,[],['no diabetic retinopathy'],3,0.38533893
+1125,1125,30_SUSTech-SYSU/originalImages/0104.jpg,[],['no diabetic retinopathy'],4,0.20159449
+1126,1126,30_SUSTech-SYSU/originalImages/0239.jpg,[],['no diabetic retinopathy'],3,0.33646905
+1127,1127,30_SUSTech-SYSU/originalImages/0164.jpg,[],['no diabetic retinopathy'],4,0.20036377
+1128,1128,30_SUSTech-SYSU/originalImages/0165.jpg,[],['no diabetic retinopathy'],3,0.33052725
+1129,1129,30_SUSTech-SYSU/originalImages/1107.jpg,[],"['severe diabetic retinopathy', 'exudates']",2,0.53401315
+1130,1130,30_SUSTech-SYSU/originalImages/0759.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.19950984
+1131,1131,30_SUSTech-SYSU/originalImages/1011.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.18681873
+1132,1132,30_SUSTech-SYSU/originalImages/0527.jpg,[],['no diabetic retinopathy'],3,0.26457155
+1133,1133,30_SUSTech-SYSU/originalImages/0935.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.32806814
+1134,1134,30_SUSTech-SYSU/originalImages/0496.jpg,[],['no diabetic retinopathy'],4,0.23375583
+1135,1135,30_SUSTech-SYSU/originalImages/0142.jpg,[],['no diabetic retinopathy'],3,0.25804922
+1136,1136,30_SUSTech-SYSU/originalImages/0627.jpg,[],['no diabetic retinopathy'],3,0.25329435
+1137,1137,30_SUSTech-SYSU/originalImages/0138.jpg,[],['no diabetic retinopathy'],3,0.25559944
+1138,1138,30_SUSTech-SYSU/originalImages/1115.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",2,0.56731737
+1139,1139,30_SUSTech-SYSU/originalImages/0631.jpg,[],['no diabetic retinopathy'],4,0.23135565
+1140,1140,30_SUSTech-SYSU/originalImages/0463.jpg,[],['no diabetic retinopathy'],4,0.18881905
+1141,1141,30_SUSTech-SYSU/originalImages/0592.jpg,[],['no diabetic retinopathy'],4,0.2450341
+1142,1142,30_SUSTech-SYSU/originalImages/0289.jpg,[],['no diabetic retinopathy'],4,0.2072388
+1143,1143,30_SUSTech-SYSU/originalImages/1033.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.50167763
+1144,1144,30_SUSTech-SYSU/originalImages/1144.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.36368465
+1145,1145,30_SUSTech-SYSU/originalImages/0581.jpg,[],['no diabetic retinopathy'],3,0.30820256
+1146,1146,30_SUSTech-SYSU/originalImages/0423.jpg,[],['no diabetic retinopathy'],3,0.38067898
+1147,1147,30_SUSTech-SYSU/originalImages/0022.jpg,[],['no diabetic retinopathy'],3,0.3593944
+1148,1148,30_SUSTech-SYSU/originalImages/0199.jpg,[],['no diabetic retinopathy'],3,0.28769186
+1149,1149,30_SUSTech-SYSU/originalImages/0396.jpg,[],['no diabetic retinopathy'],4,0.20463303
+1150,1150,30_SUSTech-SYSU/originalImages/0771.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2601521
+1151,1151,30_SUSTech-SYSU/originalImages/0177.jpg,[],['no diabetic retinopathy'],4,0.20845811
+1152,1152,30_SUSTech-SYSU/originalImages/0261.jpg,[],['no diabetic retinopathy'],4,0.22785263
+1153,1153,30_SUSTech-SYSU/originalImages/0558.jpg,[],['no diabetic retinopathy'],3,0.2780281
+1154,1154,30_SUSTech-SYSU/originalImages/0435.jpg,[],['no diabetic retinopathy'],4,0.23673293
+1155,1155,30_SUSTech-SYSU/originalImages/0962.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3184884
+1156,1156,30_SUSTech-SYSU/originalImages/0047.jpg,[],['no diabetic retinopathy'],3,0.38349167
+1157,1157,30_SUSTech-SYSU/originalImages/1153.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.24771093
+1158,1158,30_SUSTech-SYSU/originalImages/0529.jpg,[],['no diabetic retinopathy'],4,0.20392348
+1159,1159,30_SUSTech-SYSU/originalImages/0923.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.5521398
+1160,1160,30_SUSTech-SYSU/originalImages/0295.jpg,[],['no diabetic retinopathy'],3,0.27307183
+1161,1161,30_SUSTech-SYSU/originalImages/0189.jpg,[],['no diabetic retinopathy'],3,0.28613648
+1162,1162,30_SUSTech-SYSU/originalImages/0428.jpg,[],['no diabetic retinopathy'],4,0.17102022
+1163,1163,30_SUSTech-SYSU/originalImages/0951.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.32893726
+1164,1164,30_SUSTech-SYSU/originalImages/0565.jpg,[],['no diabetic retinopathy'],3,0.27247757
+1165,1165,30_SUSTech-SYSU/originalImages/0313.jpg,[],['no diabetic retinopathy'],3,0.331528
+1166,1166,30_SUSTech-SYSU/originalImages/0965.jpg,[],"['moderate diabetic retinopathy', 'exudates']",1,0.83689153
+1167,1167,30_SUSTech-SYSU/originalImages/0124.jpg,[],['no diabetic retinopathy'],4,0.20065756
+1168,1168,30_SUSTech-SYSU/originalImages/0548.jpg,[],['no diabetic retinopathy'],3,0.30738893
+1169,1169,30_SUSTech-SYSU/originalImages/0988.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.60288787
+1170,1170,30_SUSTech-SYSU/originalImages/0097.jpg,[],['no diabetic retinopathy'],4,0.22019726
+1171,1171,30_SUSTech-SYSU/originalImages/1076.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.36495385
+1172,1172,30_SUSTech-SYSU/originalImages/0308.jpg,[],['no diabetic retinopathy'],3,0.2948102
+1173,1173,30_SUSTech-SYSU/originalImages/0608.jpg,[],['no diabetic retinopathy'],4,0.20666383
+1174,1174,30_SUSTech-SYSU/originalImages/0364.jpg,[],['no diabetic retinopathy'],3,0.30533975
+1175,1175,30_SUSTech-SYSU/originalImages/0055.jpg,[],['no diabetic retinopathy'],3,0.25736097
+1176,1176,30_SUSTech-SYSU/originalImages/0591.jpg,[],['no diabetic retinopathy'],3,0.28854042
+1177,1177,30_SUSTech-SYSU/originalImages/0340.jpg,[],['no diabetic retinopathy'],4,0.19979984
+1178,1178,30_SUSTech-SYSU/originalImages/0590.jpg,[],['no diabetic retinopathy'],3,0.2512527
+1179,1179,30_SUSTech-SYSU/originalImages/0329.jpg,[],['no diabetic retinopathy'],4,0.1852026
+1180,1180,30_SUSTech-SYSU/originalImages/0355.jpg,[],['no diabetic retinopathy'],3,0.3124427
+1181,1181,30_SUSTech-SYSU/originalImages/0900.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",4,0.23528524
+1182,1182,30_SUSTech-SYSU/originalImages/0867.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.17799418
+1183,1183,30_SUSTech-SYSU/originalImages/0300.jpg,[],['no diabetic retinopathy'],4,0.1953662
+1184,1184,30_SUSTech-SYSU/originalImages/0344.jpg,[],['no diabetic retinopathy'],3,0.3883635
+1185,1185,30_SUSTech-SYSU/originalImages/0235.jpg,[],['no diabetic retinopathy'],3,0.2569313
+1186,1186,30_SUSTech-SYSU/originalImages/0181.jpg,[],['no diabetic retinopathy'],3,0.2755715
+1187,1187,30_SUSTech-SYSU/originalImages/0222.jpg,[],['no diabetic retinopathy'],3,0.36689138
+1188,1188,30_SUSTech-SYSU/originalImages/0200.jpg,[],['no diabetic retinopathy'],4,0.18840347
+1189,1189,30_SUSTech-SYSU/originalImages/0893.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.26372373
+1190,1190,30_SUSTech-SYSU/originalImages/1024.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.30547932
+1191,1191,30_SUSTech-SYSU/originalImages/1205.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.27409258
+1192,1192,30_SUSTech-SYSU/originalImages/0292.jpg,[],['no diabetic retinopathy'],4,0.13518974
+1193,1193,30_SUSTech-SYSU/originalImages/1020.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.14535919
+1194,1194,30_SUSTech-SYSU/originalImages/0101.jpg,[],['no diabetic retinopathy'],4,0.17386025
+1195,1195,30_SUSTech-SYSU/originalImages/0209.jpg,[],['no diabetic retinopathy'],2,0.6169688
+1196,1196,30_SUSTech-SYSU/originalImages/0160.jpg,[],['no diabetic retinopathy'],4,0.24917974
+1197,1197,30_SUSTech-SYSU/originalImages/0721.jpg,[],"['moderate diabetic retinopathy', 'exudates']",4,0.18295489
+1198,1198,30_SUSTech-SYSU/originalImages/0078.jpg,[],['no diabetic retinopathy'],4,0.21385984
+1199,1199,30_SUSTech-SYSU/originalImages/0952.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.3159582
+1200,1200,30_SUSTech-SYSU/originalImages/0323.jpg,[],['no diabetic retinopathy'],3,0.3646589
+1201,1201,30_SUSTech-SYSU/originalImages/0412.jpg,[],['no diabetic retinopathy'],4,0.23708203
+1202,1202,30_SUSTech-SYSU/originalImages/1128.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.4400247
+1203,1203,30_SUSTech-SYSU/originalImages/0175.jpg,[],['no diabetic retinopathy'],4,0.21459696
+1204,1204,30_SUSTech-SYSU/originalImages/0780.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.4153304
+1205,1205,30_SUSTech-SYSU/originalImages/0764.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.32869548
+1206,1206,30_SUSTech-SYSU/originalImages/1093.jpg,[],"['proliferative diabetic retinopathy', 'exudates']",3,0.36648235
+1207,1207,30_SUSTech-SYSU/originalImages/0229.jpg,[],['no diabetic retinopathy'],3,0.42037943
+1208,1208,30_SUSTech-SYSU/originalImages/0970.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.30619058
+1209,1209,30_SUSTech-SYSU/originalImages/0272.jpg,[],['no diabetic retinopathy'],3,0.32934755
+1210,1210,30_SUSTech-SYSU/originalImages/0460.jpg,[],['no diabetic retinopathy'],4,0.2402982
+1211,1211,30_SUSTech-SYSU/originalImages/0715.jpg,[],"['moderate diabetic retinopathy', 'exudates']",3,0.2763251
+1212,1212,30_SUSTech-SYSU/originalImages/0483.jpg,[],['no diabetic retinopathy'],3,0.39307985
+1213,1213,30_SUSTech-SYSU/originalImages/0863.jpg,[],"['moderate diabetic retinopathy', 'exudates']",2,0.62643343
+1214,1214,30_SUSTech-SYSU/originalImages/0162.jpg,[],['no diabetic retinopathy'],3,0.43372902
+1215,1215,30_SUSTech-SYSU/originalImages/1108.jpg,[],"['severe diabetic retinopathy', 'exudates']",3,0.2576079
+1216,1216,30_SUSTech-SYSU/originalImages/0002.jpg,[],['no diabetic retinopathy'],3,0.25138116
+1217,1217,30_SUSTech-SYSU/originalImages/0046.jpg,[],['no diabetic retinopathy'],4,0.24916886
+1218,1218,30_SUSTech-SYSU/originalImages/0525.jpg,[],['no diabetic retinopathy'],4,0.23988302

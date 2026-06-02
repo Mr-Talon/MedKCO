@@ -1,0 +1,651 @@
+,Unnamed: 0,image,atributes,categories,stage,img_norm_r
+0,0,24_ORIGA/Images/001.jpg,[],['no glaucoma'],4,0.19732603720871264
+1,1,24_ORIGA/Images/002.jpg,[],['no glaucoma'],4,0.18227166687096596
+2,2,24_ORIGA/Images/003.jpg,[],['no glaucoma'],4,0.23906807522140852
+3,3,24_ORIGA/Images/004.jpg,[],['no glaucoma'],4,0.1639822940194346
+4,4,24_ORIGA/Images/005.jpg,[],['no glaucoma'],4,0.2075073964336424
+5,5,24_ORIGA/Images/006.jpg,[],['no glaucoma'],3,0.31139677523346654
+6,6,24_ORIGA/Images/007.jpg,[],['no glaucoma'],3,0.2711264500443418
+7,7,24_ORIGA/Images/008.jpg,[],['no glaucoma'],3,0.32138741436910623
+8,8,24_ORIGA/Images/009.jpg,[],['no glaucoma'],3,0.4078750223015819
+9,9,24_ORIGA/Images/010.jpg,[],['no glaucoma'],3,0.2998156358075924
+10,10,24_ORIGA/Images/011.jpg,[],['no glaucoma'],4,0.21178961302924995
+11,11,24_ORIGA/Images/012.jpg,[],['no glaucoma'],4,0.21085961831315808
+12,12,24_ORIGA/Images/013.jpg,[],['no glaucoma'],2,0.5305603637611465
+13,13,24_ORIGA/Images/014.jpg,[],['no glaucoma'],3,0.3176952893758761
+14,14,24_ORIGA/Images/015.jpg,[],['no glaucoma'],3,0.28964858404618676
+15,15,24_ORIGA/Images/016.jpg,[],['no glaucoma'],2,0.5252241979967534
+16,16,24_ORIGA/Images/017.jpg,[],['no glaucoma'],3,0.34881330043961645
+17,17,24_ORIGA/Images/018.jpg,[],['no glaucoma'],3,0.33346914854379045
+18,18,24_ORIGA/Images/019.jpg,[],['no glaucoma'],4,0.19163733439573877
+19,19,24_ORIGA/Images/020.jpg,[],['no glaucoma'],3,0.4626769815473829
+20,20,24_ORIGA/Images/021.jpg,[],['no glaucoma'],3,0.2632374523302529
+21,21,24_ORIGA/Images/022.jpg,[],['no glaucoma'],4,0.21286900067470638
+22,22,24_ORIGA/Images/023.jpg,[],['no glaucoma'],4,0.23973406094313374
+23,23,24_ORIGA/Images/024.jpg,[],['no glaucoma'],4,0.24090047484458926
+24,24,24_ORIGA/Images/025.jpg,[],['no glaucoma'],4,0.20805838963141032
+25,25,24_ORIGA/Images/026.jpg,[],['no glaucoma'],4,0.21542713644661943
+26,26,24_ORIGA/Images/027.jpg,[],['no glaucoma'],3,0.26393529830756457
+27,27,24_ORIGA/Images/028.jpg,[],['no glaucoma'],4,0.19595825746688544
+28,28,24_ORIGA/Images/029.jpg,[],['no glaucoma'],4,0.1737488182321189
+29,29,24_ORIGA/Images/030.jpg,[],['no glaucoma'],3,0.3476482379191677
+30,30,24_ORIGA/Images/031.jpg,[],['no glaucoma'],3,0.35170681173493024
+31,31,24_ORIGA/Images/032.jpg,[],['no glaucoma'],3,0.37740377358965727
+32,32,24_ORIGA/Images/033.jpg,[],['no glaucoma'],4,0.14327305543749064
+33,33,24_ORIGA/Images/034.jpg,[],['no glaucoma'],3,0.2898133124746344
+34,34,24_ORIGA/Images/035.jpg,[],['no glaucoma'],3,0.2666252635386384
+35,35,24_ORIGA/Images/036.jpg,[],['glaucoma'],4,0.23957518
+36,36,24_ORIGA/Images/037.jpg,[],['glaucoma'],3,0.26821116
+37,37,24_ORIGA/Images/038.jpg,[],['no glaucoma'],4,0.20490770321276763
+38,38,24_ORIGA/Images/039.jpg,[],['no glaucoma'],3,0.2523179631551652
+39,39,24_ORIGA/Images/040.jpg,[],['no glaucoma'],3,0.3986879340970426
+40,40,24_ORIGA/Images/041.jpg,[],['glaucoma'],4,0.23664515
+41,41,24_ORIGA/Images/042.jpg,[],['no glaucoma'],4,0.22601574701649116
+42,42,24_ORIGA/Images/043.jpg,[],['no glaucoma'],4,0.2033798257266212
+43,43,24_ORIGA/Images/044.jpg,[],['no glaucoma'],4,0.18677745425133072
+44,44,24_ORIGA/Images/045.jpg,[],['no glaucoma'],4,0.24018508745295186
+45,45,24_ORIGA/Images/046.jpg,[],['no glaucoma'],4,0.24684461849054534
+46,46,24_ORIGA/Images/047.jpg,[],['no glaucoma'],4,0.20253951997844347
+47,47,24_ORIGA/Images/048.jpg,[],['no glaucoma'],3,0.26635049936149413
+48,48,24_ORIGA/Images/049.jpg,[],['no glaucoma'],3,0.44147377877086325
+49,49,24_ORIGA/Images/050.jpg,[],['glaucoma'],3,0.25325418
+50,50,24_ORIGA/Images/051.jpg,[],['no glaucoma'],4,0.22835154166692612
+51,51,24_ORIGA/Images/052.jpg,[],['no glaucoma'],3,0.26217711865715326
+52,52,24_ORIGA/Images/053.jpg,[],['no glaucoma'],4,0.22886839809194487
+53,53,24_ORIGA/Images/054.jpg,[],['no glaucoma'],4,0.13168917727159418
+54,54,24_ORIGA/Images/055.jpg,[],['no glaucoma'],4,0.2152422123572748
+55,55,24_ORIGA/Images/056.jpg,[],['no glaucoma'],3,0.302176350746002
+56,56,24_ORIGA/Images/057.jpg,[],['no glaucoma'],4,0.2198716261480806
+57,57,24_ORIGA/Images/058.jpg,[],['no glaucoma'],4,0.1970305224172814
+58,58,24_ORIGA/Images/059.jpg,[],['no glaucoma'],4,0.21144753842228467
+59,59,24_ORIGA/Images/060.jpg,[],['no glaucoma'],3,0.38802344714484693
+60,60,24_ORIGA/Images/061.jpg,[],['no glaucoma'],3,0.3046053690152307
+61,61,24_ORIGA/Images/062.jpg,[],['no glaucoma'],4,0.23344026943815505
+62,62,24_ORIGA/Images/063.jpg,[],['no glaucoma'],3,0.29341528188993593
+63,63,24_ORIGA/Images/064.jpg,[],['no glaucoma'],4,0.2375306098912763
+64,64,24_ORIGA/Images/065.jpg,[],['no glaucoma'],4,0.22084801424244607
+65,65,24_ORIGA/Images/066.jpg,[],['no glaucoma'],4,0.21384255035166078
+66,66,24_ORIGA/Images/067.jpg,[],['no glaucoma'],3,0.3831848059507398
+67,67,24_ORIGA/Images/068.jpg,[],['no glaucoma'],3,0.2994044455239291
+68,68,24_ORIGA/Images/069.jpg,[],['glaucoma'],4,0.21611324
+69,69,24_ORIGA/Images/070.jpg,[],['no glaucoma'],3,0.2997395667777014
+70,70,24_ORIGA/Images/071.jpg,[],['no glaucoma'],3,0.4603342250151971
+71,71,24_ORIGA/Images/072.jpg,[],['glaucoma'],3,0.4821503
+72,72,24_ORIGA/Images/073.jpg,[],['no glaucoma'],4,0.24172831121410931
+73,73,24_ORIGA/Images/074.jpg,[],['no glaucoma'],3,0.26324868778317073
+74,74,24_ORIGA/Images/075.jpg,[],['no glaucoma'],4,0.2099504704427779
+75,75,24_ORIGA/Images/076.jpg,[],['glaucoma'],3,0.3128596
+76,76,24_ORIGA/Images/077.jpg,[],['no glaucoma'],4,0.2172058904278538
+77,77,24_ORIGA/Images/078.jpg,[],['no glaucoma'],3,0.3169955577994258
+78,78,24_ORIGA/Images/079.jpg,[],['no glaucoma'],3,0.38977429174279826
+79,79,24_ORIGA/Images/080.jpg,[],['no glaucoma'],3,0.43865170994164415
+80,80,24_ORIGA/Images/081.jpg,[],['no glaucoma'],3,0.2767089089347236
+81,81,24_ORIGA/Images/082.jpg,[],['no glaucoma'],4,0.17025920074382567
+82,82,24_ORIGA/Images/083.jpg,[],['no glaucoma'],3,0.2845534423719395
+83,83,24_ORIGA/Images/084.jpg,[],['no glaucoma'],3,0.3312253314060194
+84,84,24_ORIGA/Images/085.jpg,[],['no glaucoma'],4,0.2436480032492649
+85,85,24_ORIGA/Images/086.jpg,[],['glaucoma'],3,0.29518554
+86,86,24_ORIGA/Images/087.jpg,[],['glaucoma'],3,0.28106713
+87,87,24_ORIGA/Images/088.jpg,[],['no glaucoma'],3,0.4840516075091447
+88,88,24_ORIGA/Images/089.jpg,[],['no glaucoma'],4,0.1948885917193676
+89,89,24_ORIGA/Images/090.jpg,[],['no glaucoma'],3,0.36125754136406735
+90,90,24_ORIGA/Images/091.jpg,[],['no glaucoma'],3,0.4338075075709835
+91,91,24_ORIGA/Images/092.jpg,[],['no glaucoma'],3,0.2710910387619576
+92,92,24_ORIGA/Images/093.jpg,[],['glaucoma'],3,0.29860225
+93,93,24_ORIGA/Images/094.jpg,[],['glaucoma'],3,0.46909663
+94,94,24_ORIGA/Images/095.jpg,[],['no glaucoma'],4,0.18587451868317337
+95,95,24_ORIGA/Images/096.jpg,[],['no glaucoma'],3,0.28616825274717067
+96,96,24_ORIGA/Images/097.jpg,[],['glaucoma'],3,0.38217556
+97,97,24_ORIGA/Images/098.jpg,[],['no glaucoma'],4,0.21116285450495365
+98,98,24_ORIGA/Images/099.jpg,[],['no glaucoma'],4,0.19860489255951505
+99,99,24_ORIGA/Images/100.jpg,[],['no glaucoma'],3,0.28657715640915055
+100,100,24_ORIGA/Images/101.jpg,[],['no glaucoma'],3,0.3797467897429894
+101,101,24_ORIGA/Images/102.jpg,[],['no glaucoma'],3,0.2622054650728923
+102,102,24_ORIGA/Images/103.jpg,[],['no glaucoma'],4,0.21727994178333257
+103,103,24_ORIGA/Images/104.jpg,[],['no glaucoma'],4,0.24049549144747667
+104,104,24_ORIGA/Images/105.jpg,[],['no glaucoma'],3,0.3112691608060761
+105,105,24_ORIGA/Images/106.jpg,[],['no glaucoma'],3,0.27909734485454357
+106,106,24_ORIGA/Images/107.jpg,[],['no glaucoma'],4,0.18615167934952503
+107,107,24_ORIGA/Images/108.jpg,[],['no glaucoma'],3,0.2668492711905978
+108,108,24_ORIGA/Images/109.jpg,[],['no glaucoma'],4,0.2444208844539028
+109,109,24_ORIGA/Images/110.jpg,[],['glaucoma'],4,0.20040266
+110,110,24_ORIGA/Images/111.jpg,[],['no glaucoma'],4,0.2366353839256646
+111,111,24_ORIGA/Images/112.jpg,[],['no glaucoma'],3,0.27553835176980046
+112,112,24_ORIGA/Images/113.jpg,[],['no glaucoma'],3,0.3722284744683273
+113,113,24_ORIGA/Images/114.jpg,[],['no glaucoma'],4,0.216261273487341
+114,114,24_ORIGA/Images/115.jpg,[],['no glaucoma'],3,0.29736555716544866
+115,115,24_ORIGA/Images/116.jpg,[],['glaucoma'],4,0.15730911
+116,116,24_ORIGA/Images/117.jpg,[],['no glaucoma'],3,0.3668227636785066
+117,117,24_ORIGA/Images/118.jpg,[],['no glaucoma'],3,0.3992633732675134
+118,118,24_ORIGA/Images/119.jpg,[],['no glaucoma'],4,0.2124345827158398
+119,119,24_ORIGA/Images/120.jpg,[],['no glaucoma'],3,0.3074083235445757
+120,120,24_ORIGA/Images/121.jpg,[],['no glaucoma'],4,0.24804574727885265
+121,121,24_ORIGA/Images/122.jpg,[],['no glaucoma'],3,0.283051239931904
+122,122,24_ORIGA/Images/123.jpg,[],['no glaucoma'],4,0.24231109015285113
+123,123,24_ORIGA/Images/124.jpg,[],['no glaucoma'],3,0.31889804754163475
+124,124,24_ORIGA/Images/125.jpg,[],['no glaucoma'],3,0.342067316129953
+125,125,24_ORIGA/Images/126.jpg,[],['no glaucoma'],3,0.2887624397817116
+126,126,24_ORIGA/Images/127.jpg,[],['no glaucoma'],4,0.20012638575790548
+127,127,24_ORIGA/Images/128.jpg,[],['no glaucoma'],4,0.19325070001313088
+128,128,24_ORIGA/Images/129.jpg,[],['no glaucoma'],3,0.3017746907295882
+129,129,24_ORIGA/Images/130.jpg,[],['no glaucoma'],3,0.2587417515187033
+130,130,24_ORIGA/Images/131.jpg,[],['no glaucoma'],3,0.2602928757258709
+131,131,24_ORIGA/Images/132.jpg,[],['no glaucoma'],4,0.2485483590964027
+132,132,24_ORIGA/Images/133.jpg,[],['no glaucoma'],3,0.3228407989072447
+133,133,24_ORIGA/Images/134.jpg,[],['no glaucoma'],3,0.25896947658541203
+134,134,24_ORIGA/Images/135.jpg,[],['no glaucoma'],4,0.21912500824857783
+135,135,24_ORIGA/Images/136.jpg,[],['no glaucoma'],3,0.2526552490989719
+136,136,24_ORIGA/Images/137.jpg,[],['no glaucoma'],3,0.39926707551118823
+137,137,24_ORIGA/Images/138.jpg,[],['glaucoma'],2,0.6196355
+138,138,24_ORIGA/Images/139.jpg,[],['no glaucoma'],4,0.22045444515969906
+139,139,24_ORIGA/Images/140.jpg,[],['no glaucoma'],4,0.2487111106499011
+140,140,24_ORIGA/Images/141.jpg,[],['no glaucoma'],4,0.20026502506630717
+141,141,24_ORIGA/Images/142.jpg,[],['no glaucoma'],4,0.2395577747425661
+142,142,24_ORIGA/Images/143.jpg,[],['no glaucoma'],3,0.29997135353852344
+143,143,24_ORIGA/Images/144.jpg,[],['no glaucoma'],4,0.2003111853595461
+144,144,24_ORIGA/Images/145.jpg,[],['no glaucoma'],3,0.2564312263499828
+145,145,24_ORIGA/Images/146.jpg,[],['no glaucoma'],4,0.23591113394220645
+146,146,24_ORIGA/Images/147.jpg,[],['no glaucoma'],2,0.5463734225686295
+147,147,24_ORIGA/Images/148.jpg,[],['no glaucoma'],2,0.528773663777299
+148,148,24_ORIGA/Images/149.jpg,[],['no glaucoma'],3,0.34421293945254267
+149,149,24_ORIGA/Images/150.jpg,[],['no glaucoma'],3,0.4529142684380883
+150,150,24_ORIGA/Images/151.jpg,[],['no glaucoma'],4,0.19634668113941972
+151,151,24_ORIGA/Images/152.jpg,[],['no glaucoma'],4,0.23203936739840378
+152,152,24_ORIGA/Images/153.jpg,[],['no glaucoma'],4,0.2200437401982866
+153,153,24_ORIGA/Images/154.jpg,[],['no glaucoma'],4,0.1889140095805183
+154,154,24_ORIGA/Images/155.jpg,[],['no glaucoma'],3,0.2998312106129036
+155,155,24_ORIGA/Images/156.jpg,[],['no glaucoma'],3,0.36371085797310126
+156,156,24_ORIGA/Images/157.jpg,[],['no glaucoma'],2,0.5654681009546598
+157,157,24_ORIGA/Images/158.jpg,[],['glaucoma'],3,0.4516601
+158,158,24_ORIGA/Images/159.jpg,[],['glaucoma'],4,0.24086231
+159,159,24_ORIGA/Images/160.jpg,[],['glaucoma'],4,0.20618433
+160,160,24_ORIGA/Images/161.jpg,[],['no glaucoma'],4,0.16874990923514108
+161,161,24_ORIGA/Images/162.jpg,[],['no glaucoma'],2,0.5017545303401684
+162,162,24_ORIGA/Images/163.jpg,[],['no glaucoma'],4,0.16986407422509248
+163,163,24_ORIGA/Images/164.jpg,[],['no glaucoma'],4,0.20109948046307957
+164,164,24_ORIGA/Images/165.jpg,[],['glaucoma'],4,0.17023736
+165,165,24_ORIGA/Images/166.jpg,[],['no glaucoma'],2,0.5291713548507474
+166,166,24_ORIGA/Images/167.jpg,[],['no glaucoma'],4,0.16815121779188807
+167,167,24_ORIGA/Images/168.jpg,[],['glaucoma'],3,0.41776204
+168,168,24_ORIGA/Images/169.jpg,[],['no glaucoma'],3,0.2777017142885163
+169,169,24_ORIGA/Images/170.jpg,[],['no glaucoma'],3,0.4130157973497335
+170,170,24_ORIGA/Images/171.jpg,[],['glaucoma'],3,0.38782853
+171,171,24_ORIGA/Images/172.jpg,[],['no glaucoma'],3,0.2842347559877618
+172,172,24_ORIGA/Images/173.jpg,[],['no glaucoma'],3,0.37322522503380845
+173,173,24_ORIGA/Images/174.jpg,[],['no glaucoma'],4,0.2082838156290646
+174,174,24_ORIGA/Images/175.jpg,[],['no glaucoma'],3,0.4483183799169695
+175,175,24_ORIGA/Images/176.jpg,[],['no glaucoma'],4,0.23629497477357406
+176,176,24_ORIGA/Images/177.jpg,[],['no glaucoma'],4,0.24896876641187313
+177,177,24_ORIGA/Images/178.jpg,[],['no glaucoma'],4,0.23536301604325988
+178,178,24_ORIGA/Images/179.jpg,[],['no glaucoma'],4,0.18727031256864093
+179,179,24_ORIGA/Images/180.jpg,[],['glaucoma'],3,0.32562754
+180,180,24_ORIGA/Images/181.jpg,[],['glaucoma'],3,0.4664715
+181,181,24_ORIGA/Images/182.jpg,[],['glaucoma'],4,0.24407479
+182,182,24_ORIGA/Images/183.jpg,[],['no glaucoma'],4,0.2465357245828415
+183,183,24_ORIGA/Images/184.jpg,[],['no glaucoma'],2,0.5262287620066745
+184,184,24_ORIGA/Images/185.jpg,[],['no glaucoma'],4,0.2333715604216311
+185,185,24_ORIGA/Images/186.jpg,[],['no glaucoma'],3,0.32427859401370845
+186,186,24_ORIGA/Images/187.jpg,[],['no glaucoma'],4,0.18037552345226734
+187,187,24_ORIGA/Images/188.jpg,[],['no glaucoma'],4,0.16018830313071522
+188,188,24_ORIGA/Images/189.jpg,[],['no glaucoma'],4,0.14901432178145801
+189,189,24_ORIGA/Images/190.jpg,[],['no glaucoma'],3,0.2600546157951135
+190,190,24_ORIGA/Images/191.jpg,[],['no glaucoma'],2,0.6336463089475609
+191,191,24_ORIGA/Images/192.jpg,[],['no glaucoma'],3,0.2991107963285516
+192,192,24_ORIGA/Images/193.jpg,[],['no glaucoma'],3,0.41141143863795643
+193,193,24_ORIGA/Images/194.jpg,[],['no glaucoma'],2,0.5186006079518602
+194,194,24_ORIGA/Images/195.jpg,[],['no glaucoma'],4,0.18176366087192225
+195,195,24_ORIGA/Images/196.jpg,[],['no glaucoma'],3,0.2705209633291244
+196,196,24_ORIGA/Images/197.jpg,[],['no glaucoma'],4,0.19122860728018834
+197,197,24_ORIGA/Images/198.jpg,[],['no glaucoma'],3,0.34581548776316345
+198,198,24_ORIGA/Images/199.jpg,[],['no glaucoma'],3,0.4783017251201373
+199,199,24_ORIGA/Images/200.jpg,[],['no glaucoma'],2,0.6041022150830255
+200,200,24_ORIGA/Images/201.jpg,[],['no glaucoma'],3,0.2935493587146116
+201,201,24_ORIGA/Images/202.jpg,[],['no glaucoma'],4,0.2369201145213466
+202,202,24_ORIGA/Images/203.jpg,[],['no glaucoma'],3,0.3296329162346342
+203,203,24_ORIGA/Images/204.jpg,[],['no glaucoma'],3,0.25248719113107226
+204,204,24_ORIGA/Images/205.jpg,[],['no glaucoma'],4,0.16113584794935767
+205,205,24_ORIGA/Images/206.jpg,[],['no glaucoma'],4,0.2399215500102547
+206,206,24_ORIGA/Images/207.jpg,[],['no glaucoma'],3,0.35516966565042596
+207,207,24_ORIGA/Images/208.jpg,[],['glaucoma'],4,0.19366394
+208,208,24_ORIGA/Images/209.jpg,[],['no glaucoma'],3,0.44323845229941455
+209,209,24_ORIGA/Images/210.jpg,[],['no glaucoma'],4,0.18908331637995915
+210,210,24_ORIGA/Images/211.jpg,[],['no glaucoma'],3,0.404635911448773
+211,211,24_ORIGA/Images/212.jpg,[],['no glaucoma'],4,0.2215526356310153
+212,212,24_ORIGA/Images/213.jpg,[],['glaucoma'],3,0.31234512
+213,213,24_ORIGA/Images/214.jpg,[],['no glaucoma'],3,0.411642630104166
+214,214,24_ORIGA/Images/215.jpg,[],['no glaucoma'],4,0.19813157836118656
+215,215,24_ORIGA/Images/216.jpg,[],['no glaucoma'],2,0.5034891310763346
+216,216,24_ORIGA/Images/217.jpg,[],['no glaucoma'],3,0.2699340111571312
+217,217,24_ORIGA/Images/218.jpg,[],['no glaucoma'],2,0.5741193403609984
+218,218,24_ORIGA/Images/219.jpg,[],['no glaucoma'],4,0.23022982341877662
+219,219,24_ORIGA/Images/220.jpg,[],['no glaucoma'],4,0.23509749959666487
+220,220,24_ORIGA/Images/221.jpg,[],['no glaucoma'],3,0.31690625241755344
+221,221,24_ORIGA/Images/222.jpg,[],['no glaucoma'],4,0.18903920753508852
+222,222,24_ORIGA/Images/223.jpg,[],['no glaucoma'],3,0.27012906570822504
+223,223,24_ORIGA/Images/224.jpg,[],['no glaucoma'],4,0.15973205620498487
+224,224,24_ORIGA/Images/225.jpg,[],['glaucoma'],3,0.31292158
+225,225,24_ORIGA/Images/226.jpg,[],['no glaucoma'],3,0.3764993778275136
+226,226,24_ORIGA/Images/227.jpg,[],['no glaucoma'],3,0.2622998443855779
+227,227,24_ORIGA/Images/228.jpg,[],['glaucoma'],3,0.44221076
+228,228,24_ORIGA/Images/229.jpg,[],['glaucoma'],4,0.18208887
+229,229,24_ORIGA/Images/230.jpg,[],['no glaucoma'],4,0.24969249748672648
+230,230,24_ORIGA/Images/231.jpg,[],['no glaucoma'],3,0.3353808031549868
+231,231,24_ORIGA/Images/232.jpg,[],['no glaucoma'],4,0.24988861061343137
+232,232,24_ORIGA/Images/233.jpg,[],['glaucoma'],3,0.2755714
+233,233,24_ORIGA/Images/234.jpg,[],['no glaucoma'],4,0.2159823537732806
+234,234,24_ORIGA/Images/235.jpg,[],['no glaucoma'],3,0.3007385520602616
+235,235,24_ORIGA/Images/236.jpg,[],['no glaucoma'],3,0.2778120599677464
+236,236,24_ORIGA/Images/237.jpg,[],['no glaucoma'],3,0.27678754911658804
+237,237,24_ORIGA/Images/238.jpg,[],['no glaucoma'],3,0.42084999837959935
+238,238,24_ORIGA/Images/239.jpg,[],['no glaucoma'],4,0.227653502316338
+239,239,24_ORIGA/Images/240.jpg,[],['glaucoma'],3,0.27270782
+240,240,24_ORIGA/Images/241.jpg,[],['glaucoma'],3,0.36183524
+241,241,24_ORIGA/Images/242.jpg,[],['no glaucoma'],4,0.23576351846561416
+242,242,24_ORIGA/Images/243.jpg,[],['no glaucoma'],3,0.3794343891412475
+243,243,24_ORIGA/Images/244.jpg,[],['no glaucoma'],3,0.2646694902308955
+244,244,24_ORIGA/Images/245.jpg,[],['glaucoma'],3,0.39063787
+245,245,24_ORIGA/Images/246.jpg,[],['glaucoma'],4,0.23299627
+246,246,24_ORIGA/Images/247.jpg,[],['glaucoma'],3,0.40735537
+247,247,24_ORIGA/Images/248.jpg,[],['no glaucoma'],3,0.3650905525007866
+248,248,24_ORIGA/Images/249.jpg,[],['no glaucoma'],4,0.22192140045481318
+249,249,24_ORIGA/Images/250.jpg,[],['no glaucoma'],4,0.2280434146391751
+250,250,24_ORIGA/Images/251.jpg,[],['no glaucoma'],4,0.2330558755327931
+251,251,24_ORIGA/Images/252.jpg,[],['no glaucoma'],3,0.25015333586318084
+252,252,24_ORIGA/Images/253.jpg,[],['no glaucoma'],4,0.18330745624749764
+253,253,24_ORIGA/Images/254.jpg,[],['no glaucoma'],3,0.3934556329844939
+254,254,24_ORIGA/Images/255.jpg,[],['no glaucoma'],1,0.7646297463662383
+255,255,24_ORIGA/Images/256.jpg,[],['no glaucoma'],2,0.5386511953489441
+256,256,24_ORIGA/Images/257.jpg,[],['no glaucoma'],4,0.22091308616001712
+257,257,24_ORIGA/Images/258.jpg,[],['no glaucoma'],4,0.15171435864391994
+258,258,24_ORIGA/Images/259.jpg,[],['no glaucoma'],3,0.2773235375164562
+259,259,24_ORIGA/Images/260.jpg,[],['no glaucoma'],4,0.2001448234949134
+260,260,24_ORIGA/Images/261.jpg,[],['no glaucoma'],4,0.22246386246591068
+261,261,24_ORIGA/Images/262.jpg,[],['no glaucoma'],4,0.24868367986224715
+262,262,24_ORIGA/Images/263.jpg,[],['no glaucoma'],4,0.19376348548945063
+263,263,24_ORIGA/Images/264.jpg,[],['no glaucoma'],3,0.4136654696736289
+264,264,24_ORIGA/Images/265.jpg,[],['no glaucoma'],4,0.23509796666311475
+265,265,24_ORIGA/Images/266.jpg,[],['no glaucoma'],4,0.19727638652400953
+266,266,24_ORIGA/Images/267.jpg,[],['no glaucoma'],4,0.21027569489152487
+267,267,24_ORIGA/Images/268.jpg,[],['no glaucoma'],3,0.39076823458705523
+268,268,24_ORIGA/Images/269.jpg,[],['glaucoma'],3,0.44129145
+269,269,24_ORIGA/Images/270.jpg,[],['glaucoma'],4,0.1792423
+270,270,24_ORIGA/Images/271.jpg,[],['no glaucoma'],3,0.32919658553971876
+271,271,24_ORIGA/Images/272.jpg,[],['no glaucoma'],4,0.22411607342588472
+272,272,24_ORIGA/Images/273.jpg,[],['glaucoma'],3,0.30541676
+273,273,24_ORIGA/Images/274.jpg,[],['no glaucoma'],4,0.180595532964166
+274,274,24_ORIGA/Images/275.jpg,[],['no glaucoma'],4,0.1713677002031822
+275,275,24_ORIGA/Images/276.jpg,[],['no glaucoma'],3,0.34025827560518535
+276,276,24_ORIGA/Images/277.jpg,[],['glaucoma'],3,0.4571657
+277,277,24_ORIGA/Images/278.jpg,[],['glaucoma'],3,0.31824112
+278,278,24_ORIGA/Images/279.jpg,[],['no glaucoma'],3,0.2536652935631451
+279,279,24_ORIGA/Images/280.jpg,[],['no glaucoma'],4,0.2394550204632176
+280,280,24_ORIGA/Images/281.jpg,[],['no glaucoma'],3,0.29839622261949783
+281,281,24_ORIGA/Images/282.jpg,[],['no glaucoma'],3,0.4056368456292198
+282,282,24_ORIGA/Images/283.jpg,[],['glaucoma'],2,0.643749
+283,283,24_ORIGA/Images/284.jpg,[],['glaucoma'],3,0.476382
+284,284,24_ORIGA/Images/285.jpg,[],['glaucoma'],3,0.42897108
+285,285,24_ORIGA/Images/286.jpg,[],['glaucoma'],4,0.16982156
+286,286,24_ORIGA/Images/287.jpg,[],['no glaucoma'],3,0.4387890334115098
+287,287,24_ORIGA/Images/288.jpg,[],['no glaucoma'],3,0.3135531933942272
+288,288,24_ORIGA/Images/289.jpg,[],['glaucoma'],4,0.24841776
+289,289,24_ORIGA/Images/290.jpg,[],['no glaucoma'],3,0.2561520665212653
+290,290,24_ORIGA/Images/291.jpg,[],['no glaucoma'],4,0.1574568198602442
+291,291,24_ORIGA/Images/292.jpg,[],['no glaucoma'],4,0.17101755945087332
+292,292,24_ORIGA/Images/293.jpg,[],['glaucoma'],3,0.33756867
+293,293,24_ORIGA/Images/294.jpg,[],['glaucoma'],3,0.25342992
+294,294,24_ORIGA/Images/295.jpg,[],['no glaucoma'],3,0.45094268180174835
+295,295,24_ORIGA/Images/296.jpg,[],['no glaucoma'],3,0.2820438270101078
+296,296,24_ORIGA/Images/297.jpg,[],['no glaucoma'],4,0.22516393087152742
+297,297,24_ORIGA/Images/298.jpg,[],['no glaucoma'],3,0.32184038442754587
+298,298,24_ORIGA/Images/299.jpg,[],['no glaucoma'],3,0.31762789640652156
+299,299,24_ORIGA/Images/300.jpg,[],['glaucoma'],3,0.35050535
+300,300,24_ORIGA/Images/301.jpg,[],['glaucoma'],3,0.42144975
+301,301,24_ORIGA/Images/302.jpg,[],['no glaucoma'],2,0.565864056992617
+302,302,24_ORIGA/Images/303.jpg,[],['no glaucoma'],4,0.20516215825555756
+303,303,24_ORIGA/Images/304.jpg,[],['glaucoma'],4,0.21761097
+304,304,24_ORIGA/Images/305.jpg,[],['glaucoma'],3,0.28269616
+305,305,24_ORIGA/Images/306.jpg,[],['glaucoma'],3,0.43238753
+306,306,24_ORIGA/Images/307.jpg,[],['no glaucoma'],3,0.2686658122939067
+307,307,24_ORIGA/Images/308.jpg,[],['no glaucoma'],4,0.2003656058105398
+308,308,24_ORIGA/Images/309.jpg,[],['no glaucoma'],4,0.19678417817530366
+309,309,24_ORIGA/Images/310.jpg,[],['no glaucoma'],3,0.36044994491925486
+310,310,24_ORIGA/Images/311.jpg,[],['no glaucoma'],3,0.2513686405890649
+311,311,24_ORIGA/Images/312.jpg,[],['glaucoma'],3,0.47590467
+312,312,24_ORIGA/Images/313.jpg,[],['no glaucoma'],4,0.1607137421352244
+313,313,24_ORIGA/Images/314.jpg,[],['no glaucoma'],3,0.3483352232606179
+314,314,24_ORIGA/Images/315.jpg,[],['no glaucoma'],4,0.19345442523026166
+315,315,24_ORIGA/Images/316.jpg,[],['no glaucoma'],2,0.5007338747844013
+316,316,24_ORIGA/Images/317.jpg,[],['glaucoma'],3,0.25513148
+317,317,24_ORIGA/Images/318.jpg,[],['no glaucoma'],4,0.2433833441183986
+318,318,24_ORIGA/Images/319.jpg,[],['no glaucoma'],4,0.22421368499622435
+319,319,24_ORIGA/Images/320.jpg,[],['no glaucoma'],3,0.4817606988012786
+320,320,24_ORIGA/Images/321.jpg,[],['no glaucoma'],3,0.46267072705694484
+321,321,24_ORIGA/Images/322.jpg,[],['glaucoma'],3,0.46197525
+322,322,24_ORIGA/Images/323.jpg,[],['no glaucoma'],3,0.27621501150237643
+323,323,24_ORIGA/Images/324.jpg,[],['no glaucoma'],4,0.228222386384844
+324,324,24_ORIGA/Images/325.jpg,[],['no glaucoma'],3,0.38400739148836943
+325,325,24_ORIGA/Images/326.jpg,[],['no glaucoma'],3,0.25530403904185245
+326,326,24_ORIGA/Images/327.jpg,[],['glaucoma'],4,0.16172412
+327,327,24_ORIGA/Images/328.jpg,[],['no glaucoma'],3,0.4453072267270009
+328,328,24_ORIGA/Images/329.jpg,[],['no glaucoma'],3,0.41627986229672825
+329,329,24_ORIGA/Images/330.jpg,[],['glaucoma'],3,0.4179178
+330,330,24_ORIGA/Images/331.jpg,[],['no glaucoma'],4,0.17075369462057607
+331,331,24_ORIGA/Images/332.jpg,[],['no glaucoma'],3,0.29188277928132517
+332,332,24_ORIGA/Images/333.jpg,[],['no glaucoma'],4,0.21045503480871774
+333,333,24_ORIGA/Images/334.jpg,[],['no glaucoma'],3,0.25453699201642327
+334,334,24_ORIGA/Images/335.jpg,[],['no glaucoma'],3,0.3811622631615155
+335,335,24_ORIGA/Images/336.jpg,[],['glaucoma'],2,0.58252585
+336,336,24_ORIGA/Images/337.jpg,[],['glaucoma'],4,0.21563618
+337,337,24_ORIGA/Images/338.jpg,[],['no glaucoma'],3,0.2971557925324291
+338,338,24_ORIGA/Images/339.jpg,[],['no glaucoma'],4,0.20238939398320055
+339,339,24_ORIGA/Images/340.jpg,[],['glaucoma'],3,0.30911922
+340,340,24_ORIGA/Images/341.jpg,[],['no glaucoma'],4,0.2170968284200355
+341,341,24_ORIGA/Images/342.jpg,[],['no glaucoma'],3,0.40194679002836314
+342,342,24_ORIGA/Images/343.jpg,[],['no glaucoma'],3,0.38263286299724375
+343,343,24_ORIGA/Images/344.jpg,[],['no glaucoma'],4,0.17315562193089581
+344,344,24_ORIGA/Images/345.jpg,[],['glaucoma'],4,0.20971191
+345,345,24_ORIGA/Images/346.jpg,[],['no glaucoma'],2,0.5358267238119685
+346,346,24_ORIGA/Images/347.jpg,[],['no glaucoma'],4,0.24234889892046357
+347,347,24_ORIGA/Images/348.jpg,[],['glaucoma'],4,0.16918373
+348,348,24_ORIGA/Images/349.jpg,[],['glaucoma'],3,0.48869848
+349,349,24_ORIGA/Images/350.jpg,[],['no glaucoma'],4,0.21901078118569622
+350,350,24_ORIGA/Images/351.jpg,[],['no glaucoma'],4,0.20208738081101432
+351,351,24_ORIGA/Images/352.jpg,[],['no glaucoma'],3,0.39795745670057214
+352,352,24_ORIGA/Images/353.jpg,[],['glaucoma'],4,0.16079153
+353,353,24_ORIGA/Images/354.jpg,[],['glaucoma'],4,0.18248719
+354,354,24_ORIGA/Images/355.jpg,[],['no glaucoma'],4,0.2403353403157262
+355,355,24_ORIGA/Images/356.jpg,[],['no glaucoma'],4,0.18547582190373596
+356,356,24_ORIGA/Images/357.jpg,[],['no glaucoma'],4,0.19323968893045737
+357,357,24_ORIGA/Images/358.jpg,[],['no glaucoma'],3,0.36827054860491465
+358,358,24_ORIGA/Images/359.jpg,[],['glaucoma'],4,0.22761646
+359,359,24_ORIGA/Images/360.jpg,[],['no glaucoma'],3,0.31999683414330893
+360,360,24_ORIGA/Images/361.jpg,[],['no glaucoma'],4,0.23015936047050337
+361,361,24_ORIGA/Images/362.jpg,[],['glaucoma'],3,0.2571681
+362,362,24_ORIGA/Images/363.jpg,[],['no glaucoma'],2,0.5388480778543113
+363,363,24_ORIGA/Images/364.jpg,[],['no glaucoma'],4,0.17823049996616822
+364,364,24_ORIGA/Images/365.jpg,[],['no glaucoma'],3,0.25741663123484443
+365,365,24_ORIGA/Images/366.jpg,[],['glaucoma'],4,0.24198487
+366,366,24_ORIGA/Images/367.jpg,[],['no glaucoma'],4,0.20943782485215987
+367,367,24_ORIGA/Images/368.jpg,[],['no glaucoma'],3,0.3050821454869521
+368,368,24_ORIGA/Images/369.jpg,[],['no glaucoma'],4,0.24011250431518558
+369,369,24_ORIGA/Images/370.jpg,[],['no glaucoma'],4,0.2461717258506044
+370,370,24_ORIGA/Images/371.jpg,[],['no glaucoma'],4,0.21130099435525398
+371,371,24_ORIGA/Images/372.jpg,[],['no glaucoma'],3,0.3406727754083282
+372,372,24_ORIGA/Images/373.jpg,[],['no glaucoma'],3,0.25306526510880245
+373,373,24_ORIGA/Images/374.jpg,[],['no glaucoma'],4,0.21108364024383947
+374,374,24_ORIGA/Images/375.jpg,[],['no glaucoma'],3,0.2790009425481209
+375,375,24_ORIGA/Images/376.jpg,[],['no glaucoma'],3,0.29656044893675854
+376,376,24_ORIGA/Images/377.jpg,[],['glaucoma'],4,0.24336208
+377,377,24_ORIGA/Images/378.jpg,[],['no glaucoma'],4,0.23003579453963996
+378,378,24_ORIGA/Images/379.jpg,[],['no glaucoma'],4,0.22533036756384964
+379,379,24_ORIGA/Images/380.jpg,[],['no glaucoma'],3,0.29400719675256043
+380,380,24_ORIGA/Images/381.jpg,[],['glaucoma'],4,0.15471323
+381,381,24_ORIGA/Images/382.jpg,[],['glaucoma'],3,0.35770836
+382,382,24_ORIGA/Images/383.jpg,[],['glaucoma'],4,0.20792305
+383,383,24_ORIGA/Images/384.jpg,[],['no glaucoma'],3,0.32861889536524463
+384,384,24_ORIGA/Images/385.jpg,[],['glaucoma'],4,0.21873349
+385,385,24_ORIGA/Images/386.jpg,[],['glaucoma'],3,0.31712586
+386,386,24_ORIGA/Images/387.jpg,[],['no glaucoma'],4,0.21651924724935057
+387,387,24_ORIGA/Images/388.jpg,[],['no glaucoma'],4,0.20856415868733166
+388,388,24_ORIGA/Images/389.jpg,[],['glaucoma'],4,0.19142112
+389,389,24_ORIGA/Images/390.jpg,[],['glaucoma'],3,0.33224887
+390,390,24_ORIGA/Images/391.jpg,[],['no glaucoma'],3,0.25838040391614425
+391,391,24_ORIGA/Images/392.jpg,[],['no glaucoma'],3,0.44915231142260503
+392,392,24_ORIGA/Images/393.jpg,[],['no glaucoma'],4,0.2174017100240299
+393,393,24_ORIGA/Images/394.jpg,[],['no glaucoma'],4,0.23201203107360815
+394,394,24_ORIGA/Images/395.jpg,[],['glaucoma'],4,0.19635831
+395,395,24_ORIGA/Images/396.jpg,[],['no glaucoma'],4,0.18786566467068466
+396,396,24_ORIGA/Images/397.jpg,[],['no glaucoma'],3,0.4615236037682056
+397,397,24_ORIGA/Images/398.jpg,[],['glaucoma'],3,0.25024444
+398,398,24_ORIGA/Images/399.jpg,[],['no glaucoma'],2,0.6216748851864105
+399,399,24_ORIGA/Images/400.jpg,[],['no glaucoma'],4,0.2442927610014775
+400,400,24_ORIGA/Images/401.jpg,[],['no glaucoma'],4,0.18125198734346257
+401,401,24_ORIGA/Images/402.jpg,[],['glaucoma'],4,0.2274123
+402,402,24_ORIGA/Images/403.jpg,[],['no glaucoma'],3,0.41587037495670237
+403,403,24_ORIGA/Images/404.jpg,[],['no glaucoma'],2,0.5241073818968154
+404,404,24_ORIGA/Images/405.jpg,[],['no glaucoma'],3,0.2611565232998506
+405,405,24_ORIGA/Images/406.jpg,[],['no glaucoma'],3,0.26301063298160354
+406,406,24_ORIGA/Images/407.jpg,[],['glaucoma'],4,0.22031763
+407,407,24_ORIGA/Images/408.jpg,[],['no glaucoma'],4,0.17614522579973688
+408,408,24_ORIGA/Images/409.jpg,[],['no glaucoma'],3,0.39384900569114784
+409,409,24_ORIGA/Images/410.jpg,[],['no glaucoma'],3,0.46351542714188837
+410,410,24_ORIGA/Images/411.jpg,[],['no glaucoma'],4,0.18288711312211767
+411,411,24_ORIGA/Images/412.jpg,[],['no glaucoma'],3,0.28691799885040675
+412,412,24_ORIGA/Images/413.jpg,[],['no glaucoma'],4,0.23840856037986657
+413,413,24_ORIGA/Images/414.jpg,[],['no glaucoma'],4,0.23471577279596476
+414,414,24_ORIGA/Images/415.jpg,[],['no glaucoma'],2,0.5454118259496402
+415,415,24_ORIGA/Images/416.jpg,[],['no glaucoma'],4,0.19374631259517677
+416,416,24_ORIGA/Images/417.jpg,[],['no glaucoma'],4,0.2290279700114858
+417,417,24_ORIGA/Images/418.jpg,[],['no glaucoma'],3,0.3586381206711072
+418,418,24_ORIGA/Images/419.jpg,[],['glaucoma'],4,0.2302149
+419,419,24_ORIGA/Images/420.jpg,[],['no glaucoma'],4,0.18522086580953678
+420,420,24_ORIGA/Images/421.jpg,[],['no glaucoma'],4,0.22710603684220687
+421,421,24_ORIGA/Images/422.jpg,[],['no glaucoma'],3,0.2568495588030399
+422,422,24_ORIGA/Images/423.jpg,[],['no glaucoma'],4,0.2223213845088106
+423,423,24_ORIGA/Images/424.jpg,[],['glaucoma'],4,0.20323169
+424,424,24_ORIGA/Images/425.jpg,[],['no glaucoma'],4,0.1909430372247845
+425,425,24_ORIGA/Images/426.jpg,[],['glaucoma'],3,0.25189543
+426,426,24_ORIGA/Images/427.jpg,[],['no glaucoma'],4,0.21047099422904397
+427,427,24_ORIGA/Images/428.jpg,[],['no glaucoma'],4,0.2065093468549868
+428,428,24_ORIGA/Images/429.jpg,[],['glaucoma'],3,0.47881934
+429,429,24_ORIGA/Images/430.jpg,[],['no glaucoma'],3,0.27208427987531697
+430,430,24_ORIGA/Images/431.jpg,[],['no glaucoma'],3,0.35671477515646705
+431,431,24_ORIGA/Images/432.jpg,[],['glaucoma'],3,0.28703395
+432,432,24_ORIGA/Images/433.jpg,[],['glaucoma'],2,0.70542645
+433,433,24_ORIGA/Images/434.jpg,[],['no glaucoma'],4,0.23021872070547378
+434,434,24_ORIGA/Images/435.jpg,[],['no glaucoma'],3,0.255484205801488
+435,435,24_ORIGA/Images/436.jpg,[],['no glaucoma'],3,0.3052731154463003
+436,436,24_ORIGA/Images/437.jpg,[],['no glaucoma'],3,0.2522088734533924
+437,437,24_ORIGA/Images/438.jpg,[],['no glaucoma'],4,0.2061248952865057
+438,438,24_ORIGA/Images/439.jpg,[],['glaucoma'],3,0.27822948
+439,439,24_ORIGA/Images/440.jpg,[],['glaucoma'],4,0.246568
+440,440,24_ORIGA/Images/441.jpg,[],['glaucoma'],4,0.22124904
+441,441,24_ORIGA/Images/442.jpg,[],['glaucoma'],3,0.31375948
+442,442,24_ORIGA/Images/443.jpg,[],['no glaucoma'],4,0.2180834506757596
+443,443,24_ORIGA/Images/444.jpg,[],['no glaucoma'],3,0.31077637565041594
+444,444,24_ORIGA/Images/445.jpg,[],['no glaucoma'],3,0.4478435651068775
+445,445,24_ORIGA/Images/446.jpg,[],['no glaucoma'],3,0.28605298322181455
+446,446,24_ORIGA/Images/447.jpg,[],['no glaucoma'],3,0.26287115818409856
+447,447,24_ORIGA/Images/448.jpg,[],['no glaucoma'],4,0.1829447784345274
+448,448,24_ORIGA/Images/449.jpg,[],['no glaucoma'],3,0.3768226662759969
+449,449,24_ORIGA/Images/450.jpg,[],['no glaucoma'],3,0.2889150643784246
+450,450,24_ORIGA/Images/451.jpg,[],['no glaucoma'],3,0.3649364598538822
+451,451,24_ORIGA/Images/452.jpg,[],['no glaucoma'],3,0.2504064112726848
+452,452,24_ORIGA/Images/453.jpg,[],['no glaucoma'],3,0.26163318627552357
+453,453,24_ORIGA/Images/454.jpg,[],['no glaucoma'],4,0.19554114331324066
+454,454,24_ORIGA/Images/455.jpg,[],['no glaucoma'],3,0.2784341773087515
+455,455,24_ORIGA/Images/456.jpg,[],['no glaucoma'],2,0.6483487348972831
+456,456,24_ORIGA/Images/457.jpg,[],['glaucoma'],4,0.21942714
+457,457,24_ORIGA/Images/458.jpg,[],['glaucoma'],4,0.2467332
+458,458,24_ORIGA/Images/459.jpg,[],['no glaucoma'],4,0.23310026432587702
+459,459,24_ORIGA/Images/460.jpg,[],['no glaucoma'],4,0.21205633242730468
+460,460,24_ORIGA/Images/461.jpg,[],['no glaucoma'],4,0.14898512756942517
+461,461,24_ORIGA/Images/462.jpg,[],['no glaucoma'],3,0.260158807151534
+462,462,24_ORIGA/Images/463.jpg,[],['no glaucoma'],3,0.3119948463619955
+463,463,24_ORIGA/Images/464.jpg,[],['no glaucoma'],3,0.27868336542180105
+464,464,24_ORIGA/Images/465.jpg,[],['glaucoma'],3,0.27549696
+465,465,24_ORIGA/Images/466.jpg,[],['no glaucoma'],3,0.25984295073068114
+466,466,24_ORIGA/Images/467.jpg,[],['no glaucoma'],4,0.16092321575006352
+467,467,24_ORIGA/Images/468.jpg,[],['glaucoma'],3,0.25200486
+468,468,24_ORIGA/Images/469.jpg,[],['no glaucoma'],3,0.2500836523896018
+469,469,24_ORIGA/Images/470.jpg,[],['no glaucoma'],3,0.34584105700787315
+470,470,24_ORIGA/Images/471.jpg,[],['no glaucoma'],3,0.3451542176457429
+471,471,24_ORIGA/Images/472.jpg,[],['no glaucoma'],4,0.228547208565161
+472,472,24_ORIGA/Images/473.jpg,[],['no glaucoma'],3,0.41529416333705554
+473,473,24_ORIGA/Images/474.jpg,[],['glaucoma'],3,0.45736653
+474,474,24_ORIGA/Images/475.jpg,[],['no glaucoma'],3,0.2583929801045522
+475,475,24_ORIGA/Images/476.jpg,[],['no glaucoma'],3,0.2552658820424974
+476,476,24_ORIGA/Images/477.jpg,[],['no glaucoma'],2,0.5671803272177321
+477,477,24_ORIGA/Images/478.jpg,[],['no glaucoma'],2,0.5591536754139323
+478,478,24_ORIGA/Images/479.jpg,[],['no glaucoma'],4,0.23444852267084806
+479,479,24_ORIGA/Images/480.jpg,[],['glaucoma'],3,0.26678613
+480,480,24_ORIGA/Images/481.jpg,[],['no glaucoma'],4,0.23954651604217442
+481,481,24_ORIGA/Images/482.jpg,[],['no glaucoma'],3,0.43688331867336294
+482,482,24_ORIGA/Images/483.jpg,[],['no glaucoma'],2,0.6285080747486282
+483,483,24_ORIGA/Images/484.jpg,[],['no glaucoma'],4,0.19824506200813038
+484,484,24_ORIGA/Images/485.jpg,[],['no glaucoma'],4,0.15345213291969373
+485,485,24_ORIGA/Images/486.jpg,[],['glaucoma'],3,0.28242633
+486,486,24_ORIGA/Images/487.jpg,[],['no glaucoma'],4,0.14564449439307453
+487,487,24_ORIGA/Images/488.jpg,[],['no glaucoma'],4,0.20239588270674166
+488,488,24_ORIGA/Images/489.jpg,[],['no glaucoma'],3,0.3997548663176881
+489,489,24_ORIGA/Images/490.jpg,[],['glaucoma'],2,0.6239627
+490,490,24_ORIGA/Images/491.jpg,[],['no glaucoma'],3,0.37080920844051635
+491,491,24_ORIGA/Images/492.jpg,[],['no glaucoma'],4,0.185970561390502
+492,492,24_ORIGA/Images/493.jpg,[],['no glaucoma'],3,0.28312583783335843
+493,493,24_ORIGA/Images/494.jpg,[],['no glaucoma'],3,0.49616583025163596
+494,494,24_ORIGA/Images/495.jpg,[],['no glaucoma'],4,0.22239386969133346
+495,495,24_ORIGA/Images/496.jpg,[],['glaucoma'],3,0.39230555
+496,496,24_ORIGA/Images/497.jpg,[],['no glaucoma'],4,0.2375615986617314
+497,497,24_ORIGA/Images/498.jpg,[],['no glaucoma'],2,0.5176251654862959
+498,498,24_ORIGA/Images/499.jpg,[],['no glaucoma'],3,0.31379331866266597
+499,499,24_ORIGA/Images/500.jpg,[],['no glaucoma'],3,0.3856876537668851
+500,500,24_ORIGA/Images/501.jpg,[],['no glaucoma'],3,0.39241366286745943
+501,501,24_ORIGA/Images/502.jpg,[],['no glaucoma'],4,0.2026523663522771
+502,502,24_ORIGA/Images/503.jpg,[],['no glaucoma'],4,0.1466634970776903
+503,503,24_ORIGA/Images/504.jpg,[],['no glaucoma'],3,0.4186771242443385
+504,504,24_ORIGA/Images/505.jpg,[],['glaucoma'],2,0.5026732
+505,505,24_ORIGA/Images/506.jpg,[],['glaucoma'],2,0.74833107
+506,506,24_ORIGA/Images/507.jpg,[],['glaucoma'],3,0.2772102
+507,507,24_ORIGA/Images/508.jpg,[],['glaucoma'],3,0.47810543
+508,508,24_ORIGA/Images/509.jpg,[],['no glaucoma'],3,0.408130496019383
+509,509,24_ORIGA/Images/510.jpg,[],['no glaucoma'],3,0.3768157553891016
+510,510,24_ORIGA/Images/511.jpg,[],['glaucoma'],2,0.6150717
+511,511,24_ORIGA/Images/512.jpg,[],['glaucoma'],3,0.26841074
+512,512,24_ORIGA/Images/513.jpg,[],['no glaucoma'],3,0.2645654356744703
+513,513,24_ORIGA/Images/514.jpg,[],['glaucoma'],1,0.8047735
+514,514,24_ORIGA/Images/515.jpg,[],['glaucoma'],4,0.24492744
+515,515,24_ORIGA/Images/516.jpg,[],['glaucoma'],2,0.5060177
+516,516,24_ORIGA/Images/517.jpg,[],['no glaucoma'],3,0.2727508756048083
+517,517,24_ORIGA/Images/518.jpg,[],['no glaucoma'],4,0.20453706035263153
+518,518,24_ORIGA/Images/519.jpg,[],['glaucoma'],3,0.40951818
+519,519,24_ORIGA/Images/520.jpg,[],['no glaucoma'],3,0.32656657517315585
+520,520,24_ORIGA/Images/521.jpg,[],['no glaucoma'],3,0.45869332293920745
+521,521,24_ORIGA/Images/522.jpg,[],['no glaucoma'],4,0.15250589623442715
+522,522,24_ORIGA/Images/523.jpg,[],['glaucoma'],3,0.33245632
+523,523,24_ORIGA/Images/524.jpg,[],['glaucoma'],3,0.44447675
+524,524,24_ORIGA/Images/525.jpg,[],['no glaucoma'],3,0.3811674251915837
+525,525,24_ORIGA/Images/526.jpg,[],['no glaucoma'],2,0.6217302223552986
+526,526,24_ORIGA/Images/527.jpg,[],['no glaucoma'],3,0.30038033808145737
+527,527,24_ORIGA/Images/528.jpg,[],['glaucoma'],2,0.694082
+528,528,24_ORIGA/Images/529.jpg,[],['no glaucoma'],4,0.21314201416425754
+529,529,24_ORIGA/Images/530.jpg,[],['no glaucoma'],4,0.2050259454621156
+530,530,24_ORIGA/Images/531.jpg,[],['no glaucoma'],3,0.2675428150687796
+531,531,24_ORIGA/Images/532.jpg,[],['glaucoma'],3,0.37985572
+532,532,24_ORIGA/Images/533.jpg,[],['glaucoma'],3,0.48373958
+533,533,24_ORIGA/Images/534.jpg,[],['no glaucoma'],3,0.29192421473880037
+534,534,24_ORIGA/Images/535.jpg,[],['no glaucoma'],3,0.3770556905474928
+535,535,24_ORIGA/Images/536.jpg,[],['no glaucoma'],3,0.2828336825550955
+536,536,24_ORIGA/Images/537.jpg,[],['no glaucoma'],4,0.23008072667059412
+537,537,24_ORIGA/Images/538.jpg,[],['no glaucoma'],3,0.3035769398436512
+538,538,24_ORIGA/Images/539.jpg,[],['no glaucoma'],4,0.17435522373783977
+539,539,24_ORIGA/Images/540.jpg,[],['no glaucoma'],3,0.30248100277886447
+540,540,24_ORIGA/Images/541.jpg,[],['no glaucoma'],3,0.32861987838240225
+541,541,24_ORIGA/Images/542.jpg,[],['no glaucoma'],3,0.30250913208292146
+542,542,24_ORIGA/Images/543.jpg,[],['no glaucoma'],3,0.34392985195493936
+543,543,24_ORIGA/Images/544.jpg,[],['no glaucoma'],2,0.6265738131274915
+544,544,24_ORIGA/Images/545.jpg,[],['glaucoma'],3,0.2702121
+545,545,24_ORIGA/Images/546.jpg,[],['no glaucoma'],4,0.22480544365487276
+546,546,24_ORIGA/Images/547.jpg,[],['no glaucoma'],2,0.5448413904633566
+547,547,24_ORIGA/Images/548.jpg,[],['no glaucoma'],2,0.5248493210335702
+548,548,24_ORIGA/Images/549.jpg,[],['glaucoma'],4,0.20664018
+549,549,24_ORIGA/Images/550.jpg,[],['glaucoma'],3,0.257962
+550,550,24_ORIGA/Images/551.jpg,[],['no glaucoma'],4,0.2284119752740865
+551,551,24_ORIGA/Images/552.jpg,[],['no glaucoma'],3,0.2810838886233095
+552,552,24_ORIGA/Images/553.jpg,[],['no glaucoma'],3,0.4412836762996641
+553,553,24_ORIGA/Images/554.jpg,[],['no glaucoma'],4,0.18079144371691883
+554,554,24_ORIGA/Images/555.jpg,[],['no glaucoma'],4,0.1958023380145498
+555,555,24_ORIGA/Images/556.jpg,[],['glaucoma'],4,0.20464306
+556,556,24_ORIGA/Images/557.jpg,[],['glaucoma'],3,0.26792046
+557,557,24_ORIGA/Images/558.jpg,[],['glaucoma'],3,0.32477373
+558,558,24_ORIGA/Images/559.jpg,[],['no glaucoma'],4,0.23232796233121408
+559,559,24_ORIGA/Images/560.jpg,[],['glaucoma'],2,0.540538
+560,560,24_ORIGA/Images/561.jpg,[],['no glaucoma'],3,0.3283295415275056
+561,561,24_ORIGA/Images/562.jpg,[],['no glaucoma'],4,0.23720657643528634
+562,562,24_ORIGA/Images/563.jpg,[],['no glaucoma'],3,0.26032574091274213
+563,563,24_ORIGA/Images/564.jpg,[],['no glaucoma'],3,0.28136388580276295
+564,564,24_ORIGA/Images/565.jpg,[],['no glaucoma'],3,0.3668748437005212
+565,565,24_ORIGA/Images/566.jpg,[],['no glaucoma'],3,0.3068705581176311
+566,566,24_ORIGA/Images/567.jpg,[],['no glaucoma'],3,0.4170266988920512
+567,567,24_ORIGA/Images/568.jpg,[],['no glaucoma'],3,0.4076853956899453
+568,568,24_ORIGA/Images/569.jpg,[],['no glaucoma'],3,0.27484310670433065
+569,569,24_ORIGA/Images/570.jpg,[],['no glaucoma'],4,0.23107423580639574
+570,570,24_ORIGA/Images/571.jpg,[],['glaucoma'],4,0.18074985
+571,571,24_ORIGA/Images/572.jpg,[],['glaucoma'],3,0.27450794
+572,572,24_ORIGA/Images/573.jpg,[],['no glaucoma'],4,0.2278036074871386
+573,573,24_ORIGA/Images/574.jpg,[],['no glaucoma'],3,0.4590009521142571
+574,574,24_ORIGA/Images/575.jpg,[],['no glaucoma'],3,0.3225793889893212
+575,575,24_ORIGA/Images/576.jpg,[],['no glaucoma'],3,0.2926678773383184
+576,576,24_ORIGA/Images/577.jpg,[],['no glaucoma'],4,0.2491934988199993
+577,577,24_ORIGA/Images/578.jpg,[],['glaucoma'],3,0.31387925
+578,578,24_ORIGA/Images/579.jpg,[],['no glaucoma'],3,0.37542908320158
+579,579,24_ORIGA/Images/580.jpg,[],['glaucoma'],3,0.27007112
+580,580,24_ORIGA/Images/581.jpg,[],['no glaucoma'],3,0.3425628034200746
+581,581,24_ORIGA/Images/582.jpg,[],['glaucoma'],2,0.59610045
+582,582,24_ORIGA/Images/583.jpg,[],['no glaucoma'],3,0.4496577493976392
+583,583,24_ORIGA/Images/584.jpg,[],['glaucoma'],3,0.28670773
+584,584,24_ORIGA/Images/585.jpg,[],['no glaucoma'],4,0.22923525000331424
+585,585,24_ORIGA/Images/586.jpg,[],['glaucoma'],3,0.25221527
+586,586,24_ORIGA/Images/587.jpg,[],['no glaucoma'],3,0.26104399073202206
+587,587,24_ORIGA/Images/588.jpg,[],['glaucoma'],4,0.21531415
+588,588,24_ORIGA/Images/589.jpg,[],['glaucoma'],3,0.4460134
+589,589,24_ORIGA/Images/590.jpg,[],['no glaucoma'],3,0.28708116196717115
+590,590,24_ORIGA/Images/591.jpg,[],['glaucoma'],4,0.14908092
+591,591,24_ORIGA/Images/592.jpg,[],['glaucoma'],4,0.2022321
+592,592,24_ORIGA/Images/593.jpg,[],['glaucoma'],4,0.17911565
+593,593,24_ORIGA/Images/594.jpg,[],['no glaucoma'],3,0.37856172051297926
+594,594,24_ORIGA/Images/595.jpg,[],['glaucoma'],3,0.27307257
+595,595,24_ORIGA/Images/596.jpg,[],['no glaucoma'],4,0.20554137798625194
+596,596,24_ORIGA/Images/597.jpg,[],['no glaucoma'],4,0.22542423143807952
+597,597,24_ORIGA/Images/598.jpg,[],['glaucoma'],3,0.3533872
+598,598,24_ORIGA/Images/599.jpg,[],['no glaucoma'],4,0.1995780732715919
+599,599,24_ORIGA/Images/600.jpg,[],['glaucoma'],4,0.20869364
+600,600,24_ORIGA/Images/601.jpg,[],['glaucoma'],3,0.4445628
+601,601,24_ORIGA/Images/602.jpg,[],['no glaucoma'],4,0.20503879497688943
+602,602,24_ORIGA/Images/603.jpg,[],['no glaucoma'],4,0.21943916893630458
+603,603,24_ORIGA/Images/604.jpg,[],['glaucoma'],3,0.48409408
+604,604,24_ORIGA/Images/605.jpg,[],['glaucoma'],4,0.17279232
+605,605,24_ORIGA/Images/606.jpg,[],['no glaucoma'],4,0.17719491864457196
+606,606,24_ORIGA/Images/607.jpg,[],['no glaucoma'],3,0.3150313306842596
+607,607,24_ORIGA/Images/608.jpg,[],['glaucoma'],4,0.2038132
+608,608,24_ORIGA/Images/609.jpg,[],['glaucoma'],3,0.2834684
+609,609,24_ORIGA/Images/610.jpg,[],['no glaucoma'],4,0.2024109350657457
+610,610,24_ORIGA/Images/611.jpg,[],['no glaucoma'],3,0.2818344544476219
+611,611,24_ORIGA/Images/612.jpg,[],['glaucoma'],4,0.20110616
+612,612,24_ORIGA/Images/613.jpg,[],['glaucoma'],3,0.4519571
+613,613,24_ORIGA/Images/614.jpg,[],['no glaucoma'],3,0.30584143602060776
+614,614,24_ORIGA/Images/615.jpg,[],['glaucoma'],3,0.35966116
+615,615,24_ORIGA/Images/616.jpg,[],['no glaucoma'],3,0.3627267822142926
+616,616,24_ORIGA/Images/617.jpg,[],['glaucoma'],2,0.6542909
+617,617,24_ORIGA/Images/618.jpg,[],['glaucoma'],3,0.38665232
+618,618,24_ORIGA/Images/619.jpg,[],['glaucoma'],4,0.20620926
+619,619,24_ORIGA/Images/620.jpg,[],['no glaucoma'],4,0.19947295736469697
+620,620,24_ORIGA/Images/621.jpg,[],['glaucoma'],3,0.3538604
+621,621,24_ORIGA/Images/622.jpg,[],['glaucoma'],3,0.25348404
+622,622,24_ORIGA/Images/623.jpg,[],['glaucoma'],4,0.18494794
+623,623,24_ORIGA/Images/624.jpg,[],['glaucoma'],4,0.19949457
+624,624,24_ORIGA/Images/625.jpg,[],['no glaucoma'],4,0.2223014896095696
+625,625,24_ORIGA/Images/626.jpg,[],['glaucoma'],4,0.20339443
+626,626,24_ORIGA/Images/627.jpg,[],['glaucoma'],3,0.45769536
+627,627,24_ORIGA/Images/628.jpg,[],['glaucoma'],3,0.25172102
+628,628,24_ORIGA/Images/629.jpg,[],['no glaucoma'],4,0.23808504339859501
+629,629,24_ORIGA/Images/630.jpg,[],['glaucoma'],3,0.35236162
+630,630,24_ORIGA/Images/631.jpg,[],['glaucoma'],4,0.2269088
+631,631,24_ORIGA/Images/632.jpg,[],['glaucoma'],2,0.5954833
+632,632,24_ORIGA/Images/633.jpg,[],['no glaucoma'],4,0.21578110749396257
+633,633,24_ORIGA/Images/634.jpg,[],['glaucoma'],4,0.23585466
+634,634,24_ORIGA/Images/635.jpg,[],['no glaucoma'],4,0.24732068411422742
+635,635,24_ORIGA/Images/636.jpg,[],['glaucoma'],3,0.4676689
+636,636,24_ORIGA/Images/637.jpg,[],['no glaucoma'],4,0.1890978113268326
+637,637,24_ORIGA/Images/638.jpg,[],['glaucoma'],3,0.3112129
+638,638,24_ORIGA/Images/639.jpg,[],['no glaucoma'],3,0.26152986544409956
+639,639,24_ORIGA/Images/640.jpg,[],['glaucoma'],3,0.26562324
+640,640,24_ORIGA/Images/641.jpg,[],['glaucoma'],3,0.27759406
+641,641,24_ORIGA/Images/642.jpg,[],['no glaucoma'],3,0.3216671924364845
+642,642,24_ORIGA/Images/643.jpg,[],['no glaucoma'],4,0.21855852603050813
+643,643,24_ORIGA/Images/644.jpg,[],['glaucoma'],3,0.30583388
+644,644,24_ORIGA/Images/645.jpg,[],['glaucoma'],4,0.20677799
+645,645,24_ORIGA/Images/646.jpg,[],['glaucoma'],4,0.14520118
+646,646,24_ORIGA/Images/647.jpg,[],['glaucoma'],3,0.4679019
+647,647,24_ORIGA/Images/648.jpg,[],['glaucoma'],3,0.25645006
+648,648,24_ORIGA/Images/649.jpg,[],['no glaucoma'],4,0.2378841849082897
+649,649,24_ORIGA/Images/650.jpg,[],['glaucoma'],2,0.5201097

@@ -1,0 +1,468 @@
+,Unnamed: 0,image,atributes,categories,stage,img_norm_r
+0,0,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_14.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",3,0.39421213
+1,1,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_17.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",2,0.6212216
+2,2,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_44.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",3,0.39868495
+3,3,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_11.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",3,0.30644882
+4,4,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_42.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",3,0.40584114
+5,5,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_38.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",3,0.31032595
+6,6,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_54.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",2,0.61452097
+7,7,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_07.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",2,0.71115255
+8,8,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_32.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",3,0.47637248
+9,9,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_21.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",2,0.5053952
+10,10,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_31.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",3,0.30612138
+11,11,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_23.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",3,0.48310864
+12,12,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_39.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",2,0.5332493
+13,13,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_43.jpg,[],"['microaneurysms', 'hard exudates']",3,0.31439427
+14,14,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_33.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",2,0.5973295
+15,15,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_29.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",2,0.58475477
+16,16,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_49.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",1,0.7575699
+17,17,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_12.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",3,0.3809861
+18,18,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_26.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",2,0.5190557
+19,19,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_22.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",2,0.628818
+20,20,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_10.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",2,0.58804536
+21,21,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_51.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",2,0.57519823
+22,22,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_28.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",3,0.43826264
+23,23,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_34.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",3,0.45994392
+24,24,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_03.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",2,0.5671363
+25,25,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_41.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",1,0.76432055
+26,26,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_02.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",3,0.43526992
+27,27,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_19.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",2,0.6604434
+28,28,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_27.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",3,0.307465
+29,29,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_37.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",3,0.4404351
+30,30,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_08.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",1,0.798903
+31,31,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_15.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",2,0.6080998
+32,32,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_45.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",2,0.6389727
+33,33,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_06.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",2,0.53871065
+34,34,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_04.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",2,0.58027655
+35,35,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_18.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",2,0.55495244
+36,36,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_25.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",3,0.46943974
+37,37,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_47.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",3,0.4051936
+38,38,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_48.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",3,0.45971537
+39,39,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_52.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",3,0.400474
+40,40,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_24.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",2,0.5451736
+41,41,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_05.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",2,0.6045803
+42,42,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_50.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",2,0.52261055
+43,43,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_20.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",2,0.5110202
+44,44,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_30.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",3,0.4765376
+45,45,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_09.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",3,0.39732674
+46,46,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_16.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",2,0.520726
+47,47,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_40.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",3,0.4979067
+48,48,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_13.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",1,0.7614883
+49,49,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_46.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",2,0.5357322
+50,50,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_01.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",3,0.37509316
+51,51,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_35.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",2,0.5882043
+52,52,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_36.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates']",3,0.40441698
+53,53,03_IDRiD/A. Segmentation/1. Original Images/a. Training Set/IDRiD_53.jpg,[],"['microaneurysms', 'haemorrhages', 'hard exudates', 'soft exudates']",3,0.42565158
+54,54,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_001.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.48846108
+55,55,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_002.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.2695531
+56,56,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_003.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.7274166
+57,57,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_004.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.4199105
+58,58,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_005.jpg,[],"['proliferative diabetic retinopathy', 'no referable diabetic macular edema']",3,0.48779014
+59,59,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_006.jpg,[],"['proliferative diabetic retinopathy', 'non clinically significant diabetic macular edema']",3,0.25790313
+60,60,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_007.jpg,[],"['proliferative diabetic retinopathy', 'no referable diabetic macular edema']",3,0.35036018
+61,61,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_008.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.3085352
+62,62,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_009.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.3687828
+63,63,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_010.jpg,[],"['proliferative diabetic retinopathy', 'non clinically significant diabetic macular edema']",3,0.42559907
+64,64,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_011.jpg,[],"['severe diabetic retinopathy', 'non clinically significant diabetic macular edema']",3,0.26845837
+65,65,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_012.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.31738964
+66,66,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_013.jpg,[],"['severe diabetic retinopathy', 'no referable diabetic macular edema']",3,0.38781846
+67,67,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_014.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.27235737
+68,68,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_015.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.2770338
+69,69,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_016.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.51869625
+70,70,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_017.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",4,0.23250115
+71,71,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_018.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.58188057
+72,72,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_019.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.409263
+73,73,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_020.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.3685637
+74,74,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_021.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",4,0.2136882
+75,75,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_022.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",4,0.23475276
+76,76,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_023.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.43729556
+77,77,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_024.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.36004865
+78,78,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_025.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.4890638
+79,79,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_026.jpg,[],"['severe diabetic retinopathy', 'non clinically significant diabetic macular edema']",1,1.0
+80,80,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_027.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",2,0.6107619
+81,81,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_028.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",2,0.5244943
+82,82,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_029.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.5320962
+83,83,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_030.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.31923565
+84,84,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_031.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.27677342
+85,85,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_032.jpg,[],"['proliferative diabetic retinopathy', 'non clinically significant diabetic macular edema']",4,0.2499462
+86,86,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_033.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.42139095
+87,87,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_034.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.29322946
+88,88,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_035.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.5824905
+89,89,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_036.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.45914152
+90,90,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_037.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",4,0.23697603
+91,91,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_038.jpg,[],"['moderate diabetic retinopathy', 'no referable diabetic macular edema']",3,0.4483083
+92,92,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_039.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.25281337
+93,93,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_040.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.3284076
+94,94,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_041.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.3913098
+95,95,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_042.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.24143468
+96,96,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_043.jpg,[],"['moderate diabetic retinopathy', 'no referable diabetic macular edema']",3,0.4365729
+97,97,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_044.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.33749202
+98,98,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_045.jpg,[],"['moderate diabetic retinopathy', 'no referable diabetic macular edema']",3,0.2678424
+99,99,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_046.jpg,[],"['proliferative diabetic retinopathy', 'no referable diabetic macular edema']",3,0.264088
+100,100,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_047.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.547935
+101,101,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_048.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.4525399
+102,102,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_049.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.4979524
+103,103,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_050.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.21706977
+104,104,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_051.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.20628607
+105,105,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_052.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",3,0.44961256
+106,106,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_053.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",2,0.55349
+107,107,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_054.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",2,0.5614476
+108,108,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_055.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.41886756
+109,109,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_056.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.25160438
+110,110,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_057.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",1,0.86397094
+111,111,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_058.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.42349806
+112,112,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_059.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.24540246
+113,113,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_060.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",2,0.5983002
+114,114,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_061.jpg,[],"['moderate diabetic retinopathy', 'no referable diabetic macular edema']",3,0.29191735
+115,115,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_062.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",2,0.5828938
+116,116,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_063.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.50335646
+117,117,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_064.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.48290575
+118,118,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_065.jpg,[],"['severe diabetic retinopathy', 'no referable diabetic macular edema']",2,0.5551807
+119,119,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_066.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.43934846
+120,120,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_067.jpg,[],"['proliferative diabetic retinopathy', 'non clinically significant diabetic macular edema']",3,0.4802313
+121,121,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_068.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",4,0.20117548
+122,122,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_069.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.4325405
+123,123,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_070.jpg,[],"['proliferative diabetic retinopathy', 'no referable diabetic macular edema']",3,0.29257885
+124,124,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_071.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.38892764
+125,125,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_072.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.27675334
+126,126,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_073.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",4,0.21403767
+127,127,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_074.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.62601334
+128,128,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_075.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.43766713
+129,129,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_076.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.33532044
+130,130,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_077.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",4,0.23905428
+131,131,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_078.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.33000347
+132,132,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_079.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",4,0.15180357
+133,133,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_080.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",4,0.19723426
+134,134,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_081.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.3680966
+135,135,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_082.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.32310694
+136,136,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_083.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.5541979
+137,137,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_084.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.23193908
+138,138,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_085.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.50710154
+139,139,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_086.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",4,0.2319956
+140,140,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_087.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.3472068
+141,141,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_088.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.32921705
+142,142,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_089.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.4104179
+143,143,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_090.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.44091648
+144,144,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_091.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.64716643
+145,145,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_092.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.4964396
+146,146,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_093.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",2,0.7150996
+147,147,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_094.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",2,0.72061026
+148,148,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_095.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.27959546
+149,149,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_096.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.48231924
+150,150,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_097.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",2,0.56357825
+151,151,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_098.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.29466894
+152,152,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_099.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.5516594
+153,153,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_100.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.36680153
+154,154,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_101.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.5129781
+155,155,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_102.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.46827483
+156,156,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_103.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.21665607
+157,157,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_104.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.45070252
+158,158,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_105.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",3,0.34602758
+159,159,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_106.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.23816068
+160,160,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_107.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.2672104
+161,161,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_108.jpg,[],"['severe diabetic retinopathy', 'non clinically significant diabetic macular edema']",2,0.5224524
+162,162,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_109.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.52009815
+163,163,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_110.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",4,0.18909366
+164,164,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_111.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.28057918
+165,165,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_112.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.5541619
+166,166,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_113.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.52210194
+167,167,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_114.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.43840465
+168,168,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_115.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.28697816
+169,169,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_116.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.16587816
+170,170,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_117.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.28986472
+171,171,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_118.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.3952725
+172,172,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_119.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.40057534
+173,173,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_120.jpg,[],"['moderate diabetic retinopathy', 'no referable diabetic macular edema']",4,0.1820029
+174,174,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_121.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.44641325
+175,175,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_122.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.43724766
+176,176,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_123.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.44646946
+177,177,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_124.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.328336
+178,178,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_125.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.57030773
+179,179,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_126.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.18522169
+180,180,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_127.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.495886
+181,181,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_128.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.6712751
+182,182,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_129.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.46451056
+183,183,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_130.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.28740752
+184,184,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_131.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",2,0.67180485
+185,185,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_132.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.37183034
+186,186,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_133.jpg,[],"['moderate diabetic retinopathy', 'no referable diabetic macular edema']",4,0.18691982
+187,187,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_134.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.33655685
+188,188,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_135.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",2,0.5405571
+189,189,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_136.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",3,0.31730825
+190,190,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_137.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",2,0.5719529
+191,191,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_138.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.34553558
+192,192,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_139.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.3029034
+193,193,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_140.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.32102254
+194,194,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_141.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.29707602
+195,195,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_142.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.40691018
+196,196,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_143.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.24780454
+197,197,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_144.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.28152755
+198,198,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_145.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.19305295
+199,199,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_146.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.2719148
+200,200,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_147.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.3991649
+201,201,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_148.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.74047667
+202,202,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_149.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.4528005
+203,203,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_150.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.6382743
+204,204,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_151.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.23705938
+205,205,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_152.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.28469104
+206,206,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_153.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.24121417
+207,207,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_154.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.40672183
+208,208,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_155.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.37373728
+209,209,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_156.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.5317087
+210,210,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_157.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.47515723
+211,211,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_158.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.39530218
+212,212,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_159.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.21880557
+213,213,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_160.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.4589595
+214,214,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_161.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.30999324
+215,215,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_162.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.25823087
+216,216,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_163.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.27491882
+217,217,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_164.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.28766838
+218,218,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_165.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.30947658
+219,219,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_166.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.7056449
+220,220,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_167.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.18355422
+221,221,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_168.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.28149542
+222,222,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_169.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.4792751
+223,223,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_170.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.5294423
+224,224,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_171.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.5058055
+225,225,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_172.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.33847952
+226,226,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_173.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.26807985
+227,227,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_174.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.28062356
+228,228,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_175.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.3466878
+229,229,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_176.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.29183945
+230,230,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_177.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.50282073
+231,231,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_178.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",2,0.54056096
+232,232,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_179.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.28117988
+233,233,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_180.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.384095
+234,234,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_181.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.7071566
+235,235,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_182.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.50426275
+236,236,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_183.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.53138894
+237,237,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_184.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.2953756
+238,238,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_185.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.19292827
+239,239,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_186.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.25891316
+240,240,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_187.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",3,0.31087512
+241,241,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_188.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",3,0.30326325
+242,242,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_189.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",2,0.63552636
+243,243,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_190.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.44508407
+244,244,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_191.jpg,[],"['moderate diabetic retinopathy', 'no referable diabetic macular edema']",3,0.3243752
+245,245,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_192.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.49956977
+246,246,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_193.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.38951567
+247,247,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_194.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",2,0.5762231
+248,248,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_195.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.27394894
+249,249,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_196.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.6308825
+250,250,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_197.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",1,0.94813424
+251,251,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_198.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",3,0.39553738
+252,252,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_199.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.4495745
+253,253,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_200.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.33608967
+254,254,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_201.jpg,[],"['moderate diabetic retinopathy', 'no referable diabetic macular edema']",3,0.4329564
+255,255,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_202.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.43107504
+256,256,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_203.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",3,0.3210428
+257,257,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_204.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.3812024
+258,258,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_205.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.27541047
+259,259,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_206.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.33455327
+260,260,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_207.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.5938237
+261,261,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_208.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.6970677
+262,262,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_209.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.5144447
+263,263,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_210.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.30086938
+264,264,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_211.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.38840532
+265,265,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_212.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.5184396
+266,266,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_213.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.34691405
+267,267,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_214.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.653214
+268,268,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_215.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",3,0.29128867
+269,269,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_216.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",2,0.6530174
+270,270,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_217.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.39909238
+271,271,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_218.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.37622213
+272,272,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_219.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.5285697
+273,273,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_220.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",1,1.0
+274,274,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_221.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.3556966
+275,275,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_222.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.4909492
+276,276,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_223.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.3687789
+277,277,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_224.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",2,0.5660006
+278,278,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_225.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.2480364
+279,279,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_226.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.58783793
+280,280,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_227.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.37272227
+281,281,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_228.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.2659488
+282,282,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_229.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.30067205
+283,283,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_230.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.28298658
+284,284,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_231.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.57884085
+285,285,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_232.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.42797324
+286,286,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_233.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.3089804
+287,287,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_234.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.26295754
+288,288,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_235.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.42740932
+289,289,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_236.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",1,0.7730746
+290,290,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_237.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.3995489
+291,291,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_238.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.4815272
+292,292,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_239.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.38375112
+293,293,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_240.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",2,0.64292306
+294,294,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_241.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",1,0.89506733
+295,295,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_242.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.538745
+296,296,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_243.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.34450936
+297,297,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_244.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.35467133
+298,298,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_245.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.4466248
+299,299,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_246.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",2,0.54944336
+300,300,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_247.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.28939852
+301,301,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_248.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.64308697
+302,302,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_249.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.35307452
+303,303,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_250.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.41553292
+304,304,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_251.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.51978296
+305,305,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_252.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",3,0.3906924
+306,306,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_253.jpg,[],"['severe diabetic retinopathy', 'non clinically significant diabetic macular edema']",3,0.34078127
+307,307,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_254.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.26706743
+308,308,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_255.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.29202056
+309,309,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_256.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",4,0.22847156
+310,310,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_257.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.28425795
+311,311,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_258.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.28347883
+312,312,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_259.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.58440137
+313,313,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_260.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.25867948
+314,314,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_261.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.5206169
+315,315,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_262.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",1,0.899392
+316,316,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_263.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",2,0.6992679
+317,317,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_264.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",2,0.5150003
+318,318,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_265.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",3,0.407985
+319,319,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_266.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",4,0.22489646
+320,320,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_267.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.38441205
+321,321,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_268.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.23935443
+322,322,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_269.jpg,[],"['severe diabetic retinopathy', 'no referable diabetic macular edema']",2,0.5382454
+323,323,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_270.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",4,0.17558092
+324,324,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_271.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.7323371
+325,325,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_272.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.37576818
+326,326,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_273.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.42799494
+327,327,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_274.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.31908703
+328,328,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_275.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.41335645
+329,329,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_276.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.33480415
+330,330,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_277.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.4734731
+331,331,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_278.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.49133822
+332,332,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_279.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",4,0.23542497
+333,333,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_280.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.51295
+334,334,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_281.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.35491952
+335,335,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_282.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",2,0.6916792
+336,336,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_283.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",1,0.8559784
+337,337,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_284.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.25530088
+338,338,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_285.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.32573226
+339,339,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_286.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",2,0.54127246
+340,340,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_287.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.32055745
+341,341,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_288.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.39387718
+342,342,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_289.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.37816042
+343,343,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_290.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",3,0.3768013
+344,344,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_291.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",1,0.8763795
+345,345,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_292.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.23827715
+346,346,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_293.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.23350583
+347,347,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_294.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.19595602
+348,348,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_295.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.46847048
+349,349,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_296.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.4486436
+350,350,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_297.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.4297941
+351,351,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_298.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.31191427
+352,352,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_299.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.44481793
+353,353,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_300.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.21524419
+354,354,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_301.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",2,0.6537601
+355,355,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_302.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",3,0.32938486
+356,356,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_303.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",1,0.91090673
+357,357,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_304.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",2,0.5137736
+358,358,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_305.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.3722582
+359,359,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_306.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.68070555
+360,360,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_307.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.283005
+361,361,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_308.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.35618195
+362,362,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_309.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.5525381
+363,363,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_310.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",1,0.7998277
+364,364,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_311.jpg,[],"['moderate diabetic retinopathy', 'no referable diabetic macular edema']",3,0.40051693
+365,365,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_312.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.41179326
+366,366,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_313.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.4960828
+367,367,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_314.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.5509451
+368,368,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_315.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.30950764
+369,369,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_316.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.28718388
+370,370,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_317.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.49521014
+371,371,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_318.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.4039124
+372,372,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_319.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.19970798
+373,373,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_320.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.39552343
+374,374,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_321.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.5020924
+375,375,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_322.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.48390964
+376,376,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_323.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.35437372
+377,377,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_324.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.43801612
+378,378,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_325.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.23385644
+379,379,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_326.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.18503672
+380,380,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_327.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.5244943
+381,381,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_328.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.422885
+382,382,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_329.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.5348766
+383,383,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_330.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.56953734
+384,384,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_331.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.3098109
+385,385,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_332.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.2594859
+386,386,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_333.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",2,0.6433084
+387,387,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_334.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.4249447
+388,388,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_335.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.22718558
+389,389,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_336.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.20229836
+390,390,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_337.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.3677874
+391,391,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_338.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.23633477
+392,392,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_339.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.48040822
+393,393,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_340.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",2,0.5571621
+394,394,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_341.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.535977
+395,395,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_342.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.32156816
+396,396,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_343.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",4,0.15686902
+397,397,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_344.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.52048326
+398,398,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_345.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.21168986
+399,399,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_346.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.30910006
+400,400,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_347.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.6234324
+401,401,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_348.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.3009382
+402,402,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_349.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.46366543
+403,403,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_350.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",3,0.440539
+404,404,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_351.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.22951111
+405,405,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_352.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.37686005
+406,406,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_353.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.44206077
+407,407,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_354.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.3374109
+408,408,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_355.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.22669445
+409,409,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_356.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",4,0.22097264
+410,410,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_357.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.41032144
+411,411,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_358.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.4360401
+412,412,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_359.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.4357131
+413,413,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_360.jpg,[],"['moderate diabetic retinopathy', 'diabetic macular edema']",2,0.6693274
+414,414,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_361.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",2,0.5300264
+415,415,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_362.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",2,0.53270674
+416,416,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_363.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",3,0.43429318
+417,417,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_364.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",4,0.24556479
+418,418,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_365.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.32709232
+419,419,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_366.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",2,0.5339649
+420,420,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_367.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.3510269
+421,421,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_368.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.35503754
+422,422,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_369.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.33940232
+423,423,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_370.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.33796206
+424,424,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_371.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.46508178
+425,425,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_372.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.33336824
+426,426,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_373.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.3791558
+427,427,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_374.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",3,0.40355057
+428,428,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_375.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",4,0.21403767
+429,429,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_376.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.28145003
+430,430,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_377.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.37719312
+431,431,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_378.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",1,0.7660925
+432,432,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_379.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",3,0.36231118
+433,433,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_380.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.46364197
+434,434,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_381.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.3340591
+435,435,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_382.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.28502616
+436,436,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_383.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.4002484
+437,437,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_384.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",4,0.23674235
+438,438,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_385.jpg,[],"['severe diabetic retinopathy', 'diabetic macular edema']",3,0.37275282
+439,439,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_386.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.23788169
+440,440,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_387.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.38859317
+441,441,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_388.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",3,0.49259377
+442,442,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_389.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",3,0.45578453
+443,443,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_390.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",2,0.62015146
+444,444,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_391.jpg,[],"['moderate diabetic retinopathy', 'no referable diabetic macular edema']",3,0.2843668
+445,445,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_392.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",2,0.57032394
+446,446,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_393.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.20099443
+447,447,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_394.jpg,[],"['proliferative diabetic retinopathy', 'diabetic macular edema']",2,0.50394917
+448,448,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_395.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.4614756
+449,449,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_396.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.40354726
+450,450,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_397.jpg,[],"['moderate diabetic retinopathy', 'no referable diabetic macular edema']",4,0.19182609
+451,451,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_398.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",3,0.36051
+452,452,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_399.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.31913728
+453,453,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_400.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",3,0.27916595
+454,454,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_401.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",3,0.35585225
+455,455,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_402.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",4,0.20100869
+456,456,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_403.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",3,0.37045738
+457,457,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_404.jpg,[],"['moderate diabetic retinopathy', 'no referable diabetic macular edema']",4,0.21914014
+458,458,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_405.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",2,0.54774094
+459,459,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_406.jpg,[],"['no diabetic retinopathy', 'no referable diabetic macular edema']",4,0.22399586
+460,460,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_407.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",1,0.7709938
+461,461,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_408.jpg,[],"['mild diabetic retinopathy', 'no referable diabetic macular edema']",4,0.1990675
+462,462,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_409.jpg,[],"['moderate diabetic retinopathy', 'non clinically significant diabetic macular edema']",2,0.7480672
+463,463,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_410.jpg,[],"['moderate diabetic retinopathy', 'no referable diabetic macular edema']",3,0.39030257
+464,464,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_411.jpg,[],"['moderate diabetic retinopathy', 'no referable diabetic macular edema']",3,0.29715872
+465,465,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_412.jpg,[],"['moderate diabetic retinopathy', 'no referable diabetic macular edema']",3,0.39776382
+466,466,03_IDRiD/B. Disease Grading/1. Original Images/a. Training Set/IDRiD_413.jpg,[],"['moderate diabetic retinopathy', 'no referable diabetic macular edema']",3,0.4362803

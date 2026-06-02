@@ -17,11 +17,11 @@ device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 Bio_ClinicalBERT_PATH = './Bio_ClinicalBERT'
 
 
-class KeepFITModel(torch.nn.Module):
+class MedKCOModel(torch.nn.Module):
     def __init__(self, vision_type='resnet_v1', bert_type=Bio_ClinicalBERT_PATH, vision_pretrained=True,
                  proj_dim=512, proj_bias=False, logit_scale_init_value=0.07, from_checkpoint=True, weights_path=None,
                  out_path=None, image_size=512, caption="An Optical coherence tomography(OCT) photograph of [CLS]", projection=True,
-                 norm_features=True, test_code=False):
+                 norm_features=True, test_code=False, modality="CFP"):
         ### caption for test
         # CFP: A fundus photograph of [CLS]
         # OCT: An Optical coherence tomography(OCT) photograph of [CLS]
@@ -31,6 +31,7 @@ class KeepFITModel(torch.nn.Module):
             global device
             device = "cuda:0"
 
+        self.modality = modality
         self.image_size = image_size
         self.caption = caption
         self.from_checkpoint = from_checkpoint
@@ -103,7 +104,7 @@ class KeepFITModel(torch.nn.Module):
 
         epoch = 1
         while epoch <= epochs:
-            loss_epoch = self.train_epoch(datalaoders["train"], optimizer, scheduler, transforms, epoch, test_code=test_code)
+            loss_epoch = self.train_epoch(datalaoders["train"], optimizer, scheduler, transforms, epoch, test_code=test_code, epochs=epochs)
 
             if local_rank==0:
                 print('Epoch=%d: ave_loss=%2.5f' % (epoch, loss_epoch))
@@ -119,27 +120,28 @@ class KeepFITModel(torch.nn.Module):
                     datalaoders = get_loader(dataframes_path=args.dataframes_path, data_root_path=args.data_root_path,
                                              datasets=args.datasets, balance=args.balance, batch_size=args.batch_size,
                                              num_workers=args.num_workers, banned_categories=args.banned_categories,
-                                             caption=args.caption, augment_description=args.augment_description,
-                                             test_code=args.test_code, SPCL=args.SPCL, epoch=epoch)
+                                             caption=self.caption, augment_description=args.augment_description,
+                                             test_code=args.test_code, SPCL=args.SPCL, epoch=epoch, modality=self.modality)
 
                 if epoch == 11:
                     datalaoders = get_loader(dataframes_path=args.dataframes_path, data_root_path=args.data_root_path,
                                              datasets=args.datasets, balance=args.balance, batch_size=args.batch_size,
                                              num_workers=args.num_workers, banned_categories=args.banned_categories,
-                                             caption=args.caption, augment_description=args.augment_description,
-                                             test_code=args.test_code, SPCL=args.SPCL, epoch=epoch)
+                                             caption=self.caption, augment_description=args.augment_description,
+                                             test_code=args.test_code, SPCL=args.SPCL, epoch=epoch, modality=self.modality)
 
                 if epoch == 16:
                     datalaoders = get_loader_MM(args.data_root_path, args.balance, args.batch_size, args.num_workers,
-                                                args.caption, args.augment_description, args.test_code)
+                                                self.caption, args.augment_description, args.test_code, modality=self.modality)
 
 
                 if epoch == 21:
                     datalaoders = get_loader_MM(args.data_root_path, args.balance, args.batch_size, args.num_workers,
-                                                args.caption, args.augment_description, args.test_code, epoch=epoch)
+                                                self.caption, args.augment_description, args.test_code, epoch=epoch,
+                                                modality=self.modality)
 
 
-    def train_epoch(self, loader, optimizer, scheduler=None, transforms=None, epoch=1, test_code=False):
+    def train_epoch(self, loader, optimizer, scheduler=None, transforms=None, epoch=1, test_code=False, epochs=25):
         self.train()
         max_grad_norm, scaler = 1, torch.cuda.amp.GradScaler()
         loss_ave = 0.0
@@ -166,7 +168,7 @@ class KeepFITModel(torch.nn.Module):
                 text_embeds = self.text_model(input_ids, attention_mask)
 
                 logits_per_text= self.compute_logits(img_embeds, text_embeds)
-                beta = 0 + 0.04 * epoch
+                beta = 0 + (1/epochs) * epoch
                 loss = self.self_paced_asymmetry_clip_loss(logits_per_text, target, beta=beta).to(device)
 
                 if not test_code:
@@ -244,12 +246,19 @@ class KeepFITModel(torch.nn.Module):
         return input_ids, attention_mask
 
 
-    def compute_text_embeddings(self, categories, domain_knowledge=False):
+    def compute_text_embeddings(self, categories, domain_knowledge=False, modality="CFP"):
         text_embeds_dict = {}
         for iKey in range(len(categories)):
-            if domain_knowledge and categories[iKey] in list(definitions_OCT.keys()):
-                descriptions = definitions_OCT[categories[iKey]]                          # CFP OCT
-                # descriptions = definitions_CXR[categories[iKey]]['pos']                 # CXR
+            if modality=="CFP" and domain_knowledge and categories[iKey] in list(definitions.keys()):
+                descriptions = definitions[categories[iKey]]
+                if categories[iKey] not in descriptions:
+                    descriptions.append(categories[iKey])
+            elif modality=="OCT" and domain_knowledge and categories[iKey] in list(definitions_OCT.keys()):
+                descriptions = definitions_OCT[categories[iKey]]
+                if categories[iKey] not in descriptions:
+                    descriptions.append(categories[iKey])
+            elif modality=="CXR" and domain_knowledge and categories[iKey] in list(definitions_CXR.keys()):
+                descriptions = definitions_CXR[categories[iKey]]['pos']
                 if categories[iKey] not in descriptions:
                     descriptions.append(categories[iKey])
             else:

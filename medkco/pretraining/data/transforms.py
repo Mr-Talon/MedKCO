@@ -11,13 +11,13 @@ from kornia.augmentation import RandomHorizontalFlip, RandomAffine, ColorJitter
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 # CFP/OCT
-augmentations_pretraining = torch.nn.Sequential(RandomHorizontalFlip(p=0.5),
+augmentations_pretraining_CFPOCT = torch.nn.Sequential(RandomHorizontalFlip(p=0.5),
                                                 RandomAffine(p=0.25, degrees=(-5, 5), scale=(0.9, 1)),
                                                 ColorJitter(p=0.25, brightness=0.2, contrast=0.2))
 # CXR
-# augmentations_pretraining = torch.nn.Sequential(RandomHorizontalFlip(p=0.5),
-#                                                 RandomAffine(p=1, degrees=(-10, 10), scale=(0.8, 1.1), translate=(0.0625, 0.0625)),
-#                                                 ColorJitter(p=1, brightness=(0.8, 1.2), contrast=(0.8, 1.2)))
+augmentations_pretraining_CXR = torch.nn.Sequential(RandomHorizontalFlip(p=0.5),
+                                                RandomAffine(p=1, degrees=(-10, 10), scale=(0.8, 1.1), translate=(0.0625, 0.0625)),
+                                                ColorJitter(p=1, brightness=(0.8, 1.2), contrast=(0.8, 1.2)))
 
 
 # Used for prediction
@@ -108,14 +108,20 @@ class ProduceDescription():
 
 
 class AugmentDescription():
-    def __init__(self, augment=False):
+    def __init__(self, augment=False, modality="CFP"):
         self.augment = augment
+        self.modality = modality
     def __call__(self, data):
         if self.augment:
             if data["image_name"].split("/")[0] not in ["06_EYENET", "11_STARE", "08_ODIR-5K", "31_JICHI", "39_MM_Retinal_dataset",
                                                         "OCT17_MM_Retinal_OCT", "CheXpert-v1.0", "mimic-cxr", "openi"]:
-                if data["sel_category"] in list(definitions_OCT.keys()):
+                if self.modality=="OCT" and data["sel_category"] in list(definitions_OCT.keys()):
                     prompts = [data["sel_category"]] + definitions_OCT[data["sel_category"]]
+                    new_cat = random.sample(prompts, 1)[0]
+                    data["report"][0] = data["report"][0].replace(data["sel_category"], new_cat)
+                    data["augmented_category"] = new_cat
+                if self.modality=="CFP" and data["sel_category"] in list(definitions.keys()):
+                    prompts = [data["sel_category"]] + definitions[data["sel_category"]]
                     new_cat = random.sample(prompts, 1)[0]
                     data["report"][0] = data["report"][0].replace(data["sel_category"], new_cat)
                     data["augmented_category"] = new_cat

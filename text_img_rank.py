@@ -7,83 +7,79 @@ import torch
 import random
 import pickle
 
-from medkco.modeling.model import KeepFITModel
+from medkco.modeling.model import MedKCOModel
 from medkco.modeling.misc import set_seeds
 from medkco.modeling.dictionary import definitions, definitions_OCT, definitions_CXR
 
-'''CFP'''
-# modality = 'CFP'
-# dataset_list = ["01_EYEPACS", "03_IDRID", "04_RFMid", "06_DEN", "07_LAG", "08_ODIR", "09_PAPILA", "10_PARAGUAY",
-#                 "11_STARE", "12_ARIA","14_AGAR300", "15_APTOS", "16_FUND-OCT", "17_DiaRetDB1", "18_DRIONS-DB",
-#                 "19_Drishti-GS1", "20_E-ophta", "21_G1020", "23_HRF", "24_ORIGA", "26_ROC", "27_BRSET", "28_OIA-DDR",
-#                 "29_AIROGS", "30_SUSTech-SYSU", "31_JICHI", "32_CHAKSU", "33_DR1-2", "34_Cataract", "35_ScarDat",
-#                 "39_MM_Retinal_dataset"]
-#
-# label_list = ["hard exudates", "soft exudates", "microaneurysms", "haemorrhages", "media haze", "drusens", "tessellation",
-#               "laser scar", "optic disc cupping", "tortuous vessels", "asteroid hyalosis", "optic disc pallor", "exudates",
-#               "cotton wool spots", "colobomas", "preretinal haemorrhage", "myelinated nerve fibers", "tilted disc",
-#               "vitreous haemorrhage", "large optic cup", "optic atrophy", "fibrosis", "silicon oil", "scar", "nevus",
-#               "red small dots", "no diabetic retinopathy", "mild diabetic retinopathy", "moderate diabetic retinopathy",
-#               "severe diabetic retinopathy", "proliferative diabetic retinopathy", "age-related macular degeneration",
-#               "pathologic myopia", "branch retinal vein occlusion", "epiretinal membrane", "macular scar",
-#               "central retinal vein occlusion", "optic disc edema", "shunt", "retinal traction", "retinitis",
-#               "retinal pigment epithelium changes", "retinitis pigmentosa", "haemorrhagic retinopathy",
-#               "central retinal artery occlusion", "post traumatic choroidal rupture", "choroidal folds", "vasculitis",
-#               "branch retinal artery occlusion", "plaque", "collaterals", "maculopathy", "severe hypertensive retinopathy",
-#               "disc swelling and elevation", "dragged disk", "congenital disk abnormality",
-#               "peripheral retinal degeneration and break", "yellow-white spots flecks",
-#               "no proliferative diabetic retinopathy", "hypertensive retinopathy", "geographical age-related macular degeneration",
-#               "abnormal optic disc", "abnormal vessels", "abnormal macula", "macular edema", "increased cup disc",
-#               "a disease" "intraretinal microvascular abnormalities", "retina detachment", "normal", "diabetic macular edema",
-#               "no referable diabetic macular edema", "non clinically significant diabetic macular edema", "central serous retinopathy",
-#               "anterior ischemic optic neuropathy", "parafoveal telangiectasia", "chorioretinitis", "macular hole",
-#               "optic disc pit maculopathy", "haemorrhagic pigment epithelial detachment", "Vogt-Koyanagi syndrome",
-#               "glaucoma", "Bietti crystalline dystrophy", "neoplasm", "no glaucoma", "neovascular age-related macular degeneration",
-#               "cataract", "no cataract", "macroaneurysm", "cystoid macular edema", "acute central serous retinopathy",
-#               "chronic central serous retinopathy", "neovascularisation"]
-#
-# data_root_path = "../Datasets/FUNDUS/"
-# dataframes_path = "./local_data/dataframes/pretrainingCFP/"
-# model_path = ""     # model for extracting features
-# output_path = "./local_data/dataframes/xxx/"
-# feature_path = './local_data/dataframes/xxx.pkl'
-
-
-'''OCT'''
-modality = 'OCT'
-dataset_list = ["OCT01_RetinalOCT_C8", "OCT03_Large_Dataset_of_Labeled_OCT", "OCT04_GAMMA1", "OCT06_STAGE1", "OCT07_STAGE2",
-                "OCT08_glaucoma_detection", "OCT09_GOALS", "OCT11_OIMHS", "OCT12_OCTA_500", "OCT14_DUKE_DME",
-                "OCT16_BIOMISA_Retinal_Image_Database_for_Macular_Disorders", "OCT17_MM_Retinal_OCT"]
-
-label_list = ["age related macular degeneration", "drusens", "choroidal neovascularization", "central serous retinopathy",
-              "diabetic retinopathy", "diabetic macular edema", "retinal artery occlusion", "retinal vein occlusion",
-              "vitreomacular Interface Disease", "macular hole", "epiretinal membrane", "glaucoma", "normal"]
-
-data_root_path = "../Datasets/FUNDUS/"
-dataframes_path = "./local_data/dataframes/pretrainingOCT/"
-model_path = ""
-output_path = "./local_data/dataframes/xxx/"
-feature_path = './local_data/dataframes/xxx.pkl'
-
-
-'''CXR'''
-# modality = 'CXR'
-# dataset_list = ['CheXpert-v1.0', 'mimic-cxr']
-#
-# label_list = ["No Finding", "Enlarged Cardiomediastinum", "Cardiomegaly", "Lung Lesion", "Lung Opacity", "Edema",
-#               "Consolidation", "Pneumonia", "Atelectasis", "Pneumothorax", "Pleural Effusion", "Pleural Other", "Fracture",
-#               "Support Devices", "Emphysema", "Fibrosis", "Hernia", "Infiltration", "Mass", "Nodule", "Pleural_Thickening",
-#               "healthy"]
-#
-# data_root_path = "../Datasets/CXR/"
-# dataframes_path = "./local_data/dataframes/pretrainingCXR/"
-# model_path = ""
-# output_path = "./local_data/dataframes/xxx/"
-# feature_path = './local_data/dataframes/xxx.pkl'
-
-
+modality = 'CFP'    # TODO CFP OCT CXR
 device = 'cuda:0' if torch.cuda.is_available() else 'cpu'
 MM_OUT = True       # Calculate multimodal data separately
+
+if modality=="CFP":
+    dataset_list = ["01_EYEPACS", "03_IDRID", "04_RFMid", "06_DEN", "07_LAG", "08_ODIR", "09_PAPILA", "10_PARAGUAY",
+                    "11_STARE", "12_ARIA","14_AGAR300", "15_APTOS", "16_FUND-OCT", "17_DiaRetDB1", "18_DRIONS-DB",
+                    "19_Drishti-GS1", "20_E-ophta", "21_G1020", "23_HRF", "24_ORIGA", "26_ROC", "27_BRSET", "28_OIA-DDR",
+                    "29_AIROGS", "30_SUSTech-SYSU", "31_JICHI", "32_CHAKSU", "33_DR1-2", "34_Cataract", "35_ScarDat",
+                    "39_MM_Retinal_dataset"]
+
+    label_list = ["hard exudates", "soft exudates", "microaneurysms", "haemorrhages", "media haze", "drusens", "tessellation",
+                  "laser scar", "optic disc cupping", "tortuous vessels", "asteroid hyalosis", "optic disc pallor", "exudates",
+                  "cotton wool spots", "colobomas", "preretinal haemorrhage", "myelinated nerve fibers", "tilted disc",
+                  "vitreous haemorrhage", "large optic cup", "optic atrophy", "fibrosis", "silicon oil", "scar", "nevus",
+                  "red small dots", "no diabetic retinopathy", "mild diabetic retinopathy", "moderate diabetic retinopathy",
+                  "severe diabetic retinopathy", "proliferative diabetic retinopathy", "age-related macular degeneration",
+                  "pathologic myopia", "branch retinal vein occlusion", "epiretinal membrane", "macular scar",
+                  "central retinal vein occlusion", "optic disc edema", "shunt", "retinal traction", "retinitis",
+                  "retinal pigment epithelium changes", "retinitis pigmentosa", "haemorrhagic retinopathy",
+                  "central retinal artery occlusion", "post traumatic choroidal rupture", "choroidal folds", "vasculitis",
+                  "branch retinal artery occlusion", "plaque", "collaterals", "maculopathy", "severe hypertensive retinopathy",
+                  "disc swelling and elevation", "dragged disk", "congenital disk abnormality",
+                  "peripheral retinal degeneration and break", "yellow-white spots flecks",
+                  "no proliferative diabetic retinopathy", "hypertensive retinopathy", "geographical age-related macular degeneration",
+                  "abnormal optic disc", "abnormal vessels", "abnormal macula", "macular edema", "increased cup disc",
+                  "a disease" "intraretinal microvascular abnormalities", "retina detachment", "normal", "diabetic macular edema",
+                  "no referable diabetic macular edema", "non clinically significant diabetic macular edema", "central serous retinopathy",
+                  "anterior ischemic optic neuropathy", "parafoveal telangiectasia", "chorioretinitis", "macular hole",
+                  "optic disc pit maculopathy", "haemorrhagic pigment epithelial detachment", "Vogt-Koyanagi syndrome",
+                  "glaucoma", "Bietti crystalline dystrophy", "neoplasm", "no glaucoma", "neovascular age-related macular degeneration",
+                  "cataract", "no cataract", "macroaneurysm", "cystoid macular edema", "acute central serous retinopathy",
+                  "chronic central serous retinopathy", "neovascularisation"]
+
+    data_root_path = "../Datasets/FUNDUS/"
+    dataframes_path = "./local_data/dataframes/pretrainingCFP/"
+    model_path = ""     # model for extracting features
+    output_path = "./local_data/dataframes/xxx/"
+    feature_path = './local_data/dataframes/CFP.pkl'
+
+elif modality=="OCT":
+    dataset_list = ["OCT01_RetinalOCT_C8", "OCT03_Large_Dataset_of_Labeled_OCT", "OCT04_GAMMA1", "OCT06_STAGE1", "OCT07_STAGE2",
+                    "OCT08_glaucoma_detection", "OCT09_GOALS", "OCT11_OIMHS", "OCT12_OCTA_500", "OCT14_DUKE_DME",
+                    "OCT16_BIOMISA_Retinal_Image_Database_for_Macular_Disorders", "OCT17_MM_Retinal_OCT"]
+
+    label_list = ["age related macular degeneration", "drusens", "choroidal neovascularization", "central serous retinopathy",
+                  "diabetic retinopathy", "diabetic macular edema", "retinal artery occlusion", "retinal vein occlusion",
+                  "vitreomacular Interface Disease", "macular hole", "epiretinal membrane", "glaucoma", "normal"]
+
+    data_root_path = "../Datasets/FUNDUS/"
+    dataframes_path = "./local_data/dataframes/pretrainingOCT/"
+    model_path = ""
+    output_path = "./local_data/dataframes/xxx/"
+    feature_path = './local_data/dataframes/OCT.pkl'
+
+elif modality=="CXR":
+    dataset_list = ['CheXpert-v1.0', 'mimic-cxr']
+
+    label_list = ["No Finding", "Enlarged Cardiomediastinum", "Cardiomegaly", "Lung Lesion", "Lung Opacity", "Edema",
+                  "Consolidation", "Pneumonia", "Atelectasis", "Pneumothorax", "Pleural Effusion", "Pleural Other", "Fracture",
+                  "Support Devices", "Emphysema", "Fibrosis", "Hernia", "Infiltration", "Mass", "Nodule", "Pleural_Thickening",
+                  "healthy"]
+
+    data_root_path = "../Datasets/CXR/"
+    dataframes_path = "./local_data/dataframes/pretrainingCXR/"
+    model_path = ""
+    output_path = "./local_data/dataframes/xxx/"
+    feature_path = './local_data/dataframes/CXR.pkl'
+
 
 def main():
     seed = 42
@@ -96,7 +92,7 @@ def main():
         caption = 'An Optical coherence tomography(OCT) photograph of [CLS]'
     elif modality == 'CXR':
         caption = 'A chest x-ray photograph of [CLS]'
-    model = KeepFITModel(from_checkpoint=True, weights_path=model_path, caption=caption)
+    model = MedKCOModel(from_checkpoint=True, weights_path=model_path, caption=caption, bert_type='./Bio_ClinicalBERT')
 
     # Extract text features from all categories
     text_input_ids, text_attention_mask = model.preprocess_text(label_list)

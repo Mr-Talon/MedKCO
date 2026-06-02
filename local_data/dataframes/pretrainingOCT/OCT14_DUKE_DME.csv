@@ -1,0 +1,496 @@
+,Unnamed: 0,image,atributes,categories,stage,img_norm_r
+0,0,OCT14_DUKE_DME/AMD7/TIFFs/8bitTIFFs/029.tif,[],['age related macular degeneration'],1,0.25330317
+1,1,OCT14_DUKE_DME/AMD7/TIFFs/8bitTIFFs/025.tif,[],['age related macular degeneration'],1,0.2482647
+2,2,OCT14_DUKE_DME/AMD7/TIFFs/8bitTIFFs/030.tif,[],['age related macular degeneration'],1,0.259671
+3,3,OCT14_DUKE_DME/AMD7/TIFFs/8bitTIFFs/020.tif,[],['age related macular degeneration'],1,0.34400973
+4,4,OCT14_DUKE_DME/AMD7/TIFFs/8bitTIFFs/021.tif,[],['age related macular degeneration'],1,0.19204816
+5,5,OCT14_DUKE_DME/AMD7/TIFFs/8bitTIFFs/026.tif,[],['age related macular degeneration'],1,0.33271995
+6,6,OCT14_DUKE_DME/AMD7/TIFFs/8bitTIFFs/028.tif,[],['age related macular degeneration'],1,0.42427376
+7,7,OCT14_DUKE_DME/AMD7/TIFFs/8bitTIFFs/024.tif,[],['age related macular degeneration'],1,0.2420084
+8,8,OCT14_DUKE_DME/AMD7/TIFFs/8bitTIFFs/027.tif,[],['age related macular degeneration'],1,0.3146432
+9,9,OCT14_DUKE_DME/AMD7/TIFFs/8bitTIFFs/022.tif,[],['age related macular degeneration'],1,0.23692556
+10,10,OCT14_DUKE_DME/AMD7/TIFFs/8bitTIFFs/023.tif,[],['age related macular degeneration'],1,0.33869472
+11,11,OCT14_DUKE_DME/AMD8/TIFFs/8bitTIFFs/029.tif,[],['age related macular degeneration'],1,0.6226443
+12,12,OCT14_DUKE_DME/AMD8/TIFFs/8bitTIFFs/025.tif,[],['age related macular degeneration'],1,0.95471865
+13,13,OCT14_DUKE_DME/AMD8/TIFFs/8bitTIFFs/030.tif,[],['age related macular degeneration'],1,0.87567616
+14,14,OCT14_DUKE_DME/AMD8/TIFFs/8bitTIFFs/020.tif,[],['age related macular degeneration'],1,0.58973414
+15,15,OCT14_DUKE_DME/AMD8/TIFFs/8bitTIFFs/021.tif,[],['age related macular degeneration'],1,0.5849836
+16,16,OCT14_DUKE_DME/AMD8/TIFFs/8bitTIFFs/026.tif,[],['age related macular degeneration'],1,0.62977916
+17,17,OCT14_DUKE_DME/AMD8/TIFFs/8bitTIFFs/028.tif,[],['age related macular degeneration'],1,0.58126193
+18,18,OCT14_DUKE_DME/AMD8/TIFFs/8bitTIFFs/024.tif,[],['age related macular degeneration'],1,0.51542264
+19,19,OCT14_DUKE_DME/AMD8/TIFFs/8bitTIFFs/027.tif,[],['age related macular degeneration'],1,0.5588319
+20,20,OCT14_DUKE_DME/AMD8/TIFFs/8bitTIFFs/022.tif,[],['age related macular degeneration'],1,0.2109129
+21,21,OCT14_DUKE_DME/AMD8/TIFFs/8bitTIFFs/023.tif,[],['age related macular degeneration'],1,0.45099124
+22,22,OCT14_DUKE_DME/DME2/TIFFs/8bitTIFFs/029.tif,[],['diabetic macular edema'],1,0.22580256
+23,23,OCT14_DUKE_DME/DME2/TIFFs/8bitTIFFs/025.tif,[],['diabetic macular edema'],1,0.34779805
+24,24,OCT14_DUKE_DME/DME2/TIFFs/8bitTIFFs/030.tif,[],['diabetic macular edema'],1,0.18799342
+25,25,OCT14_DUKE_DME/DME2/TIFFs/8bitTIFFs/020.tif,[],['diabetic macular edema'],1,0.3389471
+26,26,OCT14_DUKE_DME/DME2/TIFFs/8bitTIFFs/021.tif,[],['diabetic macular edema'],1,0.4129566
+27,27,OCT14_DUKE_DME/DME2/TIFFs/8bitTIFFs/026.tif,[],['diabetic macular edema'],1,0.39248866
+28,28,OCT14_DUKE_DME/DME2/TIFFs/8bitTIFFs/028.tif,[],['diabetic macular edema'],1,0.1036293
+29,29,OCT14_DUKE_DME/DME2/TIFFs/8bitTIFFs/024.tif,[],['diabetic macular edema'],1,0.43659824
+30,30,OCT14_DUKE_DME/DME2/TIFFs/8bitTIFFs/027.tif,[],['diabetic macular edema'],1,0.3944283
+31,31,OCT14_DUKE_DME/DME2/TIFFs/8bitTIFFs/022.tif,[],['diabetic macular edema'],1,0.4093454
+32,32,OCT14_DUKE_DME/DME2/TIFFs/8bitTIFFs/023.tif,[],['diabetic macular edema'],1,0.38170257
+33,33,OCT14_DUKE_DME/NORMAL6/TIFFs/8bitTIFFs/029.tif,[],['normal'],1,0.07356322925190993
+34,34,OCT14_DUKE_DME/NORMAL6/TIFFs/8bitTIFFs/025.tif,[],['normal'],1,0.1102705796392281
+35,35,OCT14_DUKE_DME/NORMAL6/TIFFs/8bitTIFFs/030.tif,[],['normal'],1,0.16905183540916205
+36,36,OCT14_DUKE_DME/NORMAL6/TIFFs/8bitTIFFs/020.tif,[],['normal'],1,0.2151259656199122
+37,37,OCT14_DUKE_DME/NORMAL6/TIFFs/8bitTIFFs/021.tif,[],['normal'],1,0.07990925733604276
+38,38,OCT14_DUKE_DME/NORMAL6/TIFFs/8bitTIFFs/026.tif,[],['normal'],1,0.24246995083599251
+39,39,OCT14_DUKE_DME/NORMAL6/TIFFs/8bitTIFFs/028.tif,[],['normal'],1,0.17108438306866908
+40,40,OCT14_DUKE_DME/NORMAL6/TIFFs/8bitTIFFs/024.tif,[],['normal'],1,0.08282784057323844
+41,41,OCT14_DUKE_DME/NORMAL6/TIFFs/8bitTIFFs/027.tif,[],['normal'],1,0.18324456804145994
+42,42,OCT14_DUKE_DME/NORMAL6/TIFFs/8bitTIFFs/022.tif,[],['normal'],1,0.052054981186280054
+43,43,OCT14_DUKE_DME/NORMAL6/TIFFs/8bitTIFFs/023.tif,[],['normal'],1,0.1094036880795522
+44,44,OCT14_DUKE_DME/AMD3/TIFFs/8bitTIFFs/029.tif,[],['age related macular degeneration'],1,0.32356328
+45,45,OCT14_DUKE_DME/AMD3/TIFFs/8bitTIFFs/025.tif,[],['age related macular degeneration'],1,0.4441977
+46,46,OCT14_DUKE_DME/AMD3/TIFFs/8bitTIFFs/030.tif,[],['age related macular degeneration'],1,0.327912
+47,47,OCT14_DUKE_DME/AMD3/TIFFs/8bitTIFFs/020.tif,[],['age related macular degeneration'],1,0.22068518
+48,48,OCT14_DUKE_DME/AMD3/TIFFs/8bitTIFFs/021.tif,[],['age related macular degeneration'],1,0.38168195
+49,49,OCT14_DUKE_DME/AMD3/TIFFs/8bitTIFFs/026.tif,[],['age related macular degeneration'],1,0.22148404
+50,50,OCT14_DUKE_DME/AMD3/TIFFs/8bitTIFFs/028.tif,[],['age related macular degeneration'],1,0.24416646
+51,51,OCT14_DUKE_DME/AMD3/TIFFs/8bitTIFFs/024.tif,[],['age related macular degeneration'],1,0.30582926
+52,52,OCT14_DUKE_DME/AMD3/TIFFs/8bitTIFFs/027.tif,[],['age related macular degeneration'],1,0.28137684
+53,53,OCT14_DUKE_DME/AMD3/TIFFs/8bitTIFFs/022.tif,[],['age related macular degeneration'],1,0.25689462
+54,54,OCT14_DUKE_DME/AMD3/TIFFs/8bitTIFFs/023.tif,[],['age related macular degeneration'],1,0.28810373
+55,55,OCT14_DUKE_DME/NORMAL7/TIFFs/8bitTIFFs/029.tif,[],['normal'],1,0.08713861020282865
+56,56,OCT14_DUKE_DME/NORMAL7/TIFFs/8bitTIFFs/025.tif,[],['normal'],1,0.05471146574266151
+57,57,OCT14_DUKE_DME/NORMAL7/TIFFs/8bitTIFFs/030.tif,[],['normal'],1,0.06409739004829725
+58,58,OCT14_DUKE_DME/NORMAL7/TIFFs/8bitTIFFs/020.tif,[],['normal'],1,0.11835553406392404
+59,59,OCT14_DUKE_DME/NORMAL7/TIFFs/8bitTIFFs/021.tif,[],['normal'],1,0.08342666874825219
+60,60,OCT14_DUKE_DME/NORMAL7/TIFFs/8bitTIFFs/026.tif,[],['normal'],1,0.07424525552094587
+61,61,OCT14_DUKE_DME/NORMAL7/TIFFs/8bitTIFFs/028.tif,[],['normal'],1,0.05884698160093555
+62,62,OCT14_DUKE_DME/NORMAL7/TIFFs/8bitTIFFs/024.tif,[],['normal'],1,0.08057082347160247
+63,63,OCT14_DUKE_DME/NORMAL7/TIFFs/8bitTIFFs/027.tif,[],['normal'],1,0.063238234197465
+64,64,OCT14_DUKE_DME/NORMAL7/TIFFs/8bitTIFFs/022.tif,[],['normal'],1,0.06347347334404531
+65,65,OCT14_DUKE_DME/NORMAL7/TIFFs/8bitTIFFs/023.tif,[],['normal'],1,0.08439430357709735
+66,66,OCT14_DUKE_DME/NORMAL1/TIFFs/8bitTIFFs/029.tif,[],['normal'],1,0.13845913707179397
+67,67,OCT14_DUKE_DME/NORMAL1/TIFFs/8bitTIFFs/025.tif,[],['normal'],1,0.06640305739574806
+68,68,OCT14_DUKE_DME/NORMAL1/TIFFs/8bitTIFFs/030.tif,[],['normal'],1,0.0811428760485005
+69,69,OCT14_DUKE_DME/NORMAL1/TIFFs/8bitTIFFs/020.tif,[],['normal'],1,0.08600687442592866
+70,70,OCT14_DUKE_DME/NORMAL1/TIFFs/8bitTIFFs/021.tif,[],['normal'],1,0.06884355796605425
+71,71,OCT14_DUKE_DME/NORMAL1/TIFFs/8bitTIFFs/026.tif,[],['normal'],1,0.07514138523753959
+72,72,OCT14_DUKE_DME/NORMAL1/TIFFs/8bitTIFFs/028.tif,[],['normal'],1,0.11485360361218529
+73,73,OCT14_DUKE_DME/NORMAL1/TIFFs/8bitTIFFs/024.tif,[],['normal'],1,0.08904700466893127
+74,74,OCT14_DUKE_DME/NORMAL1/TIFFs/8bitTIFFs/027.tif,[],['normal'],1,0.07223803879373314
+75,75,OCT14_DUKE_DME/NORMAL1/TIFFs/8bitTIFFs/022.tif,[],['normal'],1,0.07732994952540345
+76,76,OCT14_DUKE_DME/NORMAL1/TIFFs/8bitTIFFs/023.tif,[],['normal'],1,0.1995634737595073
+77,77,OCT14_DUKE_DME/AMD2/TIFFs/8bitTIFFs/029.tif,[],['age related macular degeneration'],1,0.28157634
+78,78,OCT14_DUKE_DME/AMD2/TIFFs/8bitTIFFs/025.tif,[],['age related macular degeneration'],1,0.41739345
+79,79,OCT14_DUKE_DME/AMD2/TIFFs/8bitTIFFs/030.tif,[],['age related macular degeneration'],1,0.39929476
+80,80,OCT14_DUKE_DME/AMD2/TIFFs/8bitTIFFs/020.tif,[],['age related macular degeneration'],1,0.6100625
+81,81,OCT14_DUKE_DME/AMD2/TIFFs/8bitTIFFs/021.tif,[],['age related macular degeneration'],1,1.0
+82,82,OCT14_DUKE_DME/AMD2/TIFFs/8bitTIFFs/026.tif,[],['age related macular degeneration'],1,0.4342195
+83,83,OCT14_DUKE_DME/AMD2/TIFFs/8bitTIFFs/028.tif,[],['age related macular degeneration'],1,0.2927372
+84,84,OCT14_DUKE_DME/AMD2/TIFFs/8bitTIFFs/024.tif,[],['age related macular degeneration'],1,0.6153028
+85,85,OCT14_DUKE_DME/AMD2/TIFFs/8bitTIFFs/027.tif,[],['age related macular degeneration'],1,0.5240292
+86,86,OCT14_DUKE_DME/AMD2/TIFFs/8bitTIFFs/022.tif,[],['age related macular degeneration'],1,0.67473793
+87,87,OCT14_DUKE_DME/AMD2/TIFFs/8bitTIFFs/023.tif,[],['age related macular degeneration'],1,0.71664846
+88,88,OCT14_DUKE_DME/AMD6/TIFFs/8bitTIFFs/029.tif,[],['age related macular degeneration'],1,0.4979895
+89,89,OCT14_DUKE_DME/AMD6/TIFFs/8bitTIFFs/025.tif,[],['age related macular degeneration'],1,0.42781612
+90,90,OCT14_DUKE_DME/AMD6/TIFFs/8bitTIFFs/030.tif,[],['age related macular degeneration'],1,0.45120457
+91,91,OCT14_DUKE_DME/AMD6/TIFFs/8bitTIFFs/020.tif,[],['age related macular degeneration'],1,0.6138745
+92,92,OCT14_DUKE_DME/AMD6/TIFFs/8bitTIFFs/021.tif,[],['age related macular degeneration'],1,0.5050967
+93,93,OCT14_DUKE_DME/AMD6/TIFFs/8bitTIFFs/026.tif,[],['age related macular degeneration'],1,0.43769893
+94,94,OCT14_DUKE_DME/AMD6/TIFFs/8bitTIFFs/028.tif,[],['age related macular degeneration'],1,0.42293662
+95,95,OCT14_DUKE_DME/AMD6/TIFFs/8bitTIFFs/024.tif,[],['age related macular degeneration'],1,0.41235384
+96,96,OCT14_DUKE_DME/AMD6/TIFFs/8bitTIFFs/027.tif,[],['age related macular degeneration'],1,0.3487812
+97,97,OCT14_DUKE_DME/AMD6/TIFFs/8bitTIFFs/022.tif,[],['age related macular degeneration'],1,0.6795325
+98,98,OCT14_DUKE_DME/AMD6/TIFFs/8bitTIFFs/023.tif,[],['age related macular degeneration'],1,0.67686033
+99,99,OCT14_DUKE_DME/DME8/TIFFs/8bitTIFFs/029.tif,[],['diabetic macular edema'],1,0.14043456
+100,100,OCT14_DUKE_DME/DME8/TIFFs/8bitTIFFs/025.tif,[],['diabetic macular edema'],1,0.117928766
+101,101,OCT14_DUKE_DME/DME8/TIFFs/8bitTIFFs/030.tif,[],['diabetic macular edema'],1,0.10265399
+102,102,OCT14_DUKE_DME/DME8/TIFFs/8bitTIFFs/020.tif,[],['diabetic macular edema'],1,0.140426
+103,103,OCT14_DUKE_DME/DME8/TIFFs/8bitTIFFs/021.tif,[],['diabetic macular edema'],1,0.13574333
+104,104,OCT14_DUKE_DME/DME8/TIFFs/8bitTIFFs/026.tif,[],['diabetic macular edema'],1,0.13828643
+105,105,OCT14_DUKE_DME/DME8/TIFFs/8bitTIFFs/028.tif,[],['diabetic macular edema'],1,0.11906286
+106,106,OCT14_DUKE_DME/DME8/TIFFs/8bitTIFFs/024.tif,[],['diabetic macular edema'],1,0.09679927
+107,107,OCT14_DUKE_DME/DME8/TIFFs/8bitTIFFs/027.tif,[],['diabetic macular edema'],1,0.13747616
+108,108,OCT14_DUKE_DME/DME8/TIFFs/8bitTIFFs/022.tif,[],['diabetic macular edema'],1,0.18090107
+109,109,OCT14_DUKE_DME/DME8/TIFFs/8bitTIFFs/023.tif,[],['diabetic macular edema'],1,0.35276243
+110,110,OCT14_DUKE_DME/AMD9/TIFFs/8bitTIFFs/029.tif,[],['age related macular degeneration'],1,0.5027421
+111,111,OCT14_DUKE_DME/AMD9/TIFFs/8bitTIFFs/025.tif,[],['age related macular degeneration'],1,0.21916659
+112,112,OCT14_DUKE_DME/AMD9/TIFFs/8bitTIFFs/030.tif,[],['age related macular degeneration'],1,0.29480225
+113,113,OCT14_DUKE_DME/AMD9/TIFFs/8bitTIFFs/020.tif,[],['age related macular degeneration'],1,0.65092593
+114,114,OCT14_DUKE_DME/AMD9/TIFFs/8bitTIFFs/021.tif,[],['age related macular degeneration'],1,0.40163425
+115,115,OCT14_DUKE_DME/AMD9/TIFFs/8bitTIFFs/026.tif,[],['age related macular degeneration'],1,0.13313366
+116,116,OCT14_DUKE_DME/AMD9/TIFFs/8bitTIFFs/028.tif,[],['age related macular degeneration'],1,0.49584702
+117,117,OCT14_DUKE_DME/AMD9/TIFFs/8bitTIFFs/024.tif,[],['age related macular degeneration'],1,0.5328824
+118,118,OCT14_DUKE_DME/AMD9/TIFFs/8bitTIFFs/027.tif,[],['age related macular degeneration'],1,0.35591155
+119,119,OCT14_DUKE_DME/AMD9/TIFFs/8bitTIFFs/022.tif,[],['age related macular degeneration'],1,0.544569
+120,120,OCT14_DUKE_DME/AMD9/TIFFs/8bitTIFFs/023.tif,[],['age related macular degeneration'],1,0.77922976
+121,121,OCT14_DUKE_DME/AMD13/TIFFs/8bitTIFFs/029.tif,[],['age related macular degeneration'],1,0.35555813
+122,122,OCT14_DUKE_DME/AMD13/TIFFs/8bitTIFFs/025.tif,[],['age related macular degeneration'],1,0.453572
+123,123,OCT14_DUKE_DME/AMD13/TIFFs/8bitTIFFs/030.tif,[],['age related macular degeneration'],1,0.61137974
+124,124,OCT14_DUKE_DME/AMD13/TIFFs/8bitTIFFs/020.tif,[],['age related macular degeneration'],1,0.39643872
+125,125,OCT14_DUKE_DME/AMD13/TIFFs/8bitTIFFs/021.tif,[],['age related macular degeneration'],1,0.81940323
+126,126,OCT14_DUKE_DME/AMD13/TIFFs/8bitTIFFs/026.tif,[],['age related macular degeneration'],1,0.571232
+127,127,OCT14_DUKE_DME/AMD13/TIFFs/8bitTIFFs/028.tif,[],['age related macular degeneration'],1,0.40617925
+128,128,OCT14_DUKE_DME/AMD13/TIFFs/8bitTIFFs/024.tif,[],['age related macular degeneration'],1,0.4933494
+129,129,OCT14_DUKE_DME/AMD13/TIFFs/8bitTIFFs/027.tif,[],['age related macular degeneration'],1,0.551134
+130,130,OCT14_DUKE_DME/AMD13/TIFFs/8bitTIFFs/022.tif,[],['age related macular degeneration'],1,0.65437615
+131,131,OCT14_DUKE_DME/AMD13/TIFFs/8bitTIFFs/023.tif,[],['age related macular degeneration'],1,0.3976406
+132,132,OCT14_DUKE_DME/NORMAL13/TIFFs/8bitTIFFs/029.tif,[],['normal'],1,0.066131314841127
+133,133,OCT14_DUKE_DME/NORMAL13/TIFFs/8bitTIFFs/025.tif,[],['normal'],1,0.43241113813798326
+134,134,OCT14_DUKE_DME/NORMAL13/TIFFs/8bitTIFFs/030.tif,[],['normal'],1,0.13843096974182284
+135,135,OCT14_DUKE_DME/NORMAL13/TIFFs/8bitTIFFs/020.tif,[],['normal'],1,0.3644138987106079
+136,136,OCT14_DUKE_DME/NORMAL13/TIFFs/8bitTIFFs/021.tif,[],['normal'],1,0.06623521201772652
+137,137,OCT14_DUKE_DME/NORMAL13/TIFFs/8bitTIFFs/026.tif,[],['normal'],1,0.09399974325761822
+138,138,OCT14_DUKE_DME/NORMAL13/TIFFs/8bitTIFFs/028.tif,[],['normal'],1,0.10171482926642783
+139,139,OCT14_DUKE_DME/NORMAL13/TIFFs/8bitTIFFs/024.tif,[],['normal'],1,0.0935577758560613
+140,140,OCT14_DUKE_DME/NORMAL13/TIFFs/8bitTIFFs/027.tif,[],['normal'],1,0.092622375604008
+141,141,OCT14_DUKE_DME/NORMAL13/TIFFs/8bitTIFFs/022.tif,[],['normal'],1,0.41250966562396546
+142,142,OCT14_DUKE_DME/NORMAL13/TIFFs/8bitTIFFs/023.tif,[],['normal'],1,0.43116864168967195
+143,143,OCT14_DUKE_DME/NORMAL14/TIFFs/8bitTIFFs/029.tif,[],['normal'],1,0.06947009410225483
+144,144,OCT14_DUKE_DME/NORMAL14/TIFFs/8bitTIFFs/025.tif,[],['normal'],1,0.11241221225494986
+145,145,OCT14_DUKE_DME/NORMAL14/TIFFs/8bitTIFFs/030.tif,[],['normal'],1,0.11725206333363086
+146,146,OCT14_DUKE_DME/NORMAL14/TIFFs/8bitTIFFs/020.tif,[],['normal'],1,0.05544241443310473
+147,147,OCT14_DUKE_DME/NORMAL14/TIFFs/8bitTIFFs/021.tif,[],['normal'],1,0.06477922433237303
+148,148,OCT14_DUKE_DME/NORMAL14/TIFFs/8bitTIFFs/026.tif,[],['normal'],1,0.0799934953968627
+149,149,OCT14_DUKE_DME/NORMAL14/TIFFs/8bitTIFFs/028.tif,[],['normal'],1,0.07704238205536883
+150,150,OCT14_DUKE_DME/NORMAL14/TIFFs/8bitTIFFs/024.tif,[],['normal'],1,0.10497079054026819
+151,151,OCT14_DUKE_DME/NORMAL14/TIFFs/8bitTIFFs/027.tif,[],['normal'],1,0.3624236663316931
+152,152,OCT14_DUKE_DME/NORMAL14/TIFFs/8bitTIFFs/022.tif,[],['normal'],1,0.0575823194325992
+153,153,OCT14_DUKE_DME/NORMAL14/TIFFs/8bitTIFFs/023.tif,[],['normal'],1,0.06625499991435563
+154,154,OCT14_DUKE_DME/NORMAL4/TIFFs/8bitTIFFs/029.tif,[],['normal'],1,0.10195890849746993
+155,155,OCT14_DUKE_DME/NORMAL4/TIFFs/8bitTIFFs/025.tif,[],['normal'],1,0.06967703918613811
+156,156,OCT14_DUKE_DME/NORMAL4/TIFFs/8bitTIFFs/030.tif,[],['normal'],1,0.12034642510633113
+157,157,OCT14_DUKE_DME/NORMAL4/TIFFs/8bitTIFFs/020.tif,[],['normal'],1,0.1787045949090978
+158,158,OCT14_DUKE_DME/NORMAL4/TIFFs/8bitTIFFs/021.tif,[],['normal'],1,0.2258847187255375
+159,159,OCT14_DUKE_DME/NORMAL4/TIFFs/8bitTIFFs/026.tif,[],['normal'],1,0.06800563680739635
+160,160,OCT14_DUKE_DME/NORMAL4/TIFFs/8bitTIFFs/028.tif,[],['normal'],1,0.07399490852511303
+161,161,OCT14_DUKE_DME/NORMAL4/TIFFs/8bitTIFFs/024.tif,[],['normal'],1,0.10527419987584673
+162,162,OCT14_DUKE_DME/NORMAL4/TIFFs/8bitTIFFs/027.tif,[],['normal'],1,0.0615727161364996
+163,163,OCT14_DUKE_DME/NORMAL4/TIFFs/8bitTIFFs/022.tif,[],['normal'],1,0.0729896601042615
+164,164,OCT14_DUKE_DME/NORMAL4/TIFFs/8bitTIFFs/023.tif,[],['normal'],1,0.07137641155995801
+165,165,OCT14_DUKE_DME/NORMAL2/TIFFs/8bitTIFFs/029.tif,[],['normal'],1,0.10808101613800854
+166,166,OCT14_DUKE_DME/NORMAL2/TIFFs/8bitTIFFs/025.tif,[],['normal'],1,0.08608628047678954
+167,167,OCT14_DUKE_DME/NORMAL2/TIFFs/8bitTIFFs/030.tif,[],['normal'],1,0.09817742901223651
+168,168,OCT14_DUKE_DME/NORMAL2/TIFFs/8bitTIFFs/020.tif,[],['normal'],1,0.08922153789853693
+169,169,OCT14_DUKE_DME/NORMAL2/TIFFs/8bitTIFFs/021.tif,[],['normal'],1,0.10000318336191825
+170,170,OCT14_DUKE_DME/NORMAL2/TIFFs/8bitTIFFs/026.tif,[],['normal'],1,0.09196509844919555
+171,171,OCT14_DUKE_DME/NORMAL2/TIFFs/8bitTIFFs/028.tif,[],['normal'],1,0.09472660863911365
+172,172,OCT14_DUKE_DME/NORMAL2/TIFFs/8bitTIFFs/024.tif,[],['normal'],1,0.11993304595179946
+173,173,OCT14_DUKE_DME/NORMAL2/TIFFs/8bitTIFFs/027.tif,[],['normal'],1,0.0744996950018777
+174,174,OCT14_DUKE_DME/NORMAL2/TIFFs/8bitTIFFs/022.tif,[],['normal'],1,0.12577850626340573
+175,175,OCT14_DUKE_DME/NORMAL2/TIFFs/8bitTIFFs/023.tif,[],['normal'],1,0.10008564358458305
+176,176,OCT14_DUKE_DME/DME13/TIFFs/8bitTIFFs/029.tif,[],['diabetic macular edema'],1,0.07621918
+177,177,OCT14_DUKE_DME/DME13/TIFFs/8bitTIFFs/025.tif,[],['diabetic macular edema'],1,0.18857756
+178,178,OCT14_DUKE_DME/DME13/TIFFs/8bitTIFFs/030.tif,[],['diabetic macular edema'],1,0.23525697
+179,179,OCT14_DUKE_DME/DME13/TIFFs/8bitTIFFs/020.tif,[],['diabetic macular edema'],1,0.30362642
+180,180,OCT14_DUKE_DME/DME13/TIFFs/8bitTIFFs/021.tif,[],['diabetic macular edema'],1,0.35005698
+181,181,OCT14_DUKE_DME/DME13/TIFFs/8bitTIFFs/026.tif,[],['diabetic macular edema'],1,0.19888271
+182,182,OCT14_DUKE_DME/DME13/TIFFs/8bitTIFFs/028.tif,[],['diabetic macular edema'],1,0.11389519
+183,183,OCT14_DUKE_DME/DME13/TIFFs/8bitTIFFs/024.tif,[],['diabetic macular edema'],1,0.1990833
+184,184,OCT14_DUKE_DME/DME13/TIFFs/8bitTIFFs/027.tif,[],['diabetic macular edema'],1,0.3357065
+185,185,OCT14_DUKE_DME/DME13/TIFFs/8bitTIFFs/022.tif,[],['diabetic macular edema'],1,0.36942455
+186,186,OCT14_DUKE_DME/DME13/TIFFs/8bitTIFFs/023.tif,[],['diabetic macular edema'],1,0.42939988
+187,187,OCT14_DUKE_DME/NORMAL10/TIFFs/8bitTIFFs/029.tif,[],['normal'],1,0.0923651586539255
+188,188,OCT14_DUKE_DME/NORMAL10/TIFFs/8bitTIFFs/025.tif,[],['normal'],1,0.04826101473018458
+189,189,OCT14_DUKE_DME/NORMAL10/TIFFs/8bitTIFFs/030.tif,[],['normal'],1,0.0780463103087563
+190,190,OCT14_DUKE_DME/NORMAL10/TIFFs/8bitTIFFs/020.tif,[],['normal'],1,0.06432056623414739
+191,191,OCT14_DUKE_DME/NORMAL10/TIFFs/8bitTIFFs/021.tif,[],['normal'],1,0.06879385563133991
+192,192,OCT14_DUKE_DME/NORMAL10/TIFFs/8bitTIFFs/026.tif,[],['normal'],1,0.05580316549152024
+193,193,OCT14_DUKE_DME/NORMAL10/TIFFs/8bitTIFFs/028.tif,[],['normal'],1,0.05980269997877286
+194,194,OCT14_DUKE_DME/NORMAL10/TIFFs/8bitTIFFs/024.tif,[],['normal'],1,0.05686326932320606
+195,195,OCT14_DUKE_DME/NORMAL10/TIFFs/8bitTIFFs/027.tif,[],['normal'],1,0.08685881960126515
+196,196,OCT14_DUKE_DME/NORMAL10/TIFFs/8bitTIFFs/022.tif,[],['normal'],1,0.1023700797346544
+197,197,OCT14_DUKE_DME/NORMAL10/TIFFs/8bitTIFFs/023.tif,[],['normal'],1,0.11894457452553317
+198,198,OCT14_DUKE_DME/DME6/TIFFs/8bitTIFFs/029.tif,[],['diabetic macular edema'],1,0.057687514
+199,199,OCT14_DUKE_DME/DME6/TIFFs/8bitTIFFs/025.tif,[],['diabetic macular edema'],1,0.3794283
+200,200,OCT14_DUKE_DME/DME6/TIFFs/8bitTIFFs/030.tif,[],['diabetic macular edema'],1,0.07110073
+201,201,OCT14_DUKE_DME/DME6/TIFFs/8bitTIFFs/020.tif,[],['diabetic macular edema'],1,0.17845973
+202,202,OCT14_DUKE_DME/DME6/TIFFs/8bitTIFFs/021.tif,[],['diabetic macular edema'],1,0.11799244
+203,203,OCT14_DUKE_DME/DME6/TIFFs/8bitTIFFs/026.tif,[],['diabetic macular edema'],1,0.31324053
+204,204,OCT14_DUKE_DME/DME6/TIFFs/8bitTIFFs/028.tif,[],['diabetic macular edema'],1,0.13466327
+205,205,OCT14_DUKE_DME/DME6/TIFFs/8bitTIFFs/024.tif,[],['diabetic macular edema'],1,0.20516945
+206,206,OCT14_DUKE_DME/DME6/TIFFs/8bitTIFFs/027.tif,[],['diabetic macular edema'],1,0.10266139
+207,207,OCT14_DUKE_DME/DME6/TIFFs/8bitTIFFs/022.tif,[],['diabetic macular edema'],1,0.07832872
+208,208,OCT14_DUKE_DME/DME6/TIFFs/8bitTIFFs/023.tif,[],['diabetic macular edema'],1,0.3150421
+209,209,OCT14_DUKE_DME/DME7/TIFFs/8bitTIFFs/029.tif,[],['diabetic macular edema'],1,0.21265079
+210,210,OCT14_DUKE_DME/DME7/TIFFs/8bitTIFFs/025.tif,[],['diabetic macular edema'],1,0.1605281
+211,211,OCT14_DUKE_DME/DME7/TIFFs/8bitTIFFs/030.tif,[],['diabetic macular edema'],1,0.2180823
+212,212,OCT14_DUKE_DME/DME7/TIFFs/8bitTIFFs/020.tif,[],['diabetic macular edema'],1,0.18606912
+213,213,OCT14_DUKE_DME/DME7/TIFFs/8bitTIFFs/021.tif,[],['diabetic macular edema'],1,0.3094278
+214,214,OCT14_DUKE_DME/DME7/TIFFs/8bitTIFFs/026.tif,[],['diabetic macular edema'],1,0.21983388
+215,215,OCT14_DUKE_DME/DME7/TIFFs/8bitTIFFs/028.tif,[],['diabetic macular edema'],1,0.30194965
+216,216,OCT14_DUKE_DME/DME7/TIFFs/8bitTIFFs/024.tif,[],['diabetic macular edema'],1,0.12571321
+217,217,OCT14_DUKE_DME/DME7/TIFFs/8bitTIFFs/027.tif,[],['diabetic macular edema'],1,0.2943072
+218,218,OCT14_DUKE_DME/DME7/TIFFs/8bitTIFFs/022.tif,[],['diabetic macular edema'],1,0.20210434
+219,219,OCT14_DUKE_DME/DME7/TIFFs/8bitTIFFs/023.tif,[],['diabetic macular edema'],1,0.52304167
+220,220,OCT14_DUKE_DME/AMD14/TIFFs/8bitTIFFs/029.tif,[],['age related macular degeneration'],1,0.33725637
+221,221,OCT14_DUKE_DME/AMD14/TIFFs/8bitTIFFs/025.tif,[],['age related macular degeneration'],1,0.21168211
+222,222,OCT14_DUKE_DME/AMD14/TIFFs/8bitTIFFs/030.tif,[],['age related macular degeneration'],1,0.60486716
+223,223,OCT14_DUKE_DME/AMD14/TIFFs/8bitTIFFs/020.tif,[],['age related macular degeneration'],1,0.29533356
+224,224,OCT14_DUKE_DME/AMD14/TIFFs/8bitTIFFs/021.tif,[],['age related macular degeneration'],1,0.32125098
+225,225,OCT14_DUKE_DME/AMD14/TIFFs/8bitTIFFs/026.tif,[],['age related macular degeneration'],1,0.19618385
+226,226,OCT14_DUKE_DME/AMD14/TIFFs/8bitTIFFs/028.tif,[],['age related macular degeneration'],1,0.6098993
+227,227,OCT14_DUKE_DME/AMD14/TIFFs/8bitTIFFs/024.tif,[],['age related macular degeneration'],1,0.3308896
+228,228,OCT14_DUKE_DME/AMD14/TIFFs/8bitTIFFs/027.tif,[],['age related macular degeneration'],1,0.18926336
+229,229,OCT14_DUKE_DME/AMD14/TIFFs/8bitTIFFs/022.tif,[],['age related macular degeneration'],1,0.20901988
+230,230,OCT14_DUKE_DME/AMD14/TIFFs/8bitTIFFs/023.tif,[],['age related macular degeneration'],1,0.30363935
+231,231,OCT14_DUKE_DME/DME10/TIFFs/8bitTIFFs/029.tif,[],['diabetic macular edema'],1,0.4829614
+232,232,OCT14_DUKE_DME/DME10/TIFFs/8bitTIFFs/025.tif,[],['diabetic macular edema'],1,0.2751688
+233,233,OCT14_DUKE_DME/DME10/TIFFs/8bitTIFFs/030.tif,[],['diabetic macular edema'],1,0.52358097
+234,234,OCT14_DUKE_DME/DME10/TIFFs/8bitTIFFs/020.tif,[],['diabetic macular edema'],1,0.4316255
+235,235,OCT14_DUKE_DME/DME10/TIFFs/8bitTIFFs/021.tif,[],['diabetic macular edema'],1,0.49695748
+236,236,OCT14_DUKE_DME/DME10/TIFFs/8bitTIFFs/026.tif,[],['diabetic macular edema'],1,0.46291307
+237,237,OCT14_DUKE_DME/DME10/TIFFs/8bitTIFFs/028.tif,[],['diabetic macular edema'],1,0.5103132
+238,238,OCT14_DUKE_DME/DME10/TIFFs/8bitTIFFs/024.tif,[],['diabetic macular edema'],1,0.45611638
+239,239,OCT14_DUKE_DME/DME10/TIFFs/8bitTIFFs/027.tif,[],['diabetic macular edema'],1,0.3648462
+240,240,OCT14_DUKE_DME/DME10/TIFFs/8bitTIFFs/022.tif,[],['diabetic macular edema'],1,0.4041312
+241,241,OCT14_DUKE_DME/DME10/TIFFs/8bitTIFFs/023.tif,[],['diabetic macular edema'],1,0.33837923
+242,242,OCT14_DUKE_DME/NORMAL9/TIFFs/8bitTIFFs/029.tif,[],['normal'],1,0.0884939344583487
+243,243,OCT14_DUKE_DME/NORMAL9/TIFFs/8bitTIFFs/025.tif,[],['normal'],1,0.1316464457347542
+244,244,OCT14_DUKE_DME/NORMAL9/TIFFs/8bitTIFFs/030.tif,[],['normal'],1,0.07582337612814673
+245,245,OCT14_DUKE_DME/NORMAL9/TIFFs/8bitTIFFs/020.tif,[],['normal'],1,0.19505433635752847
+246,246,OCT14_DUKE_DME/NORMAL9/TIFFs/8bitTIFFs/021.tif,[],['normal'],1,0.09390101936764453
+247,247,OCT14_DUKE_DME/NORMAL9/TIFFs/8bitTIFFs/026.tif,[],['normal'],1,0.133330917954027
+248,248,OCT14_DUKE_DME/NORMAL9/TIFFs/8bitTIFFs/028.tif,[],['normal'],1,0.08761038385463239
+249,249,OCT14_DUKE_DME/NORMAL9/TIFFs/8bitTIFFs/024.tif,[],['normal'],1,0.11789849028522985
+250,250,OCT14_DUKE_DME/NORMAL9/TIFFs/8bitTIFFs/027.tif,[],['normal'],1,0.06273243388039777
+251,251,OCT14_DUKE_DME/NORMAL9/TIFFs/8bitTIFFs/022.tif,[],['normal'],1,0.07808879825920241
+252,252,OCT14_DUKE_DME/NORMAL9/TIFFs/8bitTIFFs/023.tif,[],['normal'],1,0.1479521242579327
+253,253,OCT14_DUKE_DME/DME5/TIFFs/8bitTIFFs/029.tif,[],['diabetic macular edema'],1,0.15911478
+254,254,OCT14_DUKE_DME/DME5/TIFFs/8bitTIFFs/025.tif,[],['diabetic macular edema'],1,0.09449014
+255,255,OCT14_DUKE_DME/DME5/TIFFs/8bitTIFFs/030.tif,[],['diabetic macular edema'],1,0.15188508
+256,256,OCT14_DUKE_DME/DME5/TIFFs/8bitTIFFs/020.tif,[],['diabetic macular edema'],1,0.13279967
+257,257,OCT14_DUKE_DME/DME5/TIFFs/8bitTIFFs/021.tif,[],['diabetic macular edema'],1,0.20974946
+258,258,OCT14_DUKE_DME/DME5/TIFFs/8bitTIFFs/026.tif,[],['diabetic macular edema'],1,0.14077687
+259,259,OCT14_DUKE_DME/DME5/TIFFs/8bitTIFFs/028.tif,[],['diabetic macular edema'],1,0.15361682
+260,260,OCT14_DUKE_DME/DME5/TIFFs/8bitTIFFs/024.tif,[],['diabetic macular edema'],1,0.10579412
+261,261,OCT14_DUKE_DME/DME5/TIFFs/8bitTIFFs/027.tif,[],['diabetic macular edema'],1,0.18752007
+262,262,OCT14_DUKE_DME/DME5/TIFFs/8bitTIFFs/022.tif,[],['diabetic macular edema'],1,0.063154474
+263,263,OCT14_DUKE_DME/DME5/TIFFs/8bitTIFFs/023.tif,[],['diabetic macular edema'],1,0.13536431
+264,264,OCT14_DUKE_DME/AMD12/TIFFs/8bitTIFFs/029.tif,[],['age related macular degeneration'],1,0.55327135
+265,265,OCT14_DUKE_DME/AMD12/TIFFs/8bitTIFFs/025.tif,[],['age related macular degeneration'],1,0.55638784
+266,266,OCT14_DUKE_DME/AMD12/TIFFs/8bitTIFFs/030.tif,[],['age related macular degeneration'],1,0.4996687
+267,267,OCT14_DUKE_DME/AMD12/TIFFs/8bitTIFFs/020.tif,[],['age related macular degeneration'],1,0.6490128
+268,268,OCT14_DUKE_DME/AMD12/TIFFs/8bitTIFFs/021.tif,[],['age related macular degeneration'],1,0.80813426
+269,269,OCT14_DUKE_DME/AMD12/TIFFs/8bitTIFFs/026.tif,[],['age related macular degeneration'],1,0.65513194
+270,270,OCT14_DUKE_DME/AMD12/TIFFs/8bitTIFFs/028.tif,[],['age related macular degeneration'],1,0.4655089
+271,271,OCT14_DUKE_DME/AMD12/TIFFs/8bitTIFFs/024.tif,[],['age related macular degeneration'],1,0.4643033
+272,272,OCT14_DUKE_DME/AMD12/TIFFs/8bitTIFFs/027.tif,[],['age related macular degeneration'],1,0.63851345
+273,273,OCT14_DUKE_DME/AMD12/TIFFs/8bitTIFFs/022.tif,[],['age related macular degeneration'],1,0.80066514
+274,274,OCT14_DUKE_DME/AMD12/TIFFs/8bitTIFFs/023.tif,[],['age related macular degeneration'],1,0.65251666
+275,275,OCT14_DUKE_DME/NORMAL5/TIFFs/8bitTIFFs/029.tif,[],['normal'],1,0.04576820183234011
+276,276,OCT14_DUKE_DME/NORMAL5/TIFFs/8bitTIFFs/025.tif,[],['normal'],1,0.08014273050773552
+277,277,OCT14_DUKE_DME/NORMAL5/TIFFs/8bitTIFFs/030.tif,[],['normal'],1,0.08170915685951749
+278,278,OCT14_DUKE_DME/NORMAL5/TIFFs/8bitTIFFs/020.tif,[],['normal'],1,0.06442777339792426
+279,279,OCT14_DUKE_DME/NORMAL5/TIFFs/8bitTIFFs/021.tif,[],['normal'],1,0.07129552169744416
+280,280,OCT14_DUKE_DME/NORMAL5/TIFFs/8bitTIFFs/026.tif,[],['normal'],1,0.08379145714990202
+281,281,OCT14_DUKE_DME/NORMAL5/TIFFs/8bitTIFFs/028.tif,[],['normal'],1,0.12415099605718394
+282,282,OCT14_DUKE_DME/NORMAL5/TIFFs/8bitTIFFs/024.tif,[],['normal'],1,0.08627727005052478
+283,283,OCT14_DUKE_DME/NORMAL5/TIFFs/8bitTIFFs/027.tif,[],['normal'],1,0.0837066211593236
+284,284,OCT14_DUKE_DME/NORMAL5/TIFFs/8bitTIFFs/022.tif,[],['normal'],1,0.10123983535800854
+285,285,OCT14_DUKE_DME/NORMAL5/TIFFs/8bitTIFFs/023.tif,[],['normal'],1,0.06287709187402886
+286,286,OCT14_DUKE_DME/DME11/TIFFs/8bitTIFFs/029.tif,[],['diabetic macular edema'],1,0.14682351
+287,287,OCT14_DUKE_DME/DME11/TIFFs/8bitTIFFs/025.tif,[],['diabetic macular edema'],1,0.20602183
+288,288,OCT14_DUKE_DME/DME11/TIFFs/8bitTIFFs/030.tif,[],['diabetic macular edema'],1,0.085006624
+289,289,OCT14_DUKE_DME/DME11/TIFFs/8bitTIFFs/020.tif,[],['diabetic macular edema'],1,0.18660209
+290,290,OCT14_DUKE_DME/DME11/TIFFs/8bitTIFFs/021.tif,[],['diabetic macular edema'],1,0.16129237
+291,291,OCT14_DUKE_DME/DME11/TIFFs/8bitTIFFs/026.tif,[],['diabetic macular edema'],1,0.21331248
+292,292,OCT14_DUKE_DME/DME11/TIFFs/8bitTIFFs/028.tif,[],['diabetic macular edema'],1,0.3332476
+293,293,OCT14_DUKE_DME/DME11/TIFFs/8bitTIFFs/024.tif,[],['diabetic macular edema'],1,0.16753443
+294,294,OCT14_DUKE_DME/DME11/TIFFs/8bitTIFFs/027.tif,[],['diabetic macular edema'],1,0.18705486
+295,295,OCT14_DUKE_DME/DME11/TIFFs/8bitTIFFs/022.tif,[],['diabetic macular edema'],1,0.21666653
+296,296,OCT14_DUKE_DME/DME11/TIFFs/8bitTIFFs/023.tif,[],['diabetic macular edema'],1,0.47477993
+297,297,OCT14_DUKE_DME/DME12/TIFFs/8bitTIFFs/029.tif,[],['diabetic macular edema'],1,0.14069046
+298,298,OCT14_DUKE_DME/DME12/TIFFs/8bitTIFFs/025.tif,[],['diabetic macular edema'],1,0.12787302
+299,299,OCT14_DUKE_DME/DME12/TIFFs/8bitTIFFs/030.tif,[],['diabetic macular edema'],1,0.132815
+300,300,OCT14_DUKE_DME/DME12/TIFFs/8bitTIFFs/020.tif,[],['diabetic macular edema'],1,0.45898283
+301,301,OCT14_DUKE_DME/DME12/TIFFs/8bitTIFFs/021.tif,[],['diabetic macular edema'],1,0.5094806
+302,302,OCT14_DUKE_DME/DME12/TIFFs/8bitTIFFs/026.tif,[],['diabetic macular edema'],1,0.09785717
+303,303,OCT14_DUKE_DME/DME12/TIFFs/8bitTIFFs/028.tif,[],['diabetic macular edema'],1,0.16563906
+304,304,OCT14_DUKE_DME/DME12/TIFFs/8bitTIFFs/024.tif,[],['diabetic macular edema'],1,0.4594817
+305,305,OCT14_DUKE_DME/DME12/TIFFs/8bitTIFFs/027.tif,[],['diabetic macular edema'],1,0.23768009
+306,306,OCT14_DUKE_DME/DME12/TIFFs/8bitTIFFs/022.tif,[],['diabetic macular edema'],1,0.5053075
+307,307,OCT14_DUKE_DME/DME12/TIFFs/8bitTIFFs/023.tif,[],['diabetic macular edema'],1,0.29747522
+308,308,OCT14_DUKE_DME/AMD1/TIFFs/8bitTIFFs/029.tif,[],['age related macular degeneration'],1,0.23475379
+309,309,OCT14_DUKE_DME/AMD1/TIFFs/8bitTIFFs/025.tif,[],['age related macular degeneration'],1,0.68986356
+310,310,OCT14_DUKE_DME/AMD1/TIFFs/8bitTIFFs/030.tif,[],['age related macular degeneration'],1,0.40545347
+311,311,OCT14_DUKE_DME/AMD1/TIFFs/8bitTIFFs/020.tif,[],['age related macular degeneration'],1,0.41509578
+312,312,OCT14_DUKE_DME/AMD1/TIFFs/8bitTIFFs/021.tif,[],['age related macular degeneration'],1,0.58590174
+313,313,OCT14_DUKE_DME/AMD1/TIFFs/8bitTIFFs/026.tif,[],['age related macular degeneration'],1,0.33426106
+314,314,OCT14_DUKE_DME/AMD1/TIFFs/8bitTIFFs/028.tif,[],['age related macular degeneration'],1,0.48411202
+315,315,OCT14_DUKE_DME/AMD1/TIFFs/8bitTIFFs/024.tif,[],['age related macular degeneration'],1,0.7157285
+316,316,OCT14_DUKE_DME/AMD1/TIFFs/8bitTIFFs/027.tif,[],['age related macular degeneration'],1,0.6278008
+317,317,OCT14_DUKE_DME/AMD1/TIFFs/8bitTIFFs/022.tif,[],['age related macular degeneration'],1,0.66330045
+318,318,OCT14_DUKE_DME/AMD1/TIFFs/8bitTIFFs/023.tif,[],['age related macular degeneration'],1,0.5008179
+319,319,OCT14_DUKE_DME/NORMAL3/TIFFs/8bitTIFFs/029.tif,[],['normal'],1,0.08542786128389857
+320,320,OCT14_DUKE_DME/NORMAL3/TIFFs/8bitTIFFs/025.tif,[],['normal'],1,0.08988454126407554
+321,321,OCT14_DUKE_DME/NORMAL3/TIFFs/8bitTIFFs/030.tif,[],['normal'],1,0.06694197060482705
+322,322,OCT14_DUKE_DME/NORMAL3/TIFFs/8bitTIFFs/020.tif,[],['normal'],1,0.08014353300943375
+323,323,OCT14_DUKE_DME/NORMAL3/TIFFs/8bitTIFFs/021.tif,[],['normal'],1,0.08332424768549646
+324,324,OCT14_DUKE_DME/NORMAL3/TIFFs/8bitTIFFs/026.tif,[],['normal'],1,0.10975685303837984
+325,325,OCT14_DUKE_DME/NORMAL3/TIFFs/8bitTIFFs/028.tif,[],['normal'],1,0.06059102027065722
+326,326,OCT14_DUKE_DME/NORMAL3/TIFFs/8bitTIFFs/024.tif,[],['normal'],1,0.08658496692272254
+327,327,OCT14_DUKE_DME/NORMAL3/TIFFs/8bitTIFFs/027.tif,[],['normal'],1,0.11547236977714083
+328,328,OCT14_DUKE_DME/NORMAL3/TIFFs/8bitTIFFs/022.tif,[],['normal'],1,0.08377685307048933
+329,329,OCT14_DUKE_DME/NORMAL3/TIFFs/8bitTIFFs/023.tif,[],['normal'],1,0.06572005569706055
+330,330,OCT14_DUKE_DME/AMD5/TIFFs/8bitTIFFs/029.tif,[],['age related macular degeneration'],1,0.35760814
+331,331,OCT14_DUKE_DME/AMD5/TIFFs/8bitTIFFs/025.tif,[],['age related macular degeneration'],1,0.34115162
+332,332,OCT14_DUKE_DME/AMD5/TIFFs/8bitTIFFs/030.tif,[],['age related macular degeneration'],1,0.21777396
+333,333,OCT14_DUKE_DME/AMD5/TIFFs/8bitTIFFs/020.tif,[],['age related macular degeneration'],1,0.66314673
+334,334,OCT14_DUKE_DME/AMD5/TIFFs/8bitTIFFs/021.tif,[],['age related macular degeneration'],1,0.5324346
+335,335,OCT14_DUKE_DME/AMD5/TIFFs/8bitTIFFs/026.tif,[],['age related macular degeneration'],1,0.27160722
+336,336,OCT14_DUKE_DME/AMD5/TIFFs/8bitTIFFs/028.tif,[],['age related macular degeneration'],1,0.43173915
+337,337,OCT14_DUKE_DME/AMD5/TIFFs/8bitTIFFs/024.tif,[],['age related macular degeneration'],1,0.3299903
+338,338,OCT14_DUKE_DME/AMD5/TIFFs/8bitTIFFs/027.tif,[],['age related macular degeneration'],1,0.3970238
+339,339,OCT14_DUKE_DME/AMD5/TIFFs/8bitTIFFs/022.tif,[],['age related macular degeneration'],1,0.5763995
+340,340,OCT14_DUKE_DME/AMD5/TIFFs/8bitTIFFs/023.tif,[],['age related macular degeneration'],1,0.4411123
+341,341,OCT14_DUKE_DME/DME4/TIFFs/8bitTIFFs/029.tif,[],['diabetic macular edema'],1,0.31538227
+342,342,OCT14_DUKE_DME/DME4/TIFFs/8bitTIFFs/025.tif,[],['diabetic macular edema'],1,0.2855087
+343,343,OCT14_DUKE_DME/DME4/TIFFs/8bitTIFFs/030.tif,[],['diabetic macular edema'],1,0.30299565
+344,344,OCT14_DUKE_DME/DME4/TIFFs/8bitTIFFs/020.tif,[],['diabetic macular edema'],1,0.33378056
+345,345,OCT14_DUKE_DME/DME4/TIFFs/8bitTIFFs/021.tif,[],['diabetic macular edema'],1,0.32453576
+346,346,OCT14_DUKE_DME/DME4/TIFFs/8bitTIFFs/026.tif,[],['diabetic macular edema'],1,0.31282064
+347,347,OCT14_DUKE_DME/DME4/TIFFs/8bitTIFFs/028.tif,[],['diabetic macular edema'],1,0.31478286
+348,348,OCT14_DUKE_DME/DME4/TIFFs/8bitTIFFs/024.tif,[],['diabetic macular edema'],1,0.23254387
+349,349,OCT14_DUKE_DME/DME4/TIFFs/8bitTIFFs/027.tif,[],['diabetic macular edema'],1,0.3644282
+350,350,OCT14_DUKE_DME/DME4/TIFFs/8bitTIFFs/022.tif,[],['diabetic macular edema'],1,0.374735
+351,351,OCT14_DUKE_DME/DME4/TIFFs/8bitTIFFs/023.tif,[],['diabetic macular edema'],1,0.39944828
+352,352,OCT14_DUKE_DME/NORMAL8/TIFFs/8bitTIFFs/029.tif,[],['normal'],1,0.061652063005328515
+353,353,OCT14_DUKE_DME/NORMAL8/TIFFs/8bitTIFFs/025.tif,[],['normal'],1,0.11686516390807787
+354,354,OCT14_DUKE_DME/NORMAL8/TIFFs/8bitTIFFs/030.tif,[],['normal'],1,0.0997063889572131
+355,355,OCT14_DUKE_DME/NORMAL8/TIFFs/8bitTIFFs/020.tif,[],['normal'],1,0.09063193037203034
+356,356,OCT14_DUKE_DME/NORMAL8/TIFFs/8bitTIFFs/021.tif,[],['normal'],1,0.09727232246045961
+357,357,OCT14_DUKE_DME/NORMAL8/TIFFs/8bitTIFFs/026.tif,[],['normal'],1,0.172783299543542
+358,358,OCT14_DUKE_DME/NORMAL8/TIFFs/8bitTIFFs/028.tif,[],['normal'],1,0.054672473776345744
+359,359,OCT14_DUKE_DME/NORMAL8/TIFFs/8bitTIFFs/024.tif,[],['normal'],1,0.07006620289024171
+360,360,OCT14_DUKE_DME/NORMAL8/TIFFs/8bitTIFFs/027.tif,[],['normal'],1,0.10427863910246182
+361,361,OCT14_DUKE_DME/NORMAL8/TIFFs/8bitTIFFs/022.tif,[],['normal'],1,0.11901263016156995
+362,362,OCT14_DUKE_DME/NORMAL8/TIFFs/8bitTIFFs/023.tif,[],['normal'],1,0.12233815843120545
+363,363,OCT14_DUKE_DME/DME14/TIFFs/8bitTIFFs/029.tif,[],['diabetic macular edema'],1,0.07129401
+364,364,OCT14_DUKE_DME/DME14/TIFFs/8bitTIFFs/025.tif,[],['diabetic macular edema'],1,0.08396204
+365,365,OCT14_DUKE_DME/DME14/TIFFs/8bitTIFFs/030.tif,[],['diabetic macular edema'],1,0.19631578
+366,366,OCT14_DUKE_DME/DME14/TIFFs/8bitTIFFs/020.tif,[],['diabetic macular edema'],1,0.15925708
+367,367,OCT14_DUKE_DME/DME14/TIFFs/8bitTIFFs/021.tif,[],['diabetic macular edema'],1,0.16119869
+368,368,OCT14_DUKE_DME/DME14/TIFFs/8bitTIFFs/026.tif,[],['diabetic macular edema'],1,0.102873415
+369,369,OCT14_DUKE_DME/DME14/TIFFs/8bitTIFFs/028.tif,[],['diabetic macular edema'],1,0.17360497
+370,370,OCT14_DUKE_DME/DME14/TIFFs/8bitTIFFs/024.tif,[],['diabetic macular edema'],1,0.50931734
+371,371,OCT14_DUKE_DME/DME14/TIFFs/8bitTIFFs/027.tif,[],['diabetic macular edema'],1,0.12494542
+372,372,OCT14_DUKE_DME/DME14/TIFFs/8bitTIFFs/022.tif,[],['diabetic macular edema'],1,0.31604496
+373,373,OCT14_DUKE_DME/DME14/TIFFs/8bitTIFFs/023.tif,[],['diabetic macular edema'],1,0.12837514
+374,374,OCT14_DUKE_DME/NORMAL15/TIFFs/8bitTIFFs/029.tif,[],['normal'],1,0.05352247826880808
+375,375,OCT14_DUKE_DME/NORMAL15/TIFFs/8bitTIFFs/025.tif,[],['normal'],1,0.06753062221272423
+376,376,OCT14_DUKE_DME/NORMAL15/TIFFs/8bitTIFFs/030.tif,[],['normal'],1,0.25445935117939694
+377,377,OCT14_DUKE_DME/NORMAL15/TIFFs/8bitTIFFs/020.tif,[],['normal'],1,0.09925897854714004
+378,378,OCT14_DUKE_DME/NORMAL15/TIFFs/8bitTIFFs/021.tif,[],['normal'],1,0.08254562401739554
+379,379,OCT14_DUKE_DME/NORMAL15/TIFFs/8bitTIFFs/026.tif,[],['normal'],1,0.0638017483588965
+380,380,OCT14_DUKE_DME/NORMAL15/TIFFs/8bitTIFFs/028.tif,[],['normal'],1,0.12244844324963676
+381,381,OCT14_DUKE_DME/NORMAL15/TIFFs/8bitTIFFs/024.tif,[],['normal'],1,0.08580337188305397
+382,382,OCT14_DUKE_DME/NORMAL15/TIFFs/8bitTIFFs/027.tif,[],['normal'],1,0.071635358173237
+383,383,OCT14_DUKE_DME/NORMAL15/TIFFs/8bitTIFFs/022.tif,[],['normal'],1,0.09625404200035766
+384,384,OCT14_DUKE_DME/NORMAL15/TIFFs/8bitTIFFs/023.tif,[],['normal'],1,0.148412049371379
+385,385,OCT14_DUKE_DME/NORMAL12/TIFFs/8bitTIFFs/029.tif,[],['normal'],1,0.11878677204976376
+386,386,OCT14_DUKE_DME/NORMAL12/TIFFs/8bitTIFFs/025.tif,[],['normal'],1,0.09837029334612485
+387,387,OCT14_DUKE_DME/NORMAL12/TIFFs/8bitTIFFs/030.tif,[],['normal'],1,0.079206886740353
+388,388,OCT14_DUKE_DME/NORMAL12/TIFFs/8bitTIFFs/020.tif,[],['normal'],1,0.07923895721645756
+389,389,OCT14_DUKE_DME/NORMAL12/TIFFs/8bitTIFFs/021.tif,[],['normal'],1,0.08540865979009048
+390,390,OCT14_DUKE_DME/NORMAL12/TIFFs/8bitTIFFs/026.tif,[],['normal'],1,0.05267597116207437
+391,391,OCT14_DUKE_DME/NORMAL12/TIFFs/8bitTIFFs/028.tif,[],['normal'],1,0.131093141529185
+392,392,OCT14_DUKE_DME/NORMAL12/TIFFs/8bitTIFFs/024.tif,[],['normal'],1,0.08846969279604427
+393,393,OCT14_DUKE_DME/NORMAL12/TIFFs/8bitTIFFs/027.tif,[],['normal'],1,0.07846824725193503
+394,394,OCT14_DUKE_DME/NORMAL12/TIFFs/8bitTIFFs/022.tif,[],['normal'],1,0.06424765147804222
+395,395,OCT14_DUKE_DME/NORMAL12/TIFFs/8bitTIFFs/023.tif,[],['normal'],1,0.07230946629445531
+396,396,OCT14_DUKE_DME/AMD11/TIFFs/8bitTIFFs/029.tif,[],['age related macular degeneration'],1,0.45515153
+397,397,OCT14_DUKE_DME/AMD11/TIFFs/8bitTIFFs/025.tif,[],['age related macular degeneration'],1,0.4179514
+398,398,OCT14_DUKE_DME/AMD11/TIFFs/8bitTIFFs/030.tif,[],['age related macular degeneration'],1,0.55732733
+399,399,OCT14_DUKE_DME/AMD11/TIFFs/8bitTIFFs/020.tif,[],['age related macular degeneration'],1,0.5143784
+400,400,OCT14_DUKE_DME/AMD11/TIFFs/8bitTIFFs/021.tif,[],['age related macular degeneration'],1,0.4423079
+401,401,OCT14_DUKE_DME/AMD11/TIFFs/8bitTIFFs/026.tif,[],['age related macular degeneration'],1,0.9143612
+402,402,OCT14_DUKE_DME/AMD11/TIFFs/8bitTIFFs/028.tif,[],['age related macular degeneration'],1,0.6527688
+403,403,OCT14_DUKE_DME/AMD11/TIFFs/8bitTIFFs/024.tif,[],['age related macular degeneration'],1,0.5765279
+404,404,OCT14_DUKE_DME/AMD11/TIFFs/8bitTIFFs/027.tif,[],['age related macular degeneration'],1,0.8088576
+405,405,OCT14_DUKE_DME/AMD11/TIFFs/8bitTIFFs/022.tif,[],['age related macular degeneration'],1,0.60375094
+406,406,OCT14_DUKE_DME/AMD11/TIFFs/8bitTIFFs/023.tif,[],['age related macular degeneration'],1,0.7627705
+407,407,OCT14_DUKE_DME/AMD4/TIFFs/8bitTIFFs/029.tif,[],['age related macular degeneration'],1,0.38649848
+408,408,OCT14_DUKE_DME/AMD4/TIFFs/8bitTIFFs/025.tif,[],['age related macular degeneration'],1,0.40079176
+409,409,OCT14_DUKE_DME/AMD4/TIFFs/8bitTIFFs/030.tif,[],['age related macular degeneration'],1,0.49953386
+410,410,OCT14_DUKE_DME/AMD4/TIFFs/8bitTIFFs/020.tif,[],['age related macular degeneration'],1,0.6658833
+411,411,OCT14_DUKE_DME/AMD4/TIFFs/8bitTIFFs/021.tif,[],['age related macular degeneration'],1,0.863946
+412,412,OCT14_DUKE_DME/AMD4/TIFFs/8bitTIFFs/026.tif,[],['age related macular degeneration'],1,0.47352502
+413,413,OCT14_DUKE_DME/AMD4/TIFFs/8bitTIFFs/028.tif,[],['age related macular degeneration'],1,0.5742805
+414,414,OCT14_DUKE_DME/AMD4/TIFFs/8bitTIFFs/024.tif,[],['age related macular degeneration'],1,0.63768053
+415,415,OCT14_DUKE_DME/AMD4/TIFFs/8bitTIFFs/027.tif,[],['age related macular degeneration'],1,0.3921222
+416,416,OCT14_DUKE_DME/AMD4/TIFFs/8bitTIFFs/022.tif,[],['age related macular degeneration'],1,0.7327136
+417,417,OCT14_DUKE_DME/AMD4/TIFFs/8bitTIFFs/023.tif,[],['age related macular degeneration'],1,0.7913133
+418,418,OCT14_DUKE_DME/DME15/TIFFs/8bitTIFFs/029.tif,[],['diabetic macular edema'],1,0.10811921
+419,419,OCT14_DUKE_DME/DME15/TIFFs/8bitTIFFs/025.tif,[],['diabetic macular edema'],1,0.45050213
+420,420,OCT14_DUKE_DME/DME15/TIFFs/8bitTIFFs/030.tif,[],['diabetic macular edema'],1,0.1118428
+421,421,OCT14_DUKE_DME/DME15/TIFFs/8bitTIFFs/020.tif,[],['diabetic macular edema'],1,0.31633377
+422,422,OCT14_DUKE_DME/DME15/TIFFs/8bitTIFFs/021.tif,[],['diabetic macular edema'],1,0.46935633
+423,423,OCT14_DUKE_DME/DME15/TIFFs/8bitTIFFs/026.tif,[],['diabetic macular edema'],1,0.14052303
+424,424,OCT14_DUKE_DME/DME15/TIFFs/8bitTIFFs/028.tif,[],['diabetic macular edema'],1,0.25264835
+425,425,OCT14_DUKE_DME/DME15/TIFFs/8bitTIFFs/024.tif,[],['diabetic macular edema'],1,0.3169195
+426,426,OCT14_DUKE_DME/DME15/TIFFs/8bitTIFFs/027.tif,[],['diabetic macular edema'],1,0.11639532
+427,427,OCT14_DUKE_DME/DME15/TIFFs/8bitTIFFs/022.tif,[],['diabetic macular edema'],1,0.5160005
+428,428,OCT14_DUKE_DME/DME15/TIFFs/8bitTIFFs/023.tif,[],['diabetic macular edema'],1,0.48156977
+429,429,OCT14_DUKE_DME/DME1/TIFFs/8bitTIFFs/029.tif,[],['diabetic macular edema'],1,0.1661679
+430,430,OCT14_DUKE_DME/DME1/TIFFs/8bitTIFFs/025.tif,[],['diabetic macular edema'],1,0.2770034
+431,431,OCT14_DUKE_DME/DME1/TIFFs/8bitTIFFs/030.tif,[],['diabetic macular edema'],1,0.0465628
+432,432,OCT14_DUKE_DME/DME1/TIFFs/8bitTIFFs/020.tif,[],['diabetic macular edema'],1,0.057770576
+433,433,OCT14_DUKE_DME/DME1/TIFFs/8bitTIFFs/021.tif,[],['diabetic macular edema'],1,0.14955433
+434,434,OCT14_DUKE_DME/DME1/TIFFs/8bitTIFFs/026.tif,[],['diabetic macular edema'],1,0.3601231
+435,435,OCT14_DUKE_DME/DME1/TIFFs/8bitTIFFs/028.tif,[],['diabetic macular edema'],1,0.53302634
+436,436,OCT14_DUKE_DME/DME1/TIFFs/8bitTIFFs/024.tif,[],['diabetic macular edema'],1,0.07201369
+437,437,OCT14_DUKE_DME/DME1/TIFFs/8bitTIFFs/027.tif,[],['diabetic macular edema'],1,0.2864285
+438,438,OCT14_DUKE_DME/DME1/TIFFs/8bitTIFFs/022.tif,[],['diabetic macular edema'],1,0.14794657
+439,439,OCT14_DUKE_DME/DME1/TIFFs/8bitTIFFs/023.tif,[],['diabetic macular edema'],1,0.12989071
+440,440,OCT14_DUKE_DME/DME9/TIFFs/8bitTIFFs/029.tif,[],['diabetic macular edema'],1,0.22140685
+441,441,OCT14_DUKE_DME/DME9/TIFFs/8bitTIFFs/025.tif,[],['diabetic macular edema'],1,0.10615903
+442,442,OCT14_DUKE_DME/DME9/TIFFs/8bitTIFFs/030.tif,[],['diabetic macular edema'],1,0.48013917
+443,443,OCT14_DUKE_DME/DME9/TIFFs/8bitTIFFs/020.tif,[],['diabetic macular edema'],1,0.5260144
+444,444,OCT14_DUKE_DME/DME9/TIFFs/8bitTIFFs/021.tif,[],['diabetic macular edema'],1,0.5064834
+445,445,OCT14_DUKE_DME/DME9/TIFFs/8bitTIFFs/026.tif,[],['diabetic macular edema'],1,0.11869061
+446,446,OCT14_DUKE_DME/DME9/TIFFs/8bitTIFFs/028.tif,[],['diabetic macular edema'],1,0.32827333
+447,447,OCT14_DUKE_DME/DME9/TIFFs/8bitTIFFs/024.tif,[],['diabetic macular edema'],1,0.13032378
+448,448,OCT14_DUKE_DME/DME9/TIFFs/8bitTIFFs/027.tif,[],['diabetic macular edema'],1,0.11592076
+449,449,OCT14_DUKE_DME/DME9/TIFFs/8bitTIFFs/022.tif,[],['diabetic macular edema'],1,0.35138008
+450,450,OCT14_DUKE_DME/DME9/TIFFs/8bitTIFFs/023.tif,[],['diabetic macular edema'],1,0.46062705
+451,451,OCT14_DUKE_DME/AMD10/TIFFs/8bitTIFFs/029.tif,[],['age related macular degeneration'],1,0.48233104
+452,452,OCT14_DUKE_DME/AMD10/TIFFs/8bitTIFFs/025.tif,[],['age related macular degeneration'],1,0.67786384
+453,453,OCT14_DUKE_DME/AMD10/TIFFs/8bitTIFFs/030.tif,[],['age related macular degeneration'],1,0.66543406
+454,454,OCT14_DUKE_DME/AMD10/TIFFs/8bitTIFFs/020.tif,[],['age related macular degeneration'],1,0.6615944
+455,455,OCT14_DUKE_DME/AMD10/TIFFs/8bitTIFFs/021.tif,[],['age related macular degeneration'],1,0.92413604
+456,456,OCT14_DUKE_DME/AMD10/TIFFs/8bitTIFFs/026.tif,[],['age related macular degeneration'],1,0.49931684
+457,457,OCT14_DUKE_DME/AMD10/TIFFs/8bitTIFFs/028.tif,[],['age related macular degeneration'],1,0.22802731
+458,458,OCT14_DUKE_DME/AMD10/TIFFs/8bitTIFFs/024.tif,[],['age related macular degeneration'],1,0.7333152
+459,459,OCT14_DUKE_DME/AMD10/TIFFs/8bitTIFFs/027.tif,[],['age related macular degeneration'],1,0.32613817
+460,460,OCT14_DUKE_DME/AMD10/TIFFs/8bitTIFFs/022.tif,[],['age related macular degeneration'],1,0.46638447
+461,461,OCT14_DUKE_DME/AMD10/TIFFs/8bitTIFFs/023.tif,[],['age related macular degeneration'],1,0.3072225
+462,462,OCT14_DUKE_DME/DME3/TIFFs/8bitTIFFs/029.tif,[],['diabetic macular edema'],1,0.09424419
+463,463,OCT14_DUKE_DME/DME3/TIFFs/8bitTIFFs/025.tif,[],['diabetic macular edema'],1,0.13879678
+464,464,OCT14_DUKE_DME/DME3/TIFFs/8bitTIFFs/030.tif,[],['diabetic macular edema'],1,0.04589402
+465,465,OCT14_DUKE_DME/DME3/TIFFs/8bitTIFFs/020.tif,[],['diabetic macular edema'],1,0.24556567
+466,466,OCT14_DUKE_DME/DME3/TIFFs/8bitTIFFs/021.tif,[],['diabetic macular edema'],1,0.23170584
+467,467,OCT14_DUKE_DME/DME3/TIFFs/8bitTIFFs/026.tif,[],['diabetic macular edema'],1,0.22814515
+468,468,OCT14_DUKE_DME/DME3/TIFFs/8bitTIFFs/028.tif,[],['diabetic macular edema'],1,0.113961555
+469,469,OCT14_DUKE_DME/DME3/TIFFs/8bitTIFFs/024.tif,[],['diabetic macular edema'],1,0.07980977
+470,470,OCT14_DUKE_DME/DME3/TIFFs/8bitTIFFs/027.tif,[],['diabetic macular edema'],1,0.23711804
+471,471,OCT14_DUKE_DME/DME3/TIFFs/8bitTIFFs/022.tif,[],['diabetic macular edema'],1,0.18697788
+472,472,OCT14_DUKE_DME/DME3/TIFFs/8bitTIFFs/023.tif,[],['diabetic macular edema'],1,0.13841823
+473,473,OCT14_DUKE_DME/AMD15/TIFFs/8bitTIFFs/029.tif,[],['age related macular degeneration'],1,0.16022621
+474,474,OCT14_DUKE_DME/AMD15/TIFFs/8bitTIFFs/025.tif,[],['age related macular degeneration'],1,0.33397463
+475,475,OCT14_DUKE_DME/AMD15/TIFFs/8bitTIFFs/030.tif,[],['age related macular degeneration'],1,0.22190794
+476,476,OCT14_DUKE_DME/AMD15/TIFFs/8bitTIFFs/020.tif,[],['age related macular degeneration'],1,0.45341694
+477,477,OCT14_DUKE_DME/AMD15/TIFFs/8bitTIFFs/021.tif,[],['age related macular degeneration'],1,0.26815772
+478,478,OCT14_DUKE_DME/AMD15/TIFFs/8bitTIFFs/026.tif,[],['age related macular degeneration'],1,0.28368542
+479,479,OCT14_DUKE_DME/AMD15/TIFFs/8bitTIFFs/028.tif,[],['age related macular degeneration'],1,0.5853229
+480,480,OCT14_DUKE_DME/AMD15/TIFFs/8bitTIFFs/024.tif,[],['age related macular degeneration'],1,0.3368066
+481,481,OCT14_DUKE_DME/AMD15/TIFFs/8bitTIFFs/027.tif,[],['age related macular degeneration'],1,0.30142692
+482,482,OCT14_DUKE_DME/AMD15/TIFFs/8bitTIFFs/022.tif,[],['age related macular degeneration'],1,0.43781906
+483,483,OCT14_DUKE_DME/AMD15/TIFFs/8bitTIFFs/023.tif,[],['age related macular degeneration'],1,0.22403286
+484,484,OCT14_DUKE_DME/NORMAL11/TIFFs/8bitTIFFs/029.tif,[],['normal'],1,0.08134911836451346
+485,485,OCT14_DUKE_DME/NORMAL11/TIFFs/8bitTIFFs/025.tif,[],['normal'],1,0.16637946398991924
+486,486,OCT14_DUKE_DME/NORMAL11/TIFFs/8bitTIFFs/030.tif,[],['normal'],1,0.1287324569720165
+487,487,OCT14_DUKE_DME/NORMAL11/TIFFs/8bitTIFFs/020.tif,[],['normal'],1,0.06618186457193503
+488,488,OCT14_DUKE_DME/NORMAL11/TIFFs/8bitTIFFs/021.tif,[],['normal'],1,0.06789348950999552
+489,489,OCT14_DUKE_DME/NORMAL11/TIFFs/8bitTIFFs/026.tif,[],['normal'],1,0.13509258093133794
+490,490,OCT14_DUKE_DME/NORMAL11/TIFFs/8bitTIFFs/028.tif,[],['normal'],1,0.055707638210814724
+491,491,OCT14_DUKE_DME/NORMAL11/TIFFs/8bitTIFFs/024.tif,[],['normal'],1,0.10188207340203961
+492,492,OCT14_DUKE_DME/NORMAL11/TIFFs/8bitTIFFs/027.tif,[],['normal'],1,0.0792251662173188
+493,493,OCT14_DUKE_DME/NORMAL11/TIFFs/8bitTIFFs/022.tif,[],['normal'],1,0.1410638368232759
+494,494,OCT14_DUKE_DME/NORMAL11/TIFFs/8bitTIFFs/023.tif,[],['normal'],1,0.07042265771020875

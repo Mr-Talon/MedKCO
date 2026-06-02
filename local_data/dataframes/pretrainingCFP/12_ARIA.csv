@@ -1,0 +1,130 @@
+,Unnamed: 0,image,atributes,categories,stage,img_norm_r
+0,0,12_ARIA/images//aria_d_23_1.tif,[],['diabetic retinopathy'],3,0.46345982
+1,1,12_ARIA/images//aria_d_17_2.tif,[],['diabetic retinopathy'],2,0.52717006
+2,2,12_ARIA/images//aria_a_11_30.tif,[],['age-related macular degeneration'],3,0.30334145
+3,3,12_ARIA/images//aria_d_5_2.tif,[],['diabetic retinopathy'],3,0.3620574
+4,4,12_ARIA/images//aria_c_5_1.tif,[],['normal'],3,0.26255488
+5,5,12_ARIA/images//aria_d_15_2.tif,[],['diabetic retinopathy'],3,0.37620273
+6,6,12_ARIA/images//aria_d_8_23.tif,[],['diabetic retinopathy'],3,0.4282063
+7,7,12_ARIA/images//aria_d_21_2.tif,[],['diabetic retinopathy'],3,0.3579279
+8,8,12_ARIA/images//aria_c_39_a_10.tif,[],['normal'],4,0.22768955
+9,9,12_ARIA/images//aria_c_7_2.tif,[],['normal'],4,0.20142242
+10,10,12_ARIA/images//aria_d_6_3.tif,[],['diabetic retinopathy'],2,0.6369436
+11,11,12_ARIA/images//aria_d_12_2.tif,[],['diabetic retinopathy'],2,0.56248367
+12,12,12_ARIA/images//aria_c_22_9.tif,[],['normal'],3,0.41783014
+13,13,12_ARIA/images//aria_c_32_21.tif,[],['normal'],4,0.24743244
+14,14,12_ARIA/images//aria_c_40_b_14.tif,[],['normal'],4,0.2290818
+15,15,12_ARIA/images//aria_d_21_21.tif,[],['diabetic retinopathy'],3,0.4299791
+16,16,12_ARIA/images//aria_d_1_19.tif,[],['diabetic retinopathy'],3,0.33766496
+17,17,12_ARIA/images//aria_a_20_6.tif,[],['age-related macular degeneration'],3,0.31624275
+18,18,12_ARIA/images//aria_c_23_4.tif,[],['normal'],3,0.25888267
+19,19,12_ARIA/images//(0018)aria_d_26.tif,[],['diabetic retinopathy'],3,0.47334626
+20,20,12_ARIA/images//aria_c_23_23.tif,[],['normal'],3,0.49759856
+21,21,12_ARIA/images//(0026)aria_d_27.tif,[],['diabetic retinopathy'],3,0.41306046
+22,22,12_ARIA/images//aria_c_24_2.tif,[],['normal'],3,0.2879422
+23,23,12_ARIA/images//aria_d_13_2.tif,[],['diabetic retinopathy'],3,0.33228302
+24,24,12_ARIA/images//aria_d_22_22.tif,[],['diabetic retinopathy'],2,0.6557535
+25,25,12_ARIA/images//aria_c_45_12.tif,[],['normal'],3,0.2591624
+26,26,12_ARIA/images//aria_c_20_10.tif,[],['normal'],3,0.35282567
+27,27,12_ARIA/images//aria_d_17_12.tif,[],['diabetic retinopathy'],3,0.38161325
+28,28,12_ARIA/images//aria_c_6_5.tif,[],['normal'],3,0.2822913
+29,29,12_ARIA/images//aria_c_21_3.tif,[],['normal'],4,0.16011211
+30,30,12_ARIA/images//aria_a_39_1.tif,[],['age-related macular degeneration'],3,0.33369467
+31,31,12_ARIA/images//aria_c_2_3.tif,[],['normal'],3,0.34826896
+32,32,12_ARIA/images//aria_c_40_a_6.tif,[],['normal'],3,0.28832757
+33,33,12_ARIA/images//aria_d_11_1.tif,[],['diabetic retinopathy'],2,0.58428335
+34,34,12_ARIA/images//aria_c_47_15.tif,[],['normal'],3,0.41724482
+35,35,12_ARIA/images//aria_d_24_6.tif,[],['diabetic retinopathy'],3,0.28724706
+36,36,12_ARIA/images//aria_c_47_2.tif,[],['normal'],3,0.30974567
+37,37,12_ARIA/images//aria_a_34_6.tif,[],['age-related macular degeneration'],3,0.34137583
+38,38,12_ARIA/images//aria_c_41_3.tif,[],['normal'],3,0.3056943
+39,39,12_ARIA/images//aria_d_14_20.tif,[],['diabetic retinopathy'],3,0.29704383
+40,40,12_ARIA/images//aria_a_15_35.tif,[],['age-related macular degeneration'],3,0.31049046
+41,41,12_ARIA/images//aria_d_12_20.tif,[],['diabetic retinopathy'],3,0.39184707
+42,42,12_ARIA/images//aria_d_13_22.tif,[],['diabetic retinopathy'],3,0.34684134
+43,43,12_ARIA/images//(0003)aria_d_29.tif,[],['diabetic retinopathy'],3,0.34893987
+44,44,12_ARIA/images//aria_d_3_33.tif,[],['diabetic retinopathy'],3,0.38978043
+45,45,12_ARIA/images//aria_a_13_22.tif,[],['age-related macular degeneration'],2,0.7465922
+46,46,12_ARIA/images//(0007)aria_d_28.tif,[],['diabetic retinopathy'],3,0.4579092
+47,47,12_ARIA/images//(0004)aria_d_28.tif,[],['diabetic retinopathy'],2,0.7243805
+48,48,12_ARIA/images//aria_c_1_8.tif,[],['normal'],3,0.30435917
+49,49,12_ARIA/images//aria_a_11_6.tif,[],['age-related macular degeneration'],3,0.38927028
+50,50,12_ARIA/images//aria_c_24_12.tif,[],['normal'],4,0.21497379
+51,51,12_ARIA/images//aria_a_12_34.tif,[],['age-related macular degeneration'],3,0.40867606
+52,52,12_ARIA/images//aria_c_46_12.tif,[],['normal'],4,0.19535883
+53,53,12_ARIA/images//aria_d_9_24.tif,[],['diabetic retinopathy'],3,0.4214002
+54,54,12_ARIA/images//aria_d_6_11.tif,[],['diabetic retinopathy'],2,0.73190403
+55,55,12_ARIA/images//aria_c_9_1.tif,[],['normal'],3,0.40072703
+56,56,12_ARIA/images//aria_c_35_27.tif,[],['normal'],3,0.27866006
+57,57,12_ARIA/images//aria_c_36_4.tif,[],['normal'],3,0.27010673
+58,58,12_ARIA/images//aria_c_45_2.tif,[],['normal'],3,0.33201808
+59,59,12_ARIA/images//aria_c_6_2.tif,[],['normal'],3,0.29492652
+60,60,12_ARIA/images//aria_c_26_15.tif,[],['normal'],3,0.3371674
+61,61,12_ARIA/images//aria_d_18_2.tif,[],['diabetic retinopathy'],3,0.3331764
+62,62,12_ARIA/images//aria_c_2_8.tif,[],['normal'],4,0.14221746
+63,63,12_ARIA/images//aria_c_20_1.tif,[],['normal'],3,0.26560447
+64,64,12_ARIA/images//aria_c_38_42.tif,[],['normal'],4,0.2195188
+65,65,12_ARIA/images//aria_d_4_5.tif,[],['diabetic retinopathy'],3,0.4265198
+66,66,12_ARIA/images//aria_d_11_22.tif,[],['diabetic retinopathy'],3,0.43316424
+67,67,12_ARIA/images//aria_c_38_2.tif,[],['normal'],4,0.21966311
+68,68,12_ARIA/images//aria_a_27_11.tif,[],['age-related macular degeneration'],3,0.3004256
+69,69,12_ARIA/images//aria_a_42_1.tif,[],['age-related macular degeneration'],3,0.31210783
+70,70,12_ARIA/images//aria_c_43_1.tif,[],['normal'],3,0.32110423
+71,71,12_ARIA/images//aria_c_21_12.tif,[],['normal'],4,0.23098002
+72,72,12_ARIA/images//aria_a_56_1.tif,[],['age-related macular degeneration'],3,0.28539494
+73,73,12_ARIA/images//aria_c_26_2.tif,[],['normal'],3,0.3559084
+74,74,12_ARIA/images//aria_c_22_1.tif,[],['normal'],3,0.3831182
+75,75,12_ARIA/images//aria_c_5_4.tif,[],['normal'],4,0.19678448
+76,76,12_ARIA/images//aria_c_25_1.tif,[],['normal'],4,0.21246105
+77,77,12_ARIA/images//aria_d_25_2.tif,[],['diabetic retinopathy'],3,0.27783513
+78,78,12_ARIA/images//aria_c_35_26.tif,[],['normal'],3,0.3408527
+79,79,12_ARIA/images//aria_a_46_14.tif,[],['age-related macular degeneration'],3,0.35856542
+80,80,12_ARIA/images//aria_a_10_27.tif,[],['age-related macular degeneration'],3,0.36236376
+81,81,12_ARIA/images//aria_c_34_1.tif,[],['normal'],3,0.32603368
+82,82,12_ARIA/images//aria_c_31_20.tif,[],['normal'],4,0.23710679
+83,83,12_ARIA/images//aria_d_22_2.tif,[],['diabetic retinopathy'],1,0.79585916
+84,84,12_ARIA/images//aria_c_9_6.tif,[],['normal'],3,0.30499932
+85,85,12_ARIA/images//aria_c_4_8.tif,[],['normal'],3,0.25164077
+86,86,12_ARIA/images//aria_d_9_3.tif,[],['diabetic retinopathy'],3,0.43986118
+87,87,12_ARIA/images//aria_d_7_17.tif,[],['diabetic retinopathy'],3,0.4255948
+88,88,12_ARIA/images//aria_d_20_2.tif,[],['diabetic retinopathy'],2,0.562666
+89,89,12_ARIA/images//aria_d_7_22.tif,[],['diabetic retinopathy'],2,0.55115753
+90,90,12_ARIA/images//aria_d_16_2.tif,[],['diabetic retinopathy'],3,0.37154976
+91,91,12_ARIA/images//aria_c_4_1.tif,[],['normal'],3,0.30021355
+92,92,12_ARIA/images//aria_d_10_19.tif,[],['diabetic retinopathy'],3,0.4907343
+93,93,12_ARIA/images//aria_c_41_15.tif,[],['normal'],3,0.41214913
+94,94,12_ARIA/images//aria_c_25_10.tif,[],['normal'],4,0.2066144
+95,95,12_ARIA/images//aria_c_30_2.tif,[],['normal'],4,0.24356475
+96,96,12_ARIA/images//aria_d_25_33.tif,[],['diabetic retinopathy'],3,0.38110656
+97,97,12_ARIA/images//aria_d_2_6.tif,[],['diabetic retinopathy'],3,0.43859553
+98,98,12_ARIA/images//aria_c_28_19.tif,[],['normal'],4,0.19138294
+99,99,12_ARIA/images//aria_d_3_32.tif,[],['diabetic retinopathy'],3,0.3639791
+100,100,12_ARIA/images//aria_c_44_12.tif,[],['normal'],2,0.5323526
+101,101,12_ARIA/images//aria_c_31_2.tif,[],['normal'],3,0.28809997
+102,102,12_ARIA/images//aria_a_14_19.tif,[],['age-related macular degeneration'],3,0.33839896
+103,103,12_ARIA/images//aria_a_14_11.tif,[],['age-related macular degeneration'],3,0.38368154
+104,104,12_ARIA/images//aria_d_2_31.tif,[],['diabetic retinopathy'],3,0.46489537
+105,105,12_ARIA/images//(0001)aria_d_26.tif,[],['diabetic retinopathy'],3,0.3186931
+106,106,12_ARIA/images//aria_c_36_44.tif,[],['normal'],4,0.24207835
+107,107,12_ARIA/images//aria_a_9_43.tif,[],['age-related macular degeneration'],3,0.30583656
+108,108,12_ARIA/images//aria_a_10_10.tif,[],['age-related macular degeneration'],3,0.3785601
+109,109,12_ARIA/images//aria_c_27_3.tif,[],['normal'],4,0.21833882
+110,110,12_ARIA/images//aria_a_13_2.tif,[],['age-related macular degeneration'],3,0.47789997
+111,111,12_ARIA/images//(0024)aria_d_30.tif,[],['diabetic retinopathy'],3,0.32993245
+112,112,12_ARIA/images//aria_c_32_2.tif,[],['normal'],3,0.29178104
+113,113,12_ARIA/images//aria_d_20_17.tif,[],['diabetic retinopathy'],3,0.34631413
+114,114,12_ARIA/images//(0031)aria_c_37.tif,[],['normal'],3,0.40267408
+115,115,12_ARIA/images//aria_a_5_9.tif,[],['age-related macular degeneration'],3,0.265252
+116,116,12_ARIA/images//(0001)aria_d_27.tif,[],['diabetic retinopathy'],2,0.64692533
+117,117,12_ARIA/images//aria_d_8_2.tif,[],['diabetic retinopathy'],3,0.43403774
+118,118,12_ARIA/images//aria_c_20_18.tif,[],['normal'],3,0.31491235
+119,119,12_ARIA/images//aria_c_35_2.tif,[],['normal'],3,0.28428733
+120,120,12_ARIA/images//aria_d_18_21.tif,[],['diabetic retinopathy'],3,0.48310116
+121,121,12_ARIA/images//aria_a_12_15.tif,[],['age-related macular degeneration'],3,0.27772954
+122,122,12_ARIA/images//aria_d_16_22.tif,[],['diabetic retinopathy'],3,0.30959383
+123,123,12_ARIA/images//aria_d_5_22.tif,[],['diabetic retinopathy'],1,0.7742508
+124,124,12_ARIA/images//aria_c_44_3.tif,[],['normal'],3,0.36782673
+125,125,12_ARIA/images//aria_d_15_22.tif,[],['diabetic retinopathy'],3,0.3111741
+126,126,12_ARIA/images//aria_d_3_2.tif,[],['diabetic retinopathy'],2,0.71467453
+127,127,12_ARIA/images//aria_d_4_31.tif,[],['diabetic retinopathy'],3,0.48735836
+128,128,12_ARIA/images//aria_c_1_7.tif,[],['normal'],4,0.19878806

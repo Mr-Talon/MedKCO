@@ -17,84 +17,14 @@
           </mappings>
         </serverdata>
       </paths>
-      <paths name="PALM4卡">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/mnt/data/zcr/SPCL_found" local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </paths>
       <paths name="PALMA6000">
         <serverdata>
           <mappings>
-            <mapping deploy="/data/crzhang/SPCL_found" local="$PROJECT_DIR$" />
+            <mapping deploy="/data/crzhang/MedKCO" local="$PROJECT_DIR$" />
           </mappings>
         </serverdata>
       </paths>
-      <paths name="PALMA6000 (10)">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="PALMA6000 (11)">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="PALMA6000 (2)">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="PALMA6000 (3)">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/data/crzhang/SPCL_found" local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="PALMA6000 (4)">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="PALMA6000 (5)">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="PALMA6000 (6)">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="PALMA6000 (7)">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/data/crzhang/SPCL_found" local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="PALMA6000 (8)">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="PALMA6000 (9)">
+      <paths name="PALMA6000 (12)">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />

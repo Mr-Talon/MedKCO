@@ -1,6 +1,6 @@
-PATH_DATASETS = "../Datasets/FUNDUS/"      # A directory at the same level of the project (../Datasets/CXR/)
+PATH_DATASETS = "../Datasets/CFP/"      # TODO A directory at the same level of the project (../Datasets/CXR/)
 
-PATH_DATAFRAME_PRETRAIN = "./local_data/dataframes/pretrainingCFP/"     # OCT/CXR
+PATH_DATAFRAME_PRETRAIN = "./local_data/dataframes/pretrainingCFP/"     # TODO OCT/CXR
 
 PATH_DATAFRAME_TRANSFERABILITY = "./local_data/dataframes/transferability/"
 PATH_DATAFRAME_TRANSFERABILITY_CLASSIFICATION = PATH_DATAFRAME_TRANSFERABILITY + "classification/"

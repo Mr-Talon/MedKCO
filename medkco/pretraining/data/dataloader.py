@@ -10,48 +10,52 @@ from medkco.pretraining.data.transforms import LoadImage, SelectRelevantKeys, Co
 
 def get_loader(dataframes_path, data_root_path, datasets, balance=False, batch_size=8, num_workers=0,
                banned_categories=None, caption="A fundus photograph of [CLS]", augment_description=True,
-               test_code=False, SPCL=False, epoch=1):
+               test_code=False, SPCL=False, epoch=1, modality="CFP"):
     # CFP
-    easy_cls = ["hard exudates", "soft exudates", "microaneurysms", "haemorrhages", "media haze", "drusens", "tessellation",
-                "laser scar", "optic disc cupping", "tortuous vessels", "asteroid hyalosis", "optic disc pallor", "exudates",
-                "cotton wool spots", "colobomas", "preretinal haemorrhage", "myelinated nerve fibers", "tilted disc",
-                "vitreous haemorrhage", "large optic cup", "optic atrophy", "fibrosis", "silicon oil", "scar", "nevus",
-                "red small dots"]
-    mid_cls = ["no diabetic retinopathy", "mild diabetic retinopathy", "moderate diabetic retinopathy", "severe diabetic retinopathy",
-               "proliferative diabetic retinopathy", "age-related macular degeneration", "pathologic myopia",
-               "branch retinal vein occlusion", "epiretinal membrane", "macular scar", "central retinal vein occlusion",
-               "optic disc edema", "shunt", "retinal traction", "retinitis", "retinal pigment epithelium changes",
-               "retinitis pigmentosa", "haemorrhagic retinopathy", "central retinal artery occlusion",
-               "post traumatic choroidal rupture", "choroidal folds", "vasculitis", "branch retinal artery occlusion",
-               "plaque", "collaterals", "maculopathy", "severe hypertensive retinopathy", "disc swelling and elevation",
-               "dragged disk", "congenital disk abnormality", "peripheral retinal degeneration and break", "yellow-white spots flecks",
-               "no proliferative diabetic retinopathy", "hypertensive retinopathy", "geographical age-related macular degeneration",
-               "abnormal optic disc", "abnormal vessels", "abnormal macula", "macular edema", "increased cup disc",
-               "a disease", "intraretinal microvascular abnormalities", "retina detachment", "normal"]
-    hard_cls = ["diabetic macular edema", "no referable diabetic macular edema", "non clinically significant diabetic macular edema",
-                "central serous retinopathy", "anterior ischemic optic neuropathy", "parafoveal telangiectasia", "chorioretinitis",
-                "macular hole", "optic disc pit maculopathy", "haemorrhagic pigment epithelial detachment", "Vogt-Koyanagi syndrome",
-                "glaucoma", "Bietti crystalline dystrophy", "neoplasm", "no glaucoma", "neovascular age-related macular degeneration",
-                "cataract", "no cataract", "macroaneurysm", "cystoid macular edema", "acute central serous retinopathy",
-                "chronic central serous retinopathy", "neovascularisation"]
+    if modality=="CFP":
+        easy_cls = ["hard exudates", "soft exudates", "microaneurysms", "haemorrhages", "media haze", "drusens", "tessellation",
+                    "laser scar", "optic disc cupping", "tortuous vessels", "asteroid hyalosis", "optic disc pallor", "exudates",
+                    "cotton wool spots", "colobomas", "preretinal haemorrhage", "myelinated nerve fibers", "tilted disc",
+                    "vitreous haemorrhage", "large optic cup", "optic atrophy", "fibrosis", "silicon oil", "scar", "nevus",
+                    "red small dots"]
+        mid_cls = ["no diabetic retinopathy", "mild diabetic retinopathy", "moderate diabetic retinopathy", "severe diabetic retinopathy",
+                   "proliferative diabetic retinopathy", "age-related macular degeneration", "pathologic myopia",
+                   "branch retinal vein occlusion", "epiretinal membrane", "macular scar", "central retinal vein occlusion",
+                   "optic disc edema", "shunt", "retinal traction", "retinitis", "retinal pigment epithelium changes",
+                   "retinitis pigmentosa", "haemorrhagic retinopathy", "central retinal artery occlusion",
+                   "post traumatic choroidal rupture", "choroidal folds", "vasculitis", "branch retinal artery occlusion",
+                   "plaque", "collaterals", "maculopathy", "severe hypertensive retinopathy", "disc swelling and elevation",
+                   "dragged disk", "congenital disk abnormality", "peripheral retinal degeneration and break", "yellow-white spots flecks",
+                   "no proliferative diabetic retinopathy", "hypertensive retinopathy", "geographical age-related macular degeneration",
+                   "abnormal optic disc", "abnormal vessels", "abnormal macula", "macular edema", "increased cup disc",
+                   "a disease", "intraretinal microvascular abnormalities", "retina detachment", "normal"]
+        hard_cls = ["diabetic macular edema", "no referable diabetic macular edema", "non clinically significant diabetic macular edema",
+                    "central serous retinopathy", "anterior ischemic optic neuropathy", "parafoveal telangiectasia", "chorioretinitis",
+                    "macular hole", "optic disc pit maculopathy", "haemorrhagic pigment epithelial detachment", "Vogt-Koyanagi syndrome",
+                    "glaucoma", "Bietti crystalline dystrophy", "neoplasm", "no glaucoma", "neovascular age-related macular degeneration",
+                    "cataract", "no cataract", "macroaneurysm", "cystoid macular edema", "acute central serous retinopathy",
+                    "chronic central serous retinopathy", "neovascularisation"]
 
     # OCT
-    # easy_cls = ["macular hole stage3", "macular hole stage4", "vitreomacular Interface Disease", "epiretinal membrane"]
-    # mid_cls = ["age related macular degeneration", "drusen", "diabetic macular edema", "macular hole stage1",
-    #            "macular hole stage2", "normal", "macular hole", "central serous retinopathy", "choroidal neovascularization"]
-    # hard_cls = ["glaucoma", "diabetic retinopathy", "retinal artery occlusion", "retinal vein occlusion"]
+    elif modality=="OCT":
+        easy_cls = ["macular hole stage3", "macular hole stage4", "vitreomacular Interface Disease", "epiretinal membrane"]
+        mid_cls = ["age related macular degeneration", "drusen", "diabetic macular edema", "macular hole stage1",
+                   "macular hole stage2", "normal", "macular hole", "central serous retinopathy", "choroidal neovascularization"]
+        hard_cls = ["glaucoma", "diabetic retinopathy", "retinal artery occlusion", "retinal vein occlusion"]
 
     # CXR
-    # easy_cls =['Lung Opacity', 'Consolidation', 'Support Devices']
-    # mid_cls =['No Finding', 'Enlarged Cardiomediastinum', 'Cardiomegaly', 'Edema', 'Pneumonia', 'Atelectasis', 'Pneumothorax',
-    #           'Pleural Effusion', 'Emphysema', 'Hernia', 'Infiltration', 'Mass']
-    # hard_cls = ['Lung Lesion', 'Pleural Other', 'Fracture', 'Fibrosis', 'Nodule', 'Pleural_Thickening']
+    elif modality=="CXR":
+        easy_cls =['Lung Opacity', 'Consolidation', 'Support Devices']
+        mid_cls =['No Finding', 'Enlarged Cardiomediastinum', 'Cardiomegaly', 'Edema', 'Pneumonia', 'Atelectasis', 'Pneumothorax',
+                  'Pleural Effusion', 'Emphysema', 'Hernia', 'Infiltration', 'Mass']
+        hard_cls = ['Lung Lesion', 'Pleural Other', 'Fracture', 'Fibrosis', 'Nodule', 'Pleural_Thickening']
 
     transforms = Compose([
         CopyDict(),
         LoadImage(),
+        # ImageScaling(),
         ProduceDescription(caption=caption),
-        AugmentDescription(augment=augment_description),
+        AugmentDescription(augment=augment_description, modality=modality),
         SelectRelevantKeys()
     ])
 

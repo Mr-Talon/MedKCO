@@ -1,0 +1,46 @@
+,Unnamed: 0,image,atributes,categories,stage,img_norm_r
+0,0,23_HRF/images/03_dr.JPG,[],['diabetic retinopathy'],2,0.6565078
+1,1,23_HRF/images/01_g.jpg,[],['glaucoma'],3,0.33870193
+2,2,23_HRF/images/14_dr.JPG,[],['diabetic retinopathy'],3,0.44164494
+3,3,23_HRF/images/15_h.jpg,[],['normal'],3,0.28458762
+4,4,23_HRF/images/05_dr.JPG,[],['diabetic retinopathy'],1,0.7770911
+5,5,23_HRF/images/10_dr.JPG,[],['diabetic retinopathy'],2,0.56430054
+6,6,23_HRF/images/09_g.jpg,[],['glaucoma'],3,0.32896778
+7,7,23_HRF/images/10_h.jpg,[],['normal'],3,0.29755363
+8,8,23_HRF/images/02_h.jpg,[],['normal'],3,0.4119366
+9,9,23_HRF/images/15_g.jpg,[],['glaucoma'],4,0.22008963
+10,10,23_HRF/images/09_dr.JPG,[],['diabetic retinopathy'],3,0.4336915
+11,11,23_HRF/images/11_h.jpg,[],['normal'],2,0.5598235
+12,12,23_HRF/images/05_g.jpg,[],['glaucoma'],3,0.34857246
+13,13,23_HRF/images/12_h.jpg,[],['normal'],3,0.3110253
+14,14,23_HRF/images/04_dr.JPG,[],['diabetic retinopathy'],3,0.3332805
+15,15,23_HRF/images/04_h.jpg,[],['normal'],2,0.5045117
+16,16,23_HRF/images/07_dr.JPG,[],['diabetic retinopathy'],2,0.54505724
+17,17,23_HRF/images/10_g.jpg,[],['glaucoma'],3,0.2758147
+18,18,23_HRF/images/12_dr.JPG,[],['diabetic retinopathy'],3,0.25704882
+19,19,23_HRF/images/03_h.jpg,[],['normal'],3,0.26947713
+20,20,23_HRF/images/01_dr.JPG,[],['diabetic retinopathy'],3,0.43115917
+21,21,23_HRF/images/15_dr.JPG,[],['diabetic retinopathy'],3,0.37858683
+22,22,23_HRF/images/02_dr.JPG,[],['diabetic retinopathy'],3,0.39698577
+23,23,23_HRF/images/14_g.jpg,[],['glaucoma'],3,0.3766659
+24,24,23_HRF/images/13_dr.JPG,[],['diabetic retinopathy'],3,0.3292158
+25,25,23_HRF/images/08_h.jpg,[],['normal'],3,0.36951193
+26,26,23_HRF/images/03_g.jpg,[],['glaucoma'],3,0.47707623
+27,27,23_HRF/images/12_g.jpg,[],['glaucoma'],3,0.32967874
+28,28,23_HRF/images/11_g.jpg,[],['glaucoma'],3,0.25120974
+29,29,23_HRF/images/08_g.jpg,[],['glaucoma'],4,0.20181032
+30,30,23_HRF/images/06_h.jpg,[],['normal'],2,0.57444155
+31,31,23_HRF/images/05_h.jpg,[],['normal'],3,0.33004862
+32,32,23_HRF/images/11_dr.JPG,[],['diabetic retinopathy'],2,0.5039461
+33,33,23_HRF/images/02_g.jpg,[],['glaucoma'],3,0.2983625
+34,34,23_HRF/images/01_h.jpg,[],['normal'],2,0.52746916
+35,35,23_HRF/images/13_h.jpg,[],['normal'],3,0.49406618
+36,36,23_HRF/images/06_dr.JPG,[],['diabetic retinopathy'],3,0.26245105
+37,37,23_HRF/images/04_g.jpg,[],['glaucoma'],3,0.34866
+38,38,23_HRF/images/06_g.jpg,[],['glaucoma'],4,0.21550491
+39,39,23_HRF/images/13_g.jpg,[],['glaucoma'],3,0.26807484
+40,40,23_HRF/images/09_h.jpg,[],['normal'],3,0.29245588
+41,41,23_HRF/images/07_h.jpg,[],['normal'],4,0.24321711
+42,42,23_HRF/images/14_h.jpg,[],['normal'],2,0.74156004
+43,43,23_HRF/images/08_dr.JPG,[],['diabetic retinopathy'],4,0.24539413
+44,44,23_HRF/images/07_g.jpg,[],['glaucoma'],3,0.3549246

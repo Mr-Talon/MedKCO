@@ -36,7 +36,7 @@ Clone the whole repository and install the dependencies.
 python main_pretrain.py
 ```
 
-You can use ``text_img_rank.py` to generate dataframes for the description-level curriculum. You need to have already created the initial dataframes based on `./local_data/prepare_partitions.py` , and have a basic model weight for extracting features.
+You can use `text_img_rank.py` to generate dataframes for the description-level curriculum. You need to have already created the initial dataframes based on `./local_data/prepare_partitions.py` , and have a basic model weight for extracting features.
 
 ### 3. Evaluation
 
